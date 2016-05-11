@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/toExplodeView.cs">
+    <Files>
+      <File FileName="Assets/original model/explodeAinmate.cs" Line="23" Column="1" />
+      <File FileName="Assets/script/PlayVideo.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/changeScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/CameraOrbitTool/Scripts/VertPivot_Sphere.js" Line="1" Column="1" />
+      <File FileName="Assets/toExplodeView.cs" Line="15" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
