@@ -1,0 +1,33 @@
+# =============== #
+# Unity generated #
+# =============== #
+AR Demo/Temp/
+AR Demo/Obj/
+AR Demo/UnityGenerated/
+AR Demo/Library/
+AR Demo/Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+AR Demo/*.svd
+AR Demo/*.userprefs
+AR Demo/*.csproj
+AR Demo/*.pidb
+AR Demo/*.suo
+AR Demo/*.sln
+AR Demo/*.user
+AR Demo/*.unityproj
+AR Demo/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+AR Demo/.DS_Store
+AR Demo/.DS_Store?
+AR Demo/._*
+AR Demo/.Spotlight-V100
+AR Demo/.Trashes
+AR Demo/Icon?
+AR Demo/ehthumbs.db
