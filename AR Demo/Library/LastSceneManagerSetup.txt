@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scene/ARview.unity
+- path: Assets/scene/tail_mandrel.unity
   isLoaded: 1
   isActive: 1
