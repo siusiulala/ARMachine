@@ -7,6 +7,12 @@ AR Demo/UnityGenerated/
 AR Demo/Library/
 AR Demo/Assets/AssetStoreTools*
 
+ARToolMachine/Temp/
+ARToolMachine/Obj/
+ARToolMachine/UnityGenerated/
+ARToolMachine/Library/
+ARToolMachine/Assets/AssetStoreTools*
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -21,6 +27,16 @@ AR Demo/*.user
 AR Demo/*.unityproj
 AR Demo/*.booproj
 
+ARToolMachine/*.svd
+ARToolMachine/*.userprefs
+ARToolMachine/*.csproj
+ARToolMachine/*.pidb
+ARToolMachine/*.suo
+ARToolMachine/*.sln
+ARToolMachine/*.user
+ARToolMachine/*.unityproj
+ARToolMachine/*.booproj
+
 # ============ #
 # OS generated #
 # ============ #
@@ -31,3 +47,11 @@ AR Demo/.Spotlight-V100
 AR Demo/.Trashes
 AR Demo/Icon?
 AR Demo/ehthumbs.db
+
+ARToolMachine/.DS_Store
+ARToolMachine/.DS_Store?
+ARToolMachine/._*
+ARToolMachine/.Spotlight-V100
+ARToolMachine/.Trashes
+ARToolMachine/Icon?
+ARToolMachine/ehthumbs.db
