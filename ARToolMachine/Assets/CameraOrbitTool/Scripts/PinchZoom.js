@@ -28,7 +28,15 @@ var maxIn:int = 15;
 var showGUI: boolean = true;
 
 function Update () {
-	
+	// For NGUI
+
+		if(Input.mousePosition.x<200 || Input.mousePosition.x+200>Screen.width)
+		{
+			print(Input.mousePosition.x);
+			return;
+		}
+
+		//
 	// this part of the script is for touch enabled devices (mobile phone / tablet).
 	if (Input.touchCount == 2 && Input.GetTouch(0).phase == TouchPhase.Moved && Input.GetTouch(1).phase == TouchPhase.Moved) 
 	{

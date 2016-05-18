@@ -15,10 +15,24 @@ private var xAxis:float = 0.0;
 private var lastTouch:int = 0;
 
 function Update () {
+	// For NGUI
+
+		if(Input.GetMouseButton(0) && (Input.mousePosition.x<200 || Input.mousePosition.x+200>Screen.width))
+		{
+			print(Input.mousePosition.x);
+			lastTouch = 0;
+			holdTimer = 0;
+			return;
+		}
+
+		//
+
 	if(Input.touchCount < 2 && lastTouch < 2) {
 		if(Input.touchCount == 0) lastTouch = 0;
 		// adds up the timer everytime the user holds the left mouse button/one finger touch in mobile device
 		if(Input.GetMouseButton(0)) holdTimer++;
+
+
 		
 		// if the user hold for more than 3 frame, record the mouse x-axis
 		if (Input.GetMouseButton(0) && holdTimer > 3)

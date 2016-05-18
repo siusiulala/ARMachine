@@ -39,7 +39,15 @@ function Start () {
 }
 
 function Update () {
-	
+	// For NGUI
+
+		if(Input.GetMouseButton(0) && (Input.mousePosition.x<200 || Input.mousePosition.x+200>Screen.width))
+		{
+			print(Input.mousePosition.x);
+			return;
+		}
+
+		//
 	if(Input.GetMouseButton(0)) holdTimer++;
 	
 	// if the user hold for more than 3 frame, record the mouse y-axis
