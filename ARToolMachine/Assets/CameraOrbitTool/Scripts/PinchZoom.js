@@ -32,7 +32,7 @@ function Update () {
 
 		if(Input.mousePosition.x<200 || Input.mousePosition.x+200>Screen.width)
 		{
-			print(Input.mousePosition.x);
+			//print(Input.mousePosition.x);
 			return;
 		}
 

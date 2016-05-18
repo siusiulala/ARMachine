@@ -43,7 +43,7 @@ public class ObjectHighlight : MonoBehaviour {
 	void DisplayName()
 	{
 		if (_displayObjectName) {
-			GUI.Box (new Rect (Event.current.mousePosition.x + 10, Event.current.mousePosition.y, 150, 70),
+			GUI.Box (new Rect (Event.current.mousePosition.x-75, Event.current.mousePosition.y-150, 150, 70),
 				"氣球號："+objectIndex+"\n"+
 				"零件號碼："+objectNumber+"\n"+
 				"零件名稱："+objectName+"\n"+
