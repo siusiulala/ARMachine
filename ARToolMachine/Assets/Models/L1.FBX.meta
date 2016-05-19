@@ -132,8 +132,9 @@ ModelImporter:
     4300008: ' N1-DC_Shell'
     4300010: NONE-DC_Shell
     4300012: EndChamfer-DC_Shell
-    7400000: Take 001
+    7400000: explode
     9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -154,7 +155,175 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ASTF18610064 1
+        weight: 1
+      - path: 'ASTF18610064 1/ '
+        weight: 1
+      - path: ASTF18610064 1/ /D200210
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2/NONE
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2/NONE/ 1
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2/NONE/ 1/1
+        weight: 1
+      - path: ASTF18610064 1/ /D200210/D200210 1/D200210 2/NONE/ 1/1/1-DC_Shell
+        weight: 1
+      - path: ASTF18610064 1/  1
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          5
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          5/ 5
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          5/ 5/EndChamfer
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  3/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3
+          fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          5/ 5/EndChamfer/EndChamfer-DC_Shell
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBS_72
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBS_72/DMBS_72
+          1
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBS_72/DMBS_72
+          1/DMBS_72 2
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3/ 3
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3/ 3/1 1
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3/ 3/1 1/NONE 7
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  4/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 3/ 3/1 1/NONE 7/NONE-DC_Shell 3
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBw_72
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBw_72/DMBw_72
+          1
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBw_72/DMBw_72
+          1/DMBw_72 2
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 4
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 4/ 4
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 4/ 4/ N1
+        weight: 1
+      - path: ASTF18610064 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 4/ 4/ N1/ N1-DC_Shell
+        weight: 1
+      - path: ASTF18610064 1/  2
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2/NONE 1
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2/NONE 1/ 2
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2/NONE 6
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2/NONE 6/NONE-DC_Shell
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2/NONE 6/NONE-DC_Shell 1
+        weight: 1
+      - path: ASTF18610064 1/  2/D200220/D200220 1/D200220 2/NONE 1/ 2/?8.0 (8) 1/NONE
+          2/NONE 6/NONE-DC_Shell 2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -192,7 +361,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

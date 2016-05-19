@@ -16,7 +16,7 @@ public class explodeAinmate : MonoBehaviour {
         //GetComponent<Animation>().Stop();
 
     }
-	public string aniName;
+	public string aniName = "explode";
     public void explode()
     {
         Animation animation = this.GetComponent<Animation>();

@@ -511,8 +511,9 @@ ModelImporter:
     4300050: Body-DC_Shell
     4300052: Body-DC_Shell
     4300054: InnerRace-DC_Shell
-    7400000: Take 001
+    7400000: explode
     9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -533,7 +534,626 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AST84E18524 1
+        weight: 1
+      - path: 'AST84E18524 1/ '
+        weight: 1
+      - path: AST84E18524 1/ /c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55
+        weight: 1
+      - path: AST84E18524 1/ /c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 3
+        weight: 1
+      - path: AST84E18524 1/ /c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 3/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 5
+        weight: 1
+      - path: AST84E18524 1/ /c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 3/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 5/NONE 18
+        weight: 1
+      - path: AST84E18524 1/ /c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 3/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 5/NONE 18/ 19
+        weight: 1
+      - path: AST84E18524 1/ /c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 3/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 5/NONE 18/ 19/Body
+          2
+        weight: 1
+      - path: AST84E18524 1/ /c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 3/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 55 5/NONE 18/ 19/Body
+          2/Body-DC_Shell 2
+        weight: 1
+      - path: AST84E18524 1/  1
+        weight: 1
+      - path: AST84E18524 1/  1/KEY2R12-10-35-L 1
+        weight: 1
+      - path: AST84E18524 1/  1/KEY2R12-10-35-L 1/KEY2R12-10-35-L 3
+        weight: 1
+      - path: AST84E18524 1/  1/KEY2R12-10-35-L 1/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5
+        weight: 1
+      - path: AST84E18524 1/  1/KEY2R12-10-35-L 1/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5/NONE 11
+        weight: 1
+      - path: AST84E18524 1/  1/KEY2R12-10-35-L 1/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5/NONE 11/ 12
+        weight: 1
+      - path: AST84E18524 1/  1/KEY2R12-10-35-L 1/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5/NONE 11/ 12/-L1 3
+        weight: 1
+      - path: AST84E18524 1/  1/KEY2R12-10-35-L 1/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5/NONE 11/ 12/-L1 3/-L1-DC_Shell 3
+        weight: 1
+      - path: AST84E18524 1/  2
+        weight: 1
+      - path: AST84E18524 1/  2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1
+        weight: 1
+      - path: AST84E18524 1/  2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2
+        weight: 1
+      - path: AST84E18524 1/  2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 4
+        weight: 1
+      - path: AST84E18524 1/  2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 4/NONE 17
+        weight: 1
+      - path: AST84E18524 1/  2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 4/NONE 17/ 18
+        weight: 1
+      - path: AST84E18524 1/  2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 4/NONE 17/ 18/Body
+          3
+        weight: 1
+      - path: AST84E18524 1/  2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 4/NONE 17/ 18/Body
+          3/Body-DC_Shell 3
+        weight: 1
+      - path: AST84E18524 1/  3
+        weight: 1
+      - path: AST84E18524 1/  3/D200070
+        weight: 1
+      - path: AST84E18524 1/  3/D200070/D200070 1
+        weight: 1
+      - path: AST84E18524 1/  3/D200070/D200070 1/D200070 2
+        weight: 1
+      - path: AST84E18524 1/  3/D200070/D200070 1/D200070 2/NONE 3
+        weight: 1
+      - path: AST84E18524 1/  3/D200070/D200070 1/D200070 2/NONE 3/ 4
+        weight: 1
+      - path: AST84E18524 1/  3/D200070/D200070 1/D200070 2/NONE 3/ 4/2
+        weight: 1
+      - path: AST84E18524 1/  3/D200070/D200070 1/D200070 2/NONE 3/ 4/2/2-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  4
+        weight: 1
+      - path: AST84E18524 1/  4/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+        weight: 1
+      - path: AST84E18524 1/  4/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 2
+        weight: 1
+      - path: AST84E18524 1/  4/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 2/radial ball
+          bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 4
+        weight: 1
+      - path: AST84E18524 1/  4/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 2/radial ball
+          bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 4/NONE 20
+        weight: 1
+      - path: AST84E18524 1/  4/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 2/radial ball
+          bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 4/NONE 20/ 21
+        weight: 1
+      - path: AST84E18524 1/  4/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 2/radial ball
+          bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 4/NONE 20/ 21/OuterRace
+          1
+        weight: 1
+      - path: AST84E18524 1/  4/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 2/radial ball
+          bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 4/NONE 20/ 21/OuterRace
+          1/OuterRace-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  5
+        weight: 1
+      - path: AST84E18524 1/  5/KEY2R12-10-40-L 1
+        weight: 1
+      - path: AST84E18524 1/  5/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2
+        weight: 1
+      - path: AST84E18524 1/  5/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4
+        weight: 1
+      - path: AST84E18524 1/  5/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4/NONE 13
+        weight: 1
+      - path: AST84E18524 1/  5/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4/NONE 13/ 15
+        weight: 1
+      - path: AST84E18524 1/  5/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4/NONE 13/ 15/-L1 5
+        weight: 1
+      - path: AST84E18524 1/  5/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4/NONE 13/ 15/-L1 5/-L1-DC_Shell 4
+        weight: 1
+      - path: AST84E18524 1/  6
+        weight: 1
+      - path: AST84E18524 1/  6/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          1
+        weight: 1
+      - path: AST84E18524 1/  6/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 3
+        weight: 1
+      - path: AST84E18524 1/  6/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 7
+        weight: 1
+      - path: AST84E18524 1/  6/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 7/NONE 23
+        weight: 1
+      - path: AST84E18524 1/  6/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 7/NONE 23/ 24
+        weight: 1
+      - path: AST84E18524 1/  6/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 7/NONE 23/ 24/OuterRace
+          3
+        weight: 1
+      - path: AST84E18524 1/  6/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 7/NONE 23/ 24/OuterRace
+          3/OuterRace-DC_Shell 3
+        weight: 1
+      - path: AST84E18524 1/  7
+        weight: 1
+      - path: AST84E18524 1/  7/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          2
+        weight: 1
+      - path: AST84E18524 1/  7/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 5
+        weight: 1
+      - path: AST84E18524 1/  7/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 5/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 8
+        weight: 1
+      - path: AST84E18524 1/  7/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 5/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 8/NONE 21
+        weight: 1
+      - path: AST84E18524 1/  7/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 5/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 8/NONE 21/ 23
+        weight: 1
+      - path: AST84E18524 1/  7/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 5/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 8/NONE 21/ 23/OuterRace
+          4
+        weight: 1
+      - path: AST84E18524 1/  7/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          2/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 5/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 8/NONE 21/ 23/OuterRace
+          4/OuterRace-DC_Shell 4
+        weight: 1
+      - path: AST84E18524 1/  8
+        weight: 1
+      - path: AST84E18524 1/  8/B2000600 1
+        weight: 1
+      - path: AST84E18524 1/  8/B2000600 1/B2000600 3
+        weight: 1
+      - path: AST84E18524 1/  8/B2000600 1/B2000600 3/B2000600 4
+        weight: 1
+      - path: AST84E18524 1/  8/B2000600 1/B2000600 3/B2000600 4/NONE 2
+        weight: 1
+      - path: AST84E18524 1/  8/B2000600 1/B2000600 3/B2000600 4/NONE 2/ 2
+        weight: 1
+      - path: AST84E18524 1/  8/B2000600 1/B2000600 3/B2000600 4/NONE 2/ 2/-L1 1
+        weight: 1
+      - path: AST84E18524 1/  8/B2000600 1/B2000600 3/B2000600 4/NONE 2/ 2/-L1 1/-L1-DC_Shell
+          1
+        weight: 1
+      - path: AST84E18524 1/  9
+        weight: 1
+      - path: AST84E18524 1/  9/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          1
+        weight: 1
+      - path: AST84E18524 1/  9/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 3
+        weight: 1
+      - path: AST84E18524 1/  9/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 5
+        weight: 1
+      - path: AST84E18524 1/  9/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 5/NONE 19
+        weight: 1
+      - path: AST84E18524 1/  9/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 5/NONE 19/ 20
+        weight: 1
+      - path: AST84E18524 1/  9/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 5/NONE 19/ 20/OuterRace
+        weight: 1
+      - path: AST84E18524 1/  9/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          1/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 3/radial
+          ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 5/NONE 19/ 20/OuterRace/OuterRace-DC_Shell
+          1
+        weight: 1
+      - path: AST84E18524 1/  10
+        weight: 1
+      - path: AST84E18524 1/  10/D200142
+        weight: 1
+      - path: AST84E18524 1/  10/D200142/D200142 1
+        weight: 1
+      - path: AST84E18524 1/  10/D200142/D200142 1/D200142 2
+        weight: 1
+      - path: AST84E18524 1/  10/D200142/D200142 1/D200142 2/NONE 10
+        weight: 1
+      - path: AST84E18524 1/  10/D200142/D200142 1/D200142 2/NONE 10/ 11
+        weight: 1
+      - path: AST84E18524 1/  10/D200142/D200142 1/D200142 2/NONE 10/ 11/R2
+        weight: 1
+      - path: AST84E18524 1/  10/D200142/D200142 1/D200142 2/NONE 10/ 11/R2/R2-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  11
+        weight: 1
+      - path: AST84E18524 1/  11/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100
+        weight: 1
+      - path: AST84E18524 1/  11/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 1
+        weight: 1
+      - path: AST84E18524 1/  11/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 1/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2
+        weight: 1
+      - path: AST84E18524 1/  11/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 1/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2/NONE 15
+        weight: 1
+      - path: AST84E18524 1/  11/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 1/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2/NONE 15/ 16
+        weight: 1
+      - path: AST84E18524 1/  11/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 1/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2/NONE 15/ 16/Body
+        weight: 1
+      - path: AST84E18524 1/  11/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 1/c
+          type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2/NONE 15/ 16/Body/Body-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  12
+        weight: 1
+      - path: AST84E18524 1/  12/B2000600
+        weight: 1
+      - path: AST84E18524 1/  12/B2000600/B2000600 2
+        weight: 1
+      - path: AST84E18524 1/  12/B2000600/B2000600 2/B2000600 5
+        weight: 1
+      - path: AST84E18524 1/  12/B2000600/B2000600 2/B2000600 5/NONE 1
+        weight: 1
+      - path: AST84E18524 1/  12/B2000600/B2000600 2/B2000600 5/NONE 1/ 3
+        weight: 1
+      - path: AST84E18524 1/  12/B2000600/B2000600 2/B2000600 5/NONE 1/ 3/-L1
+        weight: 1
+      - path: AST84E18524 1/  12/B2000600/B2000600 2/B2000600 5/NONE 1/ 3/-L1/-L1-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  13
+        weight: 1
+      - path: AST84E18524 1/  13/D200090
+        weight: 1
+      - path: AST84E18524 1/  13/D200090/D200090 1
+        weight: 1
+      - path: AST84E18524 1/  13/D200090/D200090 1/D200090 2
+        weight: 1
+      - path: AST84E18524 1/  13/D200090/D200090 1/D200090 2/NONE 5
+        weight: 1
+      - path: AST84E18524 1/  13/D200090/D200090 1/D200090 2/NONE 5/ 6
+        weight: 1
+      - path: AST84E18524 1/  13/D200090/D200090 1/D200090 2/NONE 5/ 6/1 1
+        weight: 1
+      - path: AST84E18524 1/  13/D200090/D200090 1/D200090 2/NONE 5/ 6/1 1/1-DC_Shell
+          1
+        weight: 1
+      - path: AST84E18524 1/  14
+        weight: 1
+      - path: AST84E18524 1/  14/D200110
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2/NONE 7
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2/NONE 7/ 8
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2/NONE 7/ 8/M8 y1
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2/NONE 7/ 8/M8 y1/NONE
+          26
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2/NONE 7/ 8/M8 y1/NONE
+          26/NONE 28
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2/NONE 7/ 8/M8 y1/NONE
+          26/NONE 28/NONE-DC_Shell 2
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2/NONE 7/ 8/M8 y1/NONE
+          26/NONE 28/NONE-DC_Shell 3
+        weight: 1
+      - path: AST84E18524 1/  14/D200110/D200110 1/D200110 2/NONE 7/ 8/M8 y1/NONE
+          26/NONE 28/NONE-DC_Shell 4
+        weight: 1
+      - path: AST84E18524 1/  15
+        weight: 1
+      - path: AST84E18524 1/  15/radial ball bearing_68_jis_JIS B 1512-1 - 0355 -
+          B,10,SI,NC,10_68
+        weight: 1
+      - path: AST84E18524 1/  15/radial ball bearing_68_jis_JIS B 1512-1 - 0355 -
+          B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          4
+        weight: 1
+      - path: AST84E18524 1/  15/radial ball bearing_68_jis_JIS B 1512-1 - 0355 -
+          B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 6
+        weight: 1
+      - path: AST84E18524 1/  15/radial ball bearing_68_jis_JIS B 1512-1 - 0355 -
+          B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 6/NONE
+          22
+        weight: 1
+      - path: AST84E18524 1/  15/radial ball bearing_68_jis_JIS B 1512-1 - 0355 -
+          B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 6/NONE
+          22/ 22
+        weight: 1
+      - path: AST84E18524 1/  15/radial ball bearing_68_jis_JIS B 1512-1 - 0355 -
+          B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 6/NONE
+          22/ 22/OuterRace 2
+        weight: 1
+      - path: AST84E18524 1/  15/radial ball bearing_68_jis_JIS B 1512-1 - 0355 -
+          B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 6/NONE
+          22/ 22/OuterRace 2/OuterRace-DC_Shell 2
+        weight: 1
+      - path: AST84E18524 1/  16
+        weight: 1
+      - path: AST84E18524 1/  16/KEY2R12-10-35-L
+        weight: 1
+      - path: AST84E18524 1/  16/KEY2R12-10-35-L/KEY2R12-10-35-L 2
+        weight: 1
+      - path: AST84E18524 1/  16/KEY2R12-10-35-L/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4
+        weight: 1
+      - path: AST84E18524 1/  16/KEY2R12-10-35-L/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4/NONE 12
+        weight: 1
+      - path: AST84E18524 1/  16/KEY2R12-10-35-L/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4/NONE 12/ 13
+        weight: 1
+      - path: AST84E18524 1/  16/KEY2R12-10-35-L/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4/NONE 12/ 13/-L1 2
+        weight: 1
+      - path: AST84E18524 1/  16/KEY2R12-10-35-L/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4/NONE 12/ 13/-L1 2/-L1-DC_Shell 2
+        weight: 1
+      - path: AST84E18524 1/  17
+        weight: 1
+      - path: AST84E18524 1/  17/D200100
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1/D200100 2
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1/D200100 2/NONE 6
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1/D200100 2/NONE 6/ 7
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1/D200100 2/NONE 6/ 7/1 2
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1/D200100 2/NONE 6/ 7/1 2/NONE 25
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1/D200100 2/NONE 6/ 7/1 2/NONE 25/NONE
+          27
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1/D200100 2/NONE 6/ 7/1 2/NONE 25/NONE
+          27/NONE-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  17/D200100/D200100 1/D200100 2/NONE 6/ 7/1 2/NONE 25/NONE
+          27/NONE-DC_Shell 1
+        weight: 1
+      - path: AST84E18524 1/  18
+        weight: 1
+      - path: AST84E18524 1/  18/D200120-
+        weight: 1
+      - path: AST84E18524 1/  18/D200120-/D200120- 1
+        weight: 1
+      - path: AST84E18524 1/  18/D200120-/D200120- 1/D200120- 2
+        weight: 1
+      - path: AST84E18524 1/  18/D200120-/D200120- 1/D200120- 2/NONE 8
+        weight: 1
+      - path: AST84E18524 1/  18/D200120-/D200120- 1/D200120- 2/NONE 8/ 9
+        weight: 1
+      - path: AST84E18524 1/  18/D200120-/D200120- 1/D200120- 2/NONE 8/ 9/h}u2
+        weight: 1
+      - path: AST84E18524 1/  18/D200120-/D200120- 1/D200120- 2/NONE 8/ 9/h}u2/h}u2-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  19
+        weight: 1
+      - path: AST84E18524 1/  19/B2000350
+        weight: 1
+      - path: AST84E18524 1/  19/B2000350/B2000350 1
+        weight: 1
+      - path: AST84E18524 1/  19/B2000350/B2000350 1/B2000350 2
+        weight: 1
+      - path: AST84E18524 1/  19/B2000350/B2000350 1/B2000350 2/NONE
+        weight: 1
+      - path: AST84E18524 1/  19/B2000350/B2000350 1/B2000350 2/NONE/ 1
+        weight: 1
+      - path: AST84E18524 1/  19/B2000350/B2000350 1/B2000350 2/NONE/ 1/1
+        weight: 1
+      - path: AST84E18524 1/  19/B2000350/B2000350 1/B2000350 2/NONE/ 1/1/1-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  20
+        weight: 1
+      - path: AST84E18524 1/  20/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24
+        weight: 1
+      - path: AST84E18524 1/  20/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 1
+        weight: 1
+      - path: AST84E18524 1/  20/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 2
+        weight: 1
+      - path: AST84E18524 1/  20/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 2/NONE 24
+        weight: 1
+      - path: AST84E18524 1/  20/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 2/NONE 24/ 25
+        weight: 1
+      - path: AST84E18524 1/  20/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 2/NONE 24/ 25/InnerRace
+        weight: 1
+      - path: AST84E18524 1/  20/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS B 1512-1
+          - 4945 - R,24,SI,NC,24 2/NONE 24/ 25/InnerRace/InnerRace-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  21
+        weight: 1
+      - path: AST84E18524 1/  21/D200132
+        weight: 1
+      - path: AST84E18524 1/  21/D200132/D200132 1
+        weight: 1
+      - path: AST84E18524 1/  21/D200132/D200132 1/D200132 2
+        weight: 1
+      - path: AST84E18524 1/  21/D200132/D200132 1/D200132 2/NONE 9
+        weight: 1
+      - path: AST84E18524 1/  21/D200132/D200132 1/D200132 2/NONE 9/ 10
+        weight: 1
+      - path: AST84E18524 1/  21/D200132/D200132 1/D200132 2/NONE 9/ 10/h}u1
+        weight: 1
+      - path: AST84E18524 1/  21/D200132/D200132 1/D200132 2/NONE 9/ 10/h}u1/h}u1-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  22
+        weight: 1
+      - path: AST84E18524 1/  22/D200080
+        weight: 1
+      - path: AST84E18524 1/  22/D200080/D200080 1
+        weight: 1
+      - path: AST84E18524 1/  22/D200080/D200080 1/D200080 2
+        weight: 1
+      - path: AST84E18524 1/  22/D200080/D200080 1/D200080 2/NONE 4
+        weight: 1
+      - path: AST84E18524 1/  22/D200080/D200080 1/D200080 2/NONE 4/ 5
+        weight: 1
+      - path: AST84E18524 1/  22/D200080/D200080 1/D200080 2/NONE 4/ 5/A1
+        weight: 1
+      - path: AST84E18524 1/  22/D200080/D200080 1/D200080 2/NONE 4/ 5/A1/A1-DC_Shell
+        weight: 1
+      - path: AST84E18524 1/  23
+        weight: 1
+      - path: AST84E18524 1/  23/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45
+        weight: 1
+      - path: AST84E18524 1/  23/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 1
+        weight: 1
+      - path: AST84E18524 1/  23/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2
+        weight: 1
+      - path: AST84E18524 1/  23/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2/NONE 16
+        weight: 1
+      - path: AST84E18524 1/  23/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2/NONE 16/ 17
+        weight: 1
+      - path: AST84E18524 1/  23/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2/NONE 16/ 17/Body
+          1
+        weight: 1
+      - path: AST84E18524 1/  23/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 1/c type
+          shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2/NONE 16/ 17/Body
+          1/Body-DC_Shell 1
+        weight: 1
+      - path: AST84E18524 1/  24
+        weight: 1
+      - path: AST84E18524 1/  24/KEY2R12-10-40-L
+        weight: 1
+      - path: AST84E18524 1/  24/KEY2R12-10-40-L/KEY2R12-10-40-L 3
+        weight: 1
+      - path: AST84E18524 1/  24/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5
+        weight: 1
+      - path: AST84E18524 1/  24/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5/NONE 14
+        weight: 1
+      - path: AST84E18524 1/  24/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5/NONE 14/ 14
+        weight: 1
+      - path: AST84E18524 1/  24/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5/NONE 14/ 14/-L1 4
+        weight: 1
+      - path: AST84E18524 1/  24/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5/NONE 14/ 14/-L1 4/-L1-DC_Shell 5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -571,7 +1191,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

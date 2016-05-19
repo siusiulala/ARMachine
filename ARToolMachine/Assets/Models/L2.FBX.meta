@@ -195,8 +195,9 @@ ModelImporter:
     4300018: ' N1-DC_Shell'
     4300020: NONE-DC_Shell
     4300022: EndChamfer-DC_Shell
-    7400000: Take 001
+    7400000: explode
     9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -217,7 +218,224 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ASTBDD7556 1
+        weight: 1
+      - path: 'ASTBDD7556 1/ '
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/1 2
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/1 2/NONE
+          8
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/1 2/NONE
+          8/NONE-DC_Shell
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/R1
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/R1/NONE
+          9
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/R1/NONE
+          9/NONE-DC_Shell 1
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/w-/}u1
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/w-/}u1/NONE
+          10
+        weight: 1
+      - path: ASTBDD7556 1/ /OV-D200240/OV-D200240 1/OV-D200240 2/NONE 3/ 4/w-/}u1/NONE
+          10/NONE-DC_Shell 2
+        weight: 1
+      - path: ASTBDD7556 1/  1
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE 7
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE 7/ 7
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE 7/ 7/EndChamfer
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  5/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon nut_3 fine_jis_JIS
+          B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE 7/ 7/EndChamfer/EndChamfer-DC_Shell
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6/DMBS_72
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6/DMBS_72/DMBS_72
+          1
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6/DMBS_72/DMBS_72
+          1/DMBS_72 2
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 5
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 5/ 5
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 5/ 5/1 3
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 5/ 5/1 3/NONE 12
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  6/DMBS_72/DMBS_72
+          1/DMBS_72 2/NONE 5/ 5/1 3/NONE 12/NONE-DC_Shell 7
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  7
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  7/DMBw_72
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  7/DMBw_72/DMBw_72
+          1
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  7/DMBw_72/DMBw_72
+          1/DMBw_72 2
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  7/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 6
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  7/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 6/ 6
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  7/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 6/ 6/ N1
+        weight: 1
+      - path: ASTBDD7556 1/  1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  7/DMBw_72/DMBw_72
+          1/DMBw_72 2/NONE 6/ 6/ N1/ N1-DC_Shell
+        weight: 1
+      - path: ASTBDD7556 1/  2
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE/ 1
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE/ 1/1
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE/ 1/1/NONE 4
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE/ 1/1/NONE 4/NONE 11
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE/ 1/1/NONE 4/NONE 11/NONE-DC_Shell
+          3
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE/ 1/1/NONE 4/NONE 11/NONE-DC_Shell
+          4
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE/ 1/1/NONE 4/NONE 11/NONE-DC_Shell
+          5
+        weight: 1
+      - path: ASTBDD7556 1/  2/D200230/D200230 1/D200230 2/NONE/ 1/1/NONE 4/NONE 11/NONE-DC_Shell
+          6
+        weight: 1
+      - path: ASTBDD7556 1/  3
+        weight: 1
+      - path: ASTBDD7556 1/  3/D200250
+        weight: 1
+      - path: ASTBDD7556 1/  3/D200250/D200250 1
+        weight: 1
+      - path: ASTBDD7556 1/  3/D200250/D200250 1/D200250 2
+        weight: 1
+      - path: ASTBDD7556 1/  3/D200250/D200250 1/D200250 2/NONE 1
+        weight: 1
+      - path: ASTBDD7556 1/  3/D200250/D200250 1/D200250 2/NONE 1/ 2
+        weight: 1
+      - path: ASTBDD7556 1/  3/D200250/D200250 1/D200250 2/NONE 1/ 2/1 1
+        weight: 1
+      - path: ASTBDD7556 1/  3/D200250/D200250 1/D200250 2/NONE 1/ 2/1 1/1-DC_Shell
+        weight: 1
+      - path: ASTBDD7556 1/  4
+        weight: 1
+      - path: ASTBDD7556 1/  4/D200270
+        weight: 1
+      - path: ASTBDD7556 1/  4/D200270/D200270 1
+        weight: 1
+      - path: ASTBDD7556 1/  4/D200270/D200270 1/D200270 2
+        weight: 1
+      - path: ASTBDD7556 1/  4/D200270/D200270 1/D200270 2/NONE 2
+        weight: 1
+      - path: ASTBDD7556 1/  4/D200270/D200270 1/D200270 2/NONE 2/ 3
+        weight: 1
+      - path: ASTBDD7556 1/  4/D200270/D200270 1/D200270 2/NONE 2/ 3/M6 y1
+        weight: 1
+      - path: ASTBDD7556 1/  4/D200270/D200270 1/D200270 2/NONE 2/ 3/M6 y1/M6 y1-DC_Shell
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -255,7 +473,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

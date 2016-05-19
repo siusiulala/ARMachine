@@ -433,8 +433,9 @@ ModelImporter:
     4300042: OuterRace-DC_Shell
     4300044: OuterRace-DC_Shell
     4300046: Body-DC_Shell
-    7400000: Take 001
+    7400000: explode
     9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -455,7 +456,552 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AST2BAC9020 1
+        weight: 1
+      - path: 'AST2BAC9020 1/ '
+        weight: 1
+      - path: AST2BAC9020 1/ /D200040
+        weight: 1
+      - path: AST2BAC9020 1/ /D200040/D200040 1
+        weight: 1
+      - path: AST2BAC9020 1/ /D200040/D200040 1/D200040 2
+        weight: 1
+      - path: AST2BAC9020 1/ /D200040/D200040 1/D200040 2/NONE 3
+        weight: 1
+      - path: AST2BAC9020 1/ /D200040/D200040 1/D200040 2/NONE 3/ 4
+        weight: 1
+      - path: AST2BAC9020 1/ /D200040/D200040 1/D200040 2/NONE 3/ 4/h}u1
+        weight: 1
+      - path: AST2BAC9020 1/ /D200040/D200040 1/D200040 2/NONE 3/ 4/h}u1/h}u1-DC_Shell
+        weight: 1
+      - path: AST2BAC9020 1/  1
+        weight: 1
+      - path: AST2BAC9020 1/  1/radial ball bearing_68_iso_PreviewCfg 1
+        weight: 1
+      - path: AST2BAC9020 1/  1/radial ball bearing_68_iso_PreviewCfg 1/radial ball
+          bearing_68_iso_PreviewCfg 3
+        weight: 1
+      - path: AST2BAC9020 1/  1/radial ball bearing_68_iso_PreviewCfg 1/radial ball
+          bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 7
+        weight: 1
+      - path: AST2BAC9020 1/  1/radial ball bearing_68_iso_PreviewCfg 1/radial ball
+          bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 7/NONE
+          8
+        weight: 1
+      - path: AST2BAC9020 1/  1/radial ball bearing_68_iso_PreviewCfg 1/radial ball
+          bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 7/NONE
+          8/ 11
+        weight: 1
+      - path: AST2BAC9020 1/  1/radial ball bearing_68_iso_PreviewCfg 1/radial ball
+          bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 7/NONE
+          8/ 11/BallsDetailed
+        weight: 1
+      - path: AST2BAC9020 1/  1/radial ball bearing_68_iso_PreviewCfg 1/radial ball
+          bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 7/NONE
+          8/ 11/BallsDetailed/BallsDetailed-DC_Shell 2
+        weight: 1
+      - path: AST2BAC9020 1/  2
+        weight: 1
+      - path: AST2BAC9020 1/  2/c type hole use retaining ring_jis_PreviewCfg
+        weight: 1
+      - path: AST2BAC9020 1/  2/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 3
+        weight: 1
+      - path: AST2BAC9020 1/  2/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining ring_jis_PreviewCfg
+          4
+        weight: 1
+      - path: AST2BAC9020 1/  2/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining ring_jis_PreviewCfg
+          4/NONE 4
+        weight: 1
+      - path: AST2BAC9020 1/  2/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining ring_jis_PreviewCfg
+          4/NONE 4/ 6
+        weight: 1
+      - path: AST2BAC9020 1/  2/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining ring_jis_PreviewCfg
+          4/NONE 4/ 6/Body
+        weight: 1
+      - path: AST2BAC9020 1/  2/c type hole use retaining ring_jis_PreviewCfg/c type
+          hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining ring_jis_PreviewCfg
+          4/NONE 4/ 6/Body/Body-DC_Shell 1
+        weight: 1
+      - path: AST2BAC9020 1/  3
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1/B2000051 2
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1/B2000051 2/NONE
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1/B2000051 2/NONE/ 1
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1/B2000051 2/NONE/ 1/1
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1/B2000051 2/NONE/ 1/1/NONE 13
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1/B2000051 2/NONE/ 1/1/NONE 13/NONE
+          21
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1/B2000051 2/NONE/ 1/1/NONE 13/NONE
+          21/NONE-DC_Shell
+        weight: 1
+      - path: AST2BAC9020 1/  3/B2000051/B2000051 1/B2000051 2/NONE/ 1/1/NONE 13/NONE
+          21/NONE-DC_Shell 1
+        weight: 1
+      - path: AST2BAC9020 1/  4
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  14
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  14/KEY2R12-10-50-L 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  14/KEY2R12-10-50-L 1/KEY2R12-10-50-L 2
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  14/KEY2R12-10-50-L 1/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          5
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  14/KEY2R12-10-50-L 1/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          5/NONE 16
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  14/KEY2R12-10-50-L 1/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          5/NONE 16/ 17
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  14/KEY2R12-10-50-L 1/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          5/NONE 16/ 17/-L1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  14/KEY2R12-10-50-L 1/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          5/NONE 16/ 17/-L1/-L1-DC_Shell 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  15
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  15/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  15/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  15/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 5
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  15/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 5/NONE 20
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  15/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 5/NONE 20/ 19
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  15/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 5/NONE 20/ 19/OuterRace
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  15/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 5/NONE 20/ 19/OuterRace/OuterRace-DC_Shell 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  16
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  16/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  16/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  16/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  16/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/NONE
+          18
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  16/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/NONE
+          18/ 18
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  16/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/NONE
+          18/ 18/Body 4
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  16/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2/NONE
+          18/ 18/Body 4/Body-DC_Shell 4
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  17
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  17/D200050
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  17/D200050/D200050 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  17/D200050/D200050 1/D200050 2
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  17/D200050/D200050 1/D200050 2/NONE 14
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  17/D200050/D200050 1/D200050 2/NONE 14/
+          14
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  17/D200050/D200050 1/D200050 2/NONE 14/
+          14/h}u1 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  17/D200050/D200050 1/D200050 2/NONE 14/
+          14/h}u1 1/h}u1-DC_Shell 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  18
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  18/KEY2R12-10-50-L
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  18/KEY2R12-10-50-L/KEY2R12-10-50-L 3
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  18/KEY2R12-10-50-L/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          4
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  18/KEY2R12-10-50-L/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          4/NONE 17
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  18/KEY2R12-10-50-L/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          4/NONE 17/ 16
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  18/KEY2R12-10-50-L/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          4/NONE 17/ 16/-L1 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  18/KEY2R12-10-50-L/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          4/NONE 17/ 16/-L1 1/-L1-DC_Shell
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15/
+          15
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15/
+          15/A1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15/
+          15/A1/NONE 22
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15/
+          15/A1/NONE 22/NONE 23
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15/
+          15/A1/NONE 22/NONE 23/NONE-DC_Shell 2
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15/
+          15/A1/NONE 22/NONE 23/NONE-DC_Shell 3
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15/
+          15/A1/NONE 22/NONE 23/NONE-DC_Shell 4
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  19/D200060/D200060 1/D200060 2/NONE 15/
+          15/A1/NONE 22/NONE 23/NONE-DC_Shell 5
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  20
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 4
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 4/NONE 19
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 4/NONE 19/ 20
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 4/NONE 19/ 20/OuterRace 1
+        weight: 1
+      - path: AST2BAC9020 1/  4/SA2/SA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 4/NONE 19/ 20/OuterRace 1/OuterRace-DC_Shell
+        weight: 1
+      - path: AST2BAC9020 1/  5
+        weight: 1
+      - path: AST2BAC9020 1/  5/radial ball bearing_68_iso_PreviewCfg 2
+        weight: 1
+      - path: AST2BAC9020 1/  5/radial ball bearing_68_iso_PreviewCfg 2/radial ball
+          bearing_68_iso_PreviewCfg 4
+        weight: 1
+      - path: AST2BAC9020 1/  5/radial ball bearing_68_iso_PreviewCfg 2/radial ball
+          bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg 6
+        weight: 1
+      - path: AST2BAC9020 1/  5/radial ball bearing_68_iso_PreviewCfg 2/radial ball
+          bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg 6/NONE
+          10
+        weight: 1
+      - path: AST2BAC9020 1/  5/radial ball bearing_68_iso_PreviewCfg 2/radial ball
+          bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg 6/NONE
+          10/ 9
+        weight: 1
+      - path: AST2BAC9020 1/  5/radial ball bearing_68_iso_PreviewCfg 2/radial ball
+          bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg 6/NONE
+          10/ 9/BallsDetailed 2
+        weight: 1
+      - path: AST2BAC9020 1/  5/radial ball bearing_68_iso_PreviewCfg 2/radial ball
+          bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg 6/NONE
+          10/ 9/BallsDetailed 2/BallsDetailed-DC_Shell
+        weight: 1
+      - path: AST2BAC9020 1/  6
+        weight: 1
+      - path: AST2BAC9020 1/  6/D200030
+        weight: 1
+      - path: AST2BAC9020 1/  6/D200030/D200030 1
+        weight: 1
+      - path: AST2BAC9020 1/  6/D200030/D200030 1/D200030 2
+        weight: 1
+      - path: AST2BAC9020 1/  6/D200030/D200030 1/D200030 2/NONE 2
+        weight: 1
+      - path: AST2BAC9020 1/  6/D200030/D200030 1/D200030 2/NONE 2/ 3
+        weight: 1
+      - path: AST2BAC9020 1/  6/D200030/D200030 1/D200030 2/NONE 2/ 3/1 1
+        weight: 1
+      - path: AST2BAC9020 1/  6/D200030/D200030 1/D200030 2/NONE 2/ 3/1 1/1-DC_Shell
+        weight: 1
+      - path: AST2BAC9020 1/  7
+        weight: 1
+      - path: AST2BAC9020 1/  7/radial ball bearing_68_iso_PreviewCfg
+        weight: 1
+      - path: AST2BAC9020 1/  7/radial ball bearing_68_iso_PreviewCfg/radial ball
+          bearing_68_iso_PreviewCfg 5
+        weight: 1
+      - path: AST2BAC9020 1/  7/radial ball bearing_68_iso_PreviewCfg/radial ball
+          bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg 8
+        weight: 1
+      - path: AST2BAC9020 1/  7/radial ball bearing_68_iso_PreviewCfg/radial ball
+          bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg 8/NONE
+          9
+        weight: 1
+      - path: AST2BAC9020 1/  7/radial ball bearing_68_iso_PreviewCfg/radial ball
+          bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg 8/NONE
+          9/ 10
+        weight: 1
+      - path: AST2BAC9020 1/  7/radial ball bearing_68_iso_PreviewCfg/radial ball
+          bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg 8/NONE
+          9/ 10/BallsDetailed 1
+        weight: 1
+      - path: AST2BAC9020 1/  7/radial ball bearing_68_iso_PreviewCfg/radial ball
+          bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg 8/NONE
+          9/ 10/BallsDetailed 1/BallsDetailed-DC_Shell 1
+        weight: 1
+      - path: AST2BAC9020 1/  8
+        weight: 1
+      - path: AST2BAC9020 1/  8/C200330
+        weight: 1
+      - path: AST2BAC9020 1/  8/C200330/C200330 1
+        weight: 1
+      - path: AST2BAC9020 1/  8/C200330/C200330 1/C200330 2
+        weight: 1
+      - path: AST2BAC9020 1/  8/C200330/C200330 1/C200330 2/NONE 1
+        weight: 1
+      - path: AST2BAC9020 1/  8/C200330/C200330 1/C200330 2/NONE 1/ 2
+        weight: 1
+      - path: AST2BAC9020 1/  8/C200330/C200330 1/C200330 2/NONE 1/ 2/A3
+        weight: 1
+      - path: AST2BAC9020 1/  8/C200330/C200330 1/C200330 2/NONE 1/ 2/A3/A3-DC_Shell
+        weight: 1
+      - path: AST2BAC9020 1/  9
+        weight: 1
+      - path: AST2BAC9020 1/  9/c type hole use retaining ring_jis_PreviewCfg 1
+        weight: 1
+      - path: AST2BAC9020 1/  9/c type hole use retaining ring_jis_PreviewCfg 1/c
+          type hole use retaining ring_jis_PreviewCfg 2
+        weight: 1
+      - path: AST2BAC9020 1/  9/c type hole use retaining ring_jis_PreviewCfg 1/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5
+        weight: 1
+      - path: AST2BAC9020 1/  9/c type hole use retaining ring_jis_PreviewCfg 1/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 5
+        weight: 1
+      - path: AST2BAC9020 1/  9/c type hole use retaining ring_jis_PreviewCfg 1/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 5/ 5
+        weight: 1
+      - path: AST2BAC9020 1/  9/c type hole use retaining ring_jis_PreviewCfg 1/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 5/ 5/Body 1
+        weight: 1
+      - path: AST2BAC9020 1/  9/c type hole use retaining ring_jis_PreviewCfg 1/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 5/ 5/Body 1/Body-DC_Shell
+        weight: 1
+      - path: AST2BAC9020 1/  10
+        weight: 1
+      - path: AST2BAC9020 1/  10/c type shaft use retaining ring_jis_PreviewCfg 1
+        weight: 1
+      - path: AST2BAC9020 1/  10/c type shaft use retaining ring_jis_PreviewCfg 1/c
+          type shaft use retaining ring_jis_PreviewCfg 3
+        weight: 1
+      - path: AST2BAC9020 1/  10/c type shaft use retaining ring_jis_PreviewCfg 1/c
+          type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4
+        weight: 1
+      - path: AST2BAC9020 1/  10/c type shaft use retaining ring_jis_PreviewCfg 1/c
+          type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4/NONE 7
+        weight: 1
+      - path: AST2BAC9020 1/  10/c type shaft use retaining ring_jis_PreviewCfg 1/c
+          type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4/NONE 7/ 7
+        weight: 1
+      - path: AST2BAC9020 1/  10/c type shaft use retaining ring_jis_PreviewCfg 1/c
+          type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4/NONE 7/ 7/Body 3
+        weight: 1
+      - path: AST2BAC9020 1/  10/c type shaft use retaining ring_jis_PreviewCfg 1/c
+          type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4/NONE 7/ 7/Body 3/Body-DC_Shell 3
+        weight: 1
+      - path: AST2BAC9020 1/  11
+        weight: 1
+      - path: AST2BAC9020 1/  11/radial ball bearing_68_jis_PreviewCfg 1
+        weight: 1
+      - path: AST2BAC9020 1/  11/radial ball bearing_68_jis_PreviewCfg 1/radial ball
+          bearing_68_jis_PreviewCfg 2
+        weight: 1
+      - path: AST2BAC9020 1/  11/radial ball bearing_68_jis_PreviewCfg 1/radial ball
+          bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4
+        weight: 1
+      - path: AST2BAC9020 1/  11/radial ball bearing_68_jis_PreviewCfg 1/radial ball
+          bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4/NONE
+          12
+        weight: 1
+      - path: AST2BAC9020 1/  11/radial ball bearing_68_jis_PreviewCfg 1/radial ball
+          bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4/NONE
+          12/ 12
+        weight: 1
+      - path: AST2BAC9020 1/  11/radial ball bearing_68_jis_PreviewCfg 1/radial ball
+          bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4/NONE
+          12/ 12/BallsDetailed 4
+        weight: 1
+      - path: AST2BAC9020 1/  11/radial ball bearing_68_jis_PreviewCfg 1/radial ball
+          bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4/NONE
+          12/ 12/BallsDetailed 4/BallsDetailed-DC_Shell 3
+        weight: 1
+      - path: AST2BAC9020 1/  12
+        weight: 1
+      - path: AST2BAC9020 1/  12/c type shaft use retaining ring_jis_PreviewCfg
+        weight: 1
+      - path: AST2BAC9020 1/  12/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2
+        weight: 1
+      - path: AST2BAC9020 1/  12/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5
+        weight: 1
+      - path: AST2BAC9020 1/  12/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5/NONE 6
+        weight: 1
+      - path: AST2BAC9020 1/  12/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5/NONE 6/ 8
+        weight: 1
+      - path: AST2BAC9020 1/  12/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5/NONE 6/ 8/Body 2
+        weight: 1
+      - path: AST2BAC9020 1/  12/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5/NONE 6/ 8/Body 2/Body-DC_Shell 2
+        weight: 1
+      - path: AST2BAC9020 1/  13
+        weight: 1
+      - path: AST2BAC9020 1/  13/radial ball bearing_68_jis_PreviewCfg
+        weight: 1
+      - path: AST2BAC9020 1/  13/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 3
+        weight: 1
+      - path: AST2BAC9020 1/  13/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg 5
+        weight: 1
+      - path: AST2BAC9020 1/  13/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg 5/NONE
+          11
+        weight: 1
+      - path: AST2BAC9020 1/  13/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg 5/NONE
+          11/ 13
+        weight: 1
+      - path: AST2BAC9020 1/  13/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg 5/NONE
+          11/ 13/BallsDetailed 3
+        weight: 1
+      - path: AST2BAC9020 1/  13/radial ball bearing_68_jis_PreviewCfg/radial ball
+          bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg 5/NONE
+          11/ 13/BallsDetailed 3/BallsDetailed-DC_Shell 4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -493,7 +1039,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
