@@ -2238,8 +2238,9 @@ ModelImporter:
     4300248: NONE-DC_Shell
     4300250: -3-DC_Shell
     4300252: M6 YvW1-DC_Shell
-    7400000: Take 001
+    7400000: explode
     9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -2260,7 +2261,3134 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AST80E42076 1
+        weight: 1
+      - path: 'AST80E42076 1/ '
+        weight: 1
+      - path: AST80E42076 1/ /1Z
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  1/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  1/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 3/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  1/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 3/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 9/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 19
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  1/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 3/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 9/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 19/NONE 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  1/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 3/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 9/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 19/NONE 13/ 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  1/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 3/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 9/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 19/NONE 13/ 14/Hex 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  1/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 3/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 9/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 19/NONE 13/ 14/Hex 5/Hex-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  81
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  81/3-1-3^FLP104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  81/3-1-3^FLP104/3-1-3^FLP104
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  81/3-1-3^FLP104/3-1-3^FLP104
+          1/3-1-3^FLP104 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  81/3-1-3^FLP104/3-1-3^FLP104
+          1/3-1-3^FLP104 2/NONE 81
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  81/3-1-3^FLP104/3-1-3^FLP104
+          1/3-1-3^FLP104 2/NONE 81/ 77
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  81/3-1-3^FLP104/3-1-3^FLP104
+          1/3-1-3^FLP104 2/NONE 81/ 77/M8 l1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  81/3-1-3^FLP104/3-1-3^FLP104
+          1/3-1-3^FLP104 2/NONE 81/ 77/M8 l1/M8 l1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1/s9^FLP104 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1/s9^FLP104 4/s9^FLP104 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1/s9^FLP104 4/s9^FLP104 8/NONE 102
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1/s9^FLP104 4/s9^FLP104 8/NONE 102/ 99
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1/s9^FLP104 4/s9^FLP104 8/NONE 102/ 99/-1[1] 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1/s9^FLP104 4/s9^FLP104 8/NONE 102/ 99/-1[1] 2/-1[1]-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1/s9^FLP104 4/s9^FLP104 8/NONE 102/ 99/-1[2]
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  82/s9^FLP104
+          1/s9^FLP104 4/s9^FLP104 8/NONE 102/ 99/-1[2]/-1[2]-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  83
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  83/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  83/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  83/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 4/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  83/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 4/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 6/NONE 93
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  83/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 4/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 6/NONE 93/ 89
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  83/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 4/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 6/NONE 93/ 89/HeadFillet 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  83/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 4/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 6/NONE 93/ 89/HeadFillet 10/HeadFillet-DC_Shell 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  84
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  84/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  84/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 2/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  84/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 2/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 5/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  84/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 2/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 5/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 8/NONE
+          97
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  84/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 2/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 5/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 8/NONE
+          97/ 94
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  84/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 2/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 5/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 8/NONE
+          97/ 94/EndChamfer 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  84/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 2/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 5/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 8/NONE
+          97/ 94/EndChamfer 2/EndChamfer-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  85
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  85/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  85/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 7/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  85/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 7/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 15/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 19
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  85/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 7/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 15/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 19/NONE 88
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  85/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 7/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 15/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 19/NONE 88/ 83
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  85/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 7/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 15/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 19/NONE 88/ 83/HeadFillet 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  85/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 7/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 15/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 19/NONE 88/ 83/HeadFillet 6/HeadFillet-DC_Shell 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  86
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  86/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  86/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  86/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 3/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  86/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 3/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 7/NONE 95
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  86/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 3/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 7/NONE 95/ 90
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  86/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 3/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 7/NONE 95/ 90/HeadFillet 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  86/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 3/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 7/NONE 95/ 90/HeadFillet 8/HeadFillet-DC_Shell 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  87
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  87/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  87/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  87/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 13/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 20
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  87/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 13/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 20/NONE 85
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  87/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 13/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 20/NONE 85/ 81
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  87/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 13/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 20/NONE 85/ 81/HeadFillet 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  87/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 13/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 20/NONE 85/ 81/HeadFillet 3/HeadFillet-DC_Shell 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  88
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  88/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  88/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  88/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 3/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  88/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 3/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 6/NONE
+          96
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  88/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 3/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 6/NONE
+          96/ 93
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  88/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 3/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 6/NONE
+          96/ 93/EndChamfer
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  88/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 3/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 6/NONE
+          96/ 93/EndChamfer/EndChamfer-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  89
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  89/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  89/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  89/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 9/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  89/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 9/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 16/NONE 89
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  89/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 9/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 16/NONE 89/ 82
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  89/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 9/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 16/NONE 89/ 82/HeadFillet 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  89/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 2/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 9/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 16/NONE 89/ 82/HeadFillet 1/HeadFillet-DC_Shell 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  90
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  90/1-1-2^FLP104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  90/1-1-2^FLP104/1-1-2^FLP104
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  90/1-1-2^FLP104/1-1-2^FLP104
+          1/1-1-2^FLP104 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  90/1-1-2^FLP104/1-1-2^FLP104
+          1/1-1-2^FLP104 2/NONE 80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  90/1-1-2^FLP104/1-1-2^FLP104
+          1/1-1-2^FLP104 2/NONE 80/ 76
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  90/1-1-2^FLP104/1-1-2^FLP104
+          1/1-1-2^FLP104 2/NONE 80/ 76/M8 l2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  90/1-1-2^FLP104/1-1-2^FLP104
+          1/1-1-2^FLP104 2/NONE 80/ 76/M8 l2/M8 l2-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  91
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  91/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  91/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  91/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 10/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 22
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  91/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 10/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 22/NONE 91
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  91/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 10/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 22/NONE 91/ 84
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  91/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 10/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 22/NONE 91/ 84/HeadFillet
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  91/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 1/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 10/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 22/NONE 91/ 84/HeadFillet/HeadFillet-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  92
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  92/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  92/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 4/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  92/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 4/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 11/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 18
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  92/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 4/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 11/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 18/NONE 86
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  92/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 4/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 11/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 18/NONE 86/ 86
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  92/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 4/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 11/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 18/NONE 86/ 86/HeadFillet 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  92/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 4/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 11/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 18/NONE 86/ 86/HeadFillet 7/HeadFillet-DC_Shell 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  93
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  93/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  93/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 3/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  93/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 3/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 8/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 23
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  93/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 3/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 8/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 23/NONE 92
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  93/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 3/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 8/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 23/NONE 92/ 88
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  93/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 3/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 8/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 23/NONE 92/ 88/HeadFillet 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  93/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 3/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 8/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 23/NONE 92/ 88/HeadFillet 2/HeadFillet-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  94
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  94/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  94/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 5/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  94/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 5/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 14/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 17
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  94/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 5/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 14/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 17/NONE 87
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  94/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 5/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 14/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 17/NONE 87/ 87
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  94/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 5/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 14/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 17/NONE 87/ 87/HeadFillet 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  94/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 5/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 14/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 17/NONE 87/ 87/HeadFillet 4/HeadFillet-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3/s9^FLP104 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3/s9^FLP104 7/s9^FLP104 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3/s9^FLP104 7/s9^FLP104 9/NONE 103
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3/s9^FLP104 7/s9^FLP104 9/NONE 103/ 98
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3/s9^FLP104 7/s9^FLP104 9/NONE 103/ 98/-1[1] 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3/s9^FLP104 7/s9^FLP104 9/NONE 103/ 98/-1[1] 1/-1[1]-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3/s9^FLP104 7/s9^FLP104 9/NONE 103/ 98/-1[2] 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  95/s9^FLP104
+          3/s9^FLP104 7/s9^FLP104 9/NONE 103/ 98/-1[2] 2/-1[2]-DC_Shell 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  96
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  96/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  96/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 1/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  96/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 1/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 4/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  96/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 1/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 4/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 7/NONE
+          98
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  96/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 1/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 4/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 7/NONE
+          98/ 92
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  96/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 1/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 4/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 7/NONE
+          98/ 92/EndChamfer 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  96/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 1/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 4/hexagon
+          nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N 7/NONE
+          98/ 92/EndChamfer 1/EndChamfer-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  97
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  97/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  97/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 6/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  97/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 6/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 12/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 21
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  97/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 6/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 12/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 21/NONE 90
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  97/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 6/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 12/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 21/NONE 90/ 85
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  97/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 6/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 12/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 21/NONE 90/ 85/HeadFillet 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  97/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 30 --N 6/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 30 --N 12/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 30
+          --N 21/NONE 90/ 85/HeadFillet 5/HeadFillet-DC_Shell 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104/s9^FLP104
+          5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104/s9^FLP104
+          5/s9^FLP104 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104/s9^FLP104
+          5/s9^FLP104 11/NONE 104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104/s9^FLP104
+          5/s9^FLP104 11/NONE 104/ 97
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104/s9^FLP104
+          5/s9^FLP104 11/NONE 104/ 97/-1[1]
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104/s9^FLP104
+          5/s9^FLP104 11/NONE 104/ 97/-1[1]/-1[1]-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104/s9^FLP104
+          5/s9^FLP104 11/NONE 104/ 97/-1[2] 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  98/s9^FLP104/s9^FLP104
+          5/s9^FLP104 11/NONE 104/ 97/-1[2] 1/-1[2]-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  99
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  99/4-1-4^FLP104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  99/4-1-4^FLP104/4-1-4^FLP104
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  99/4-1-4^FLP104/4-1-4^FLP104
+          1/4-1-4^FLP104 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  99/4-1-4^FLP104/4-1-4^FLP104
+          1/4-1-4^FLP104 2/NONE 82
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  99/4-1-4^FLP104/4-1-4^FLP104
+          1/4-1-4^FLP104 2/NONE 82/ 78
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  99/4-1-4^FLP104/4-1-4^FLP104
+          1/4-1-4^FLP104 2/NONE 82/ 78/M8 l1 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  99/4-1-4^FLP104/4-1-4^FLP104
+          1/4-1-4^FLP104 2/NONE 82/ 78/M8 l1 1/M8 l1-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95/1 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95/1 15/1-DC_Shell 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95/2 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95/2 2/2-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95/3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95/3/3-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95/4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  100/s7^FLP104/s7^FLP104
+          1/s7^FLP104 2/NONE 99/ 95/4/4-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96/1 16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96/1 16/1-DC_Shell 16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96/2 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96/2 3/2-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96/3 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96/3 1/3-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96/4 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  101/s8^FLP104/s8^FLP104
+          1/s8^FLP104 2/NONE 100/ 96/4 1/4-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  102
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  102/6-1-6^FLP104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  102/6-1-6^FLP104/6-1-6^FLP104
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  102/6-1-6^FLP104/6-1-6^FLP104
+          1/6-1-6^FLP104 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  102/6-1-6^FLP104/6-1-6^FLP104
+          1/6-1-6^FLP104 2/NONE 84
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  102/6-1-6^FLP104/6-1-6^FLP104
+          1/6-1-6^FLP104 2/NONE 84/ 80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  102/6-1-6^FLP104/6-1-6^FLP104
+          1/6-1-6^FLP104 2/NONE 84/ 80/M8 l4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  102/6-1-6^FLP104/6-1-6^FLP104
+          1/6-1-6^FLP104 2/NONE 84/ 80/M8 l4/M8 l4-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2/s9^FLP104 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2/s9^FLP104 6/s9^FLP104 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2/s9^FLP104 6/s9^FLP104 10/NONE 101
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2/s9^FLP104 6/s9^FLP104 10/NONE 101/ 100
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2/s9^FLP104 6/s9^FLP104 10/NONE 101/ 100/-1[1] 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2/s9^FLP104 6/s9^FLP104 10/NONE 101/ 100/-1[1] 3/-1[1]-DC_Shell 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2/s9^FLP104 6/s9^FLP104 10/NONE 101/ 100/-1[2] 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  103/s9^FLP104
+          2/s9^FLP104 6/s9^FLP104 10/NONE 101/ 100/-1[2] 3/-1[2]-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  104/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  104/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  104/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 5/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  104/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 5/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 8/NONE 94
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  104/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 5/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 8/NONE 94/ 91
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  104/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 5/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 8/NONE 94/ 91/HeadFillet 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  104/continuous
+          thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread hexagon head
+          bolt A M8 x 40 --N/continuous thread hexagon head bolt_a_jis_JIS B 1180
+          Continuous thread hexagon head bolt A M8 x 40 --N 5/continuous thread hexagon
+          head bolt_a_jis_JIS B 1180 Continuous thread hexagon head bolt A M8 x 40
+          --N 8/NONE 94/ 91/HeadFillet 9/HeadFillet-DC_Shell 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  105
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  105/5-1-5^FLP104
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  105/5-1-5^FLP104/5-1-5^FLP104
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  105/5-1-5^FLP104/5-1-5^FLP104
+          1/5-1-5^FLP104 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  105/5-1-5^FLP104/5-1-5^FLP104
+          1/5-1-5^FLP104 2/NONE 83
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  105/5-1-5^FLP104/5-1-5^FLP104
+          1/5-1-5^FLP104 2/NONE 83/ 79
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  105/5-1-5^FLP104/5-1-5^FLP104
+          1/5-1-5^FLP104 2/NONE 83/ 79/M8 l2 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  37/FLP104_35*35/FLP104_35*35 1/  105/5-1-5^FLP104/5-1-5^FLP104
+          1/5-1-5^FLP104 2/NONE 83/ 79/M8 l2 1/M8 l2-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  38
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  38/L330350
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  38/L330350/L330350 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  38/L330350/L330350 1/L330350 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  38/L330350/L330350 1/L330350 2/NONE
+          35
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  38/L330350/L330350 1/L330350 2/NONE
+          35/ 36
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  38/L330350/L330350 1/L330350 2/NONE
+          35/ 36/1 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  38/L330350/L330350 1/L330350 2/NONE
+          35/ 36/1 5/1-DC_Shell 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  39
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  39/TACu]b_40TAC72 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  39/TACu]b_40TAC72 3/TACu]b_40TAC72
+          6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  39/TACu]b_40TAC72 3/TACu]b_40TAC72
+          6/TACu]b_40TAC72 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  39/TACu]b_40TAC72 3/TACu]b_40TAC72
+          6/TACu]b_40TAC72 8/NONE 44
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  39/TACu]b_40TAC72 3/TACu]b_40TAC72
+          6/TACu]b_40TAC72 8/NONE 44/ 43
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  39/TACu]b_40TAC72 3/TACu]b_40TAC72
+          6/TACu]b_40TAC72 8/NONE 44/ 43/1 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  39/TACu]b_40TAC72 3/TACu]b_40TAC72
+          6/TACu]b_40TAC72 8/NONE 44/ 43/1 8/1-DC_Shell 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  40
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  40/L320222
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  40/L320222/L320222 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  40/L320222/L320222 1/L320222 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  40/L320222/L320222 1/L320222 2/NONE
+          33
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  40/L320222/L320222 1/L320222 2/NONE
+          33/ 34
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  40/L320222/L320222 1/L320222 2/NONE
+          33/ 34/O6.0 (6) |1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  40/L320222/L320222 1/L320222 2/NONE
+          33/ 34/O6.0 (6) |1/O6.0 (6) |1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  41
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  41/L330610
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  41/L330610/L330610 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  41/L330610/L330610 1/L330610 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  41/L330610/L330610 1/L330610 2/NONE
+          38
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  41/L330610/L330610 1/L330610 2/NONE
+          38/ 39
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  41/L330610/L330610 1/L330610 2/NONE
+          38/ 39/M8x1.25 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  41/L330610/L330610 1/L330610 2/NONE
+          38/ 39/M8x1.25 1/M8x1.25 1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  42
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  42/radial ball bearing_68_jis_JIS
+          B 1512-1 - 1030 - B,14,SI,NC,14_68
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  42/radial ball bearing_68_jis_JIS
+          B 1512-1 - 1030 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1
+          - 1030 - B,14,SI,NC,14_68 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  42/radial ball bearing_68_jis_JIS
+          B 1512-1 - 1030 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1
+          - 1030 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 1030
+          - B,14,SI,NC,14_68 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  42/radial ball bearing_68_jis_JIS
+          B 1512-1 - 1030 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1
+          - 1030 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 1030
+          - B,14,SI,NC,14_68 2/NONE 48
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  42/radial ball bearing_68_jis_JIS
+          B 1512-1 - 1030 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1
+          - 1030 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 1030
+          - B,14,SI,NC,14_68 2/NONE 48/ 49
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  42/radial ball bearing_68_jis_JIS
+          B 1512-1 - 1030 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1
+          - 1030 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 1030
+          - B,14,SI,NC,14_68 2/NONE 48/ 49/OuterRace 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  42/radial ball bearing_68_jis_JIS
+          B 1512-1 - 1030 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1
+          - 1030 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 1030
+          - B,14,SI,NC,14_68 2/NONE 48/ 49/OuterRace 4/OuterRace-DC_Shell 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  43
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  43/TACu]b_40TAC72
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  43/TACu]b_40TAC72/TACu]b_40TAC72
+          4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  43/TACu]b_40TAC72/TACu]b_40TAC72
+          4/TACu]b_40TAC72 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  43/TACu]b_40TAC72/TACu]b_40TAC72
+          4/TACu]b_40TAC72 9/NONE 43
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  43/TACu]b_40TAC72/TACu]b_40TAC72
+          4/TACu]b_40TAC72 9/NONE 43/ 44
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  43/TACu]b_40TAC72/TACu]b_40TAC72
+          4/TACu]b_40TAC72 9/NONE 43/ 44/1 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  43/TACu]b_40TAC72/TACu]b_40TAC72
+          4/TACu]b_40TAC72 9/NONE 43/ 44/1 10/1-DC_Shell 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  44
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  44/L330480
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  44/L330480/L330480 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  44/L330480/L330480 1/L330480 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  44/L330480/L330480 1/L330480 2/NONE
+          37
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  44/L330480/L330480 1/L330480 2/NONE
+          37/ 38
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  44/L330480/L330480 1/L330480 2/NONE
+          37/ 38/M12x1.75 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  44/L330480/L330480 1/L330480 2/NONE
+          37/ 38/M12x1.75 2/M12x1.75 2-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  45
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  45/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 30
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  45/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 30/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 30 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  45/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 30/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 30 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 30 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  45/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 30/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 30 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 30 2/NONE
+          47
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  45/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 30/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 30 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 30 2/NONE
+          47/ 48
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  45/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 30/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 30 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 30 2/NONE
+          47/ 48/Body
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  45/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 30/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 30 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 30 2/NONE
+          47/ 48/Body/Body-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  46
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  46/TACu]b_40TAC72 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  46/TACu]b_40TAC72 1/TACu]b_40TAC72
+          7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  46/TACu]b_40TAC72 1/TACu]b_40TAC72
+          7/TACu]b_40TAC72 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  46/TACu]b_40TAC72 1/TACu]b_40TAC72
+          7/TACu]b_40TAC72 11/NONE 42
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  46/TACu]b_40TAC72 1/TACu]b_40TAC72
+          7/TACu]b_40TAC72 11/NONE 42/ 42
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  46/TACu]b_40TAC72 1/TACu]b_40TAC72
+          7/TACu]b_40TAC72 11/NONE 42/ 42/1 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  46/TACu]b_40TAC72 1/TACu]b_40TAC72
+          7/TACu]b_40TAC72 11/NONE 42/ 42/1 7/1-DC_Shell 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  47
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  47/L330311
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  47/L330311/L330311 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  47/L330311/L330311 1/L330311 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  47/L330311/L330311 1/L330311 2/NONE
+          34
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  47/L330311/L330311 1/L330311 2/NONE
+          34/ 35
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  47/L330311/L330311 1/L330311 2/NONE
+          34/ 35/sC1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  47/L330311/L330311 1/L330311 2/NONE
+          34/ 35/sC1/sC1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/ 0
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/ 0/ 0-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/-1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/-1/-1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/sC2[1]
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/sC2[1]/sC2[1]-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/sC2[2]
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/sC2[2]/sC2[2]-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/sC2[3]
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/sC2[3]/sC2[3]-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/sC2[4]
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/sC2[4]/sC2[4]-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/SET0805
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  48/NUT-YSF_M40-1.5P/NUT-YSF_M40-1.5P
+          1/NUT-YSF_M40-1.5P 2/NONE 40/ 41/SET0805/SET0805-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  49
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  49/L330620
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  49/L330620/L330620 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  49/L330620/L330620 1/L330620 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  49/L330620/L330620 1/L330620 2/NONE
+          39
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  49/L330620/L330620 1/L330620 2/NONE
+          39/ 40
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  49/L330620/L330620 1/L330620 2/NONE
+          39/ 40/1 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  49/L330620/L330620 1/L330620 2/NONE
+          39/ 40/1 6/1-DC_Shell 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  50
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  50/TACu]b_40TAC72 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  50/TACu]b_40TAC72 2/TACu]b_40TAC72
+          5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  50/TACu]b_40TAC72 2/TACu]b_40TAC72
+          5/TACu]b_40TAC72 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  50/TACu]b_40TAC72 2/TACu]b_40TAC72
+          5/TACu]b_40TAC72 10/NONE 41
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  50/TACu]b_40TAC72 2/TACu]b_40TAC72
+          5/TACu]b_40TAC72 10/NONE 41/ 45
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  50/TACu]b_40TAC72 2/TACu]b_40TAC72
+          5/TACu]b_40TAC72 10/NONE 41/ 45/1 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  50/TACu]b_40TAC72 2/TACu]b_40TAC72
+          5/TACu]b_40TAC72 10/NONE 41/ 45/1 9/1-DC_Shell 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  51
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  51/L330370
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  51/L330370/L330370 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  51/L330370/L330370 1/L330370 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  51/L330370/L330370 1/L330370 2/NONE
+          36
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  51/L330370/L330370 1/L330370 2/NONE
+          36/ 37
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  51/L330370/L330370 1/L330370 2/NONE
+          36/ 37/O9.0 (9) |1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  51/L330370/L330370 1/L330370 2/NONE
+          36/ 37/O9.0 (9) |1/O9.0 (9) |1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  52
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  52/TC_TC45*68*12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  52/TC_TC45*68*12/TC_TC45*68*12 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  52/TC_TC45*68*12/TC_TC45*68*12 1/TC_TC45*68*12
+          2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  52/TC_TC45*68*12/TC_TC45*68*12 1/TC_TC45*68*12
+          2/NONE 45
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  52/TC_TC45*68*12/TC_TC45*68*12 1/TC_TC45*68*12
+          2/NONE 45/ 46
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  52/TC_TC45*68*12/TC_TC45*68*12 1/TC_TC45*68*12
+          2/NONE 45/ 46/1 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  52/TC_TC45*68*12/TC_TC45*68*12 1/TC_TC45*68*12
+          2/NONE 45/ 46/1 11/1-DC_Shell 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2/NONE 32
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2/NONE 32/ 33
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2/NONE 32/ 33/2 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2/NONE 32/ 33/2 1/NONE 79
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2/NONE 32/ 33/2 1/NONE 79/NONE 105
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2/NONE 32/ 33/2 1/NONE 79/NONE 105/NONE-DC_Shell 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2/NONE 32/ 33/2 1/NONE 79/NONE 105/NONE-DC_Shell 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  53/FA-SV_7KW(30-3000i)/FA-SV_7KW(30-3000i)
+          1/FA-SV_7KW(30-3000i) 2/NONE 32/ 33/2 1/NONE 79/NONE 105/NONE-DC_Shell 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  54
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  54/TC_TC50*62*8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  54/TC_TC50*62*8/TC_TC50*62*8 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  54/TC_TC50*62*8/TC_TC50*62*8 1/TC_TC50*62*8
+          2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  54/TC_TC50*62*8/TC_TC50*62*8 1/TC_TC50*62*8
+          2/NONE 46
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  54/TC_TC50*62*8/TC_TC50*62*8 1/TC_TC50*62*8
+          2/NONE 46/ 47
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  54/TC_TC50*62*8/TC_TC50*62*8 1/TC_TC50*62*8
+          2/NONE 46/ 47/1 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  2/@/@ 1/  54/TC_TC50*62*8/TC_TC50*62*8 1/TC_TC50*62*8
+          2/NONE 46/ 47/1 12/1-DC_Shell 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  3/parallel key jis 1301_JIS B 1301 18x11x40-A
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  3/parallel key jis 1301_JIS B 1301 18x11x40-A/parallel
+          key jis 1301_JIS B 1301 18x11x40-A 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  3/parallel key jis 1301_JIS B 1301 18x11x40-A/parallel
+          key jis 1301_JIS B 1301 18x11x40-A 2/parallel key jis 1301_JIS B 1301 18x11x40-A
+          4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  3/parallel key jis 1301_JIS B 1301 18x11x40-A/parallel
+          key jis 1301_JIS B 1301 18x11x40-A 2/parallel key jis 1301_JIS B 1301 18x11x40-A
+          4/NONE 22
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  3/parallel key jis 1301_JIS B 1301 18x11x40-A/parallel
+          key jis 1301_JIS B 1301 18x11x40-A 2/parallel key jis 1301_JIS B 1301 18x11x40-A
+          4/NONE 22/ 23
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  3/parallel key jis 1301_JIS B 1301 18x11x40-A/parallel
+          key jis 1301_JIS B 1301 18x11x40-A 2/parallel key jis 1301_JIS B 1301 18x11x40-A
+          4/NONE 22/ 23/Chamfer1 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  3/parallel key jis 1301_JIS B 1301 18x11x40-A/parallel
+          key jis 1301_JIS B 1301 18x11x40-A 2/parallel key jis 1301_JIS B 1301 18x11x40-A
+          4/NONE 22/ 23/Chamfer1 2/Chamfer1-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  4/parallel key jis 1301_JIS B 1301 18x11x100-A
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  4/parallel key jis 1301_JIS B 1301 18x11x100-A/parallel
+          key jis 1301_JIS B 1301 18x11x100-A 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  4/parallel key jis 1301_JIS B 1301 18x11x100-A/parallel
+          key jis 1301_JIS B 1301 18x11x100-A 1/parallel key jis 1301_JIS B 1301 18x11x100-A
+          2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  4/parallel key jis 1301_JIS B 1301 18x11x100-A/parallel
+          key jis 1301_JIS B 1301 18x11x100-A 1/parallel key jis 1301_JIS B 1301 18x11x100-A
+          2/NONE 21
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  4/parallel key jis 1301_JIS B 1301 18x11x100-A/parallel
+          key jis 1301_JIS B 1301 18x11x100-A 1/parallel key jis 1301_JIS B 1301 18x11x100-A
+          2/NONE 21/ 22
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  4/parallel key jis 1301_JIS B 1301 18x11x100-A/parallel
+          key jis 1301_JIS B 1301 18x11x100-A 1/parallel key jis 1301_JIS B 1301 18x11x100-A
+          2/NONE 21/ 22/Chamfer1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  4/parallel key jis 1301_JIS B 1301 18x11x100-A/parallel
+          key jis 1301_JIS B 1301 18x11x100-A 1/parallel key jis 1301_JIS B 1301 18x11x100-A
+          2/NONE 21/ 22/Chamfer1/Chamfer1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  5/spring lock washer_2_jis_JIS B 1251 No.2
+          12 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  5/spring lock washer_2_jis_JIS B 1251 No.2
+          12 1/spring lock washer_2_jis_JIS B 1251 No.2 12 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  5/spring lock washer_2_jis_JIS B 1251 No.2
+          12 1/spring lock washer_2_jis_JIS B 1251 No.2 12 13/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 17
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  5/spring lock washer_2_jis_JIS B 1251 No.2
+          12 1/spring lock washer_2_jis_JIS B 1251 No.2 12 13/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 17/NONE 28
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  5/spring lock washer_2_jis_JIS B 1251 No.2
+          12 1/spring lock washer_2_jis_JIS B 1251 No.2 12 13/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 17/NONE 28/ 28
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  5/spring lock washer_2_jis_JIS B 1251 No.2
+          12 1/spring lock washer_2_jis_JIS B 1251 No.2 12 13/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 17/NONE 28/ 28/Gap 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  5/spring lock washer_2_jis_JIS B 1251 No.2
+          12 1/spring lock washer_2_jis_JIS B 1251 No.2 12 13/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 17/NONE 28/ 28/Gap 6/Gap-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  6/Z200110
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  6/Z200110/Z200110 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  6/Z200110/Z200110 1/Z200110 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  6/Z200110/Z200110 1/Z200110 2/NONE 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  6/Z200110/Z200110 1/Z200110 2/NONE 7/ 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  6/Z200110/Z200110 1/Z200110 2/NONE 7/ 8/O6.0mm
+          w1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  6/Z200110/Z200110 1/Z200110 2/NONE 7/ 8/O6.0mm
+          w1/O6.0mm w1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  7/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  7/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  7/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 14/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 22
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  7/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 14/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 22/NONE 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  7/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 14/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 22/NONE 15/ 16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  7/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 14/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 22/NONE 15/ 16/Hex 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  7/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 14/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 22/NONE 15/ 16/Hex 4/Hex-DC_Shell 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/-3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/-3/-3-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]1/NONE 51
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]1/NONE 51/NONE 77
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]1/NONE 51/NONE 77/NONE-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]1/NONE 51/NONE 77/NONE-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]1/NONE 51/NONE 77/NONE-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]1/NONE 51/NONE 77/NONE-DC_Shell 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]2/NONE 52
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]2/NONE 52/NONE 78
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]2/NONE 52/NONE 78/NONE-DC_Shell 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]2/NONE 52/NONE 78/NONE-DC_Shell 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]2/NONE 52/NONE 78/NONE-DC_Shell 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/]2/NONE 52/NONE 78/NONE-DC_Shell 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/M6 YvW1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  8/L340960_w]<[u>/L340960_w]<[u> 1/L340960_w]<[u>
+          2/NONE 6/ 7/M6 YvW1/M6 YvW1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  9/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  9/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 2/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  9/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 2/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 4/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  9/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 2/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 4/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 9/NONE 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  9/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 2/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 4/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 9/NONE 10/ 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  9/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 2/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 4/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 9/NONE 10/ 10/OuterRace 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  9/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 2/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 4/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 9/NONE 10/ 10/OuterRace 3/OuterRace-DC_Shell
+          3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  10/spring lock washer_2_jis_JIS B 1251 No.2
+          12 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  10/spring lock washer_2_jis_JIS B 1251 No.2
+          12 3/spring lock washer_2_jis_JIS B 1251 No.2 12 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  10/spring lock washer_2_jis_JIS B 1251 No.2
+          12 3/spring lock washer_2_jis_JIS B 1251 No.2 12 12/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  10/spring lock washer_2_jis_JIS B 1251 No.2
+          12 3/spring lock washer_2_jis_JIS B 1251 No.2 12 12/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 16/NONE 30
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  10/spring lock washer_2_jis_JIS B 1251 No.2
+          12 3/spring lock washer_2_jis_JIS B 1251 No.2 12 12/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 16/NONE 30/ 25
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  10/spring lock washer_2_jis_JIS B 1251 No.2
+          12 3/spring lock washer_2_jis_JIS B 1251 No.2 12 12/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 16/NONE 30/ 25/Gap 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  10/spring lock washer_2_jis_JIS B 1251 No.2
+          12 3/spring lock washer_2_jis_JIS B 1251 No.2 12 12/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 16/NONE 30/ 25/Gap 4/Gap-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  11/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  11/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 2/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  11/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 2/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 12/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 21
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  11/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 2/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 12/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 21/NONE 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  11/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 2/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 12/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 21/NONE 14/ 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  11/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 2/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 12/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 21/NONE 14/ 15/Hex 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  11/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 2/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 12/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 21/NONE 14/ 15/Hex 7/Hex-DC_Shell 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  12/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  12/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 1/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  12/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 1/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 6/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  12/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 1/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 6/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 11/NONE 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  12/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 1/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 6/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 11/NONE 11/ 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  12/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 1/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 6/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 11/NONE 11/ 12/OuterRace 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  12/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 1/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 6/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 11/NONE 11/ 12/OuterRace 1/OuterRace-DC_Shell
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  13/helical gear_4_jis_JIS - RH Helical gear
+          3M 42T 45HA 20PA 55FW ---42B168H69L120N
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  13/helical gear_4_jis_JIS - RH Helical gear
+          3M 42T 45HA 20PA 55FW ---42B168H69L120N/helical gear_4_jis_JIS - RH Helical
+          gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  13/helical gear_4_jis_JIS - RH Helical gear
+          3M 42T 45HA 20PA 55FW ---42B168H69L120N/helical gear_4_jis_JIS - RH Helical
+          gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 1/helical gear_4_jis_JIS -
+          RH Helical gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  13/helical gear_4_jis_JIS - RH Helical gear
+          3M 42T 45HA 20PA 55FW ---42B168H69L120N/helical gear_4_jis_JIS - RH Helical
+          gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 1/helical gear_4_jis_JIS -
+          RH Helical gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 2/NONE 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  13/helical gear_4_jis_JIS - RH Helical gear
+          3M 42T 45HA 20PA 55FW ---42B168H69L120N/helical gear_4_jis_JIS - RH Helical
+          gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 1/helical gear_4_jis_JIS -
+          RH Helical gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 2/NONE 12/ 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  13/helical gear_4_jis_JIS - RH Helical gear
+          3M 42T 45HA 20PA 55FW ---42B168H69L120N/helical gear_4_jis_JIS - RH Helical
+          gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 1/helical gear_4_jis_JIS -
+          RH Helical gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 2/NONE 12/ 13/Bore
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  13/helical gear_4_jis_JIS - RH Helical gear
+          3M 42T 45HA 20PA 55FW ---42B168H69L120N/helical gear_4_jis_JIS - RH Helical
+          gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 1/helical gear_4_jis_JIS -
+          RH Helical gear 3M 42T 45HA 20PA 55FW ---42B168H69L120N 2/NONE 12/ 13/Bore/Bore-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  14/spring lock washer_2_jis_JIS B 1251 No.2
+          12 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  14/spring lock washer_2_jis_JIS B 1251 No.2
+          12 4/spring lock washer_2_jis_JIS B 1251 No.2 12 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  14/spring lock washer_2_jis_JIS B 1251 No.2
+          12 4/spring lock washer_2_jis_JIS B 1251 No.2 12 9/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 23
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  14/spring lock washer_2_jis_JIS B 1251 No.2
+          12 4/spring lock washer_2_jis_JIS B 1251 No.2 12 9/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 23/NONE 31
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  14/spring lock washer_2_jis_JIS B 1251 No.2
+          12 4/spring lock washer_2_jis_JIS B 1251 No.2 12 9/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 23/NONE 31/ 26
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  14/spring lock washer_2_jis_JIS B 1251 No.2
+          12 4/spring lock washer_2_jis_JIS B 1251 No.2 12 9/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 23/NONE 31/ 26/Gap 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  14/spring lock washer_2_jis_JIS B 1251 No.2
+          12 4/spring lock washer_2_jis_JIS B 1251 No.2 12 9/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 23/NONE 31/ 26/Gap 3/Gap-DC_Shell 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  55
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  55/L180020^L180020-60
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  55/L180020^L180020-60/L180020^L180020-60
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  55/L180020^L180020-60/L180020^L180020-60
+          1/L180020^L180020-60 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  55/L180020^L180020-60/L180020^L180020-60
+          1/L180020^L180020-60 2/NONE 49
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  55/L180020^L180020-60/L180020^L180020-60
+          1/L180020^L180020-60 2/NONE 49/ 50
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  55/L180020^L180020-60/L180020^L180020-60
+          1/L180020^L180020-60 2/NONE 49/ 50/1 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  55/L180020^L180020-60/L180020^L180020-60
+          1/L180020^L180020-60 2/NONE 49/ 50/1 13/1-DC_Shell 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  56
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  56/U^L180020-60
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  56/U^L180020-60/U^L180020-60
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  56/U^L180020-60/U^L180020-60
+          1/U^L180020-60 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  56/U^L180020-60/U^L180020-60
+          1/U^L180020-60 2/NONE 50
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  56/U^L180020-60/U^L180020-60
+          1/U^L180020-60 2/NONE 50/ 51
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  56/U^L180020-60/U^L180020-60
+          1/U^L180020-60 2/NONE 50/ 51/1 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  15/L180020-60/L180020-60 1/  56/U^L180020-60/U^L180020-60
+          1/U^L180020-60 2/NONE 50/ 51/1 14/1-DC_Shell 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  16/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  16/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 5/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  16/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 5/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 15/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 17
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  16/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 5/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 15/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 17/NONE 16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  16/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 5/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 15/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 17/NONE 16/ 21
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  16/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 5/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 15/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 17/NONE 16/ 21/Hex 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  16/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 5/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 15/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 17/NONE 16/ 21/Hex 6/Hex-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  17
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  17/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  17/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 6/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  17/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 6/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 11/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 18
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  17/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 6/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 11/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 18/NONE 19
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  17/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 6/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 11/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 18/NONE 19/ 20
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  17/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 6/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 11/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 18/NONE 19/ 20/Hex 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  17/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 6/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 11/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 18/NONE 19/ 20/Hex 2/Hex-DC_Shell 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  18
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  18/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  18/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  18/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 7/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  18/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 7/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 8/NONE 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  18/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 7/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 8/NONE 8/ 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  18/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 7/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 8/NONE 8/ 9/OuterRace
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  18/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 7/angular contact ball bearing_68_tfm_TOR -
+          7224WN MBR - 17,SI,NC,17_68 8/NONE 8/ 9/OuterRace/OuterRace-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  19
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  19/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  19/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 7/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  19/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 7/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 13/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  19/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 7/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 13/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 16/NONE 20
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  19/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 7/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 13/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 16/NONE 20/ 19
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  19/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 7/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 13/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 16/NONE 20/ 19/Hex
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  19/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 7/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 13/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 16/NONE 20/ 19/Hex/Hex-DC_Shell 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  20
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  20/spring lock washer_2_jis_JIS B 1251 No.2
+          12 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  20/spring lock washer_2_jis_JIS B 1251 No.2
+          12 7/spring lock washer_2_jis_JIS B 1251 No.2 12 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  20/spring lock washer_2_jis_JIS B 1251 No.2
+          12 7/spring lock washer_2_jis_JIS B 1251 No.2 12 10/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 18
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  20/spring lock washer_2_jis_JIS B 1251 No.2
+          12 7/spring lock washer_2_jis_JIS B 1251 No.2 12 10/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 18/NONE 29
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  20/spring lock washer_2_jis_JIS B 1251 No.2
+          12 7/spring lock washer_2_jis_JIS B 1251 No.2 12 10/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 18/NONE 29/ 30
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  20/spring lock washer_2_jis_JIS B 1251 No.2
+          12 7/spring lock washer_2_jis_JIS B 1251 No.2 12 10/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 18/NONE 29/ 30/Gap 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  20/spring lock washer_2_jis_JIS B 1251 No.2
+          12 7/spring lock washer_2_jis_JIS B 1251 No.2 12 10/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 18/NONE 29/ 30/Gap 5/Gap-DC_Shell 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  21
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  21/F1800030 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  21/F1800030 3/F1800030 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  21/F1800030 3/F1800030 5/F1800030 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  21/F1800030 3/F1800030 5/F1800030 9/NONE
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  21/F1800030 3/F1800030 5/F1800030 9/NONE/
+          4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  21/F1800030 3/F1800030 5/F1800030 9/NONE/
+          4/1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  21/F1800030 3/F1800030 5/F1800030 9/NONE/
+          4/1/1-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  22
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  22/parallel key jis 1301_JIS B 1301 18x11x40-A
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  22/parallel key jis 1301_JIS B 1301 18x11x40-A
+          1/parallel key jis 1301_JIS B 1301 18x11x40-A 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  22/parallel key jis 1301_JIS B 1301 18x11x40-A
+          1/parallel key jis 1301_JIS B 1301 18x11x40-A 3/parallel key jis 1301_JIS
+          B 1301 18x11x40-A 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  22/parallel key jis 1301_JIS B 1301 18x11x40-A
+          1/parallel key jis 1301_JIS B 1301 18x11x40-A 3/parallel key jis 1301_JIS
+          B 1301 18x11x40-A 5/NONE 23
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  22/parallel key jis 1301_JIS B 1301 18x11x40-A
+          1/parallel key jis 1301_JIS B 1301 18x11x40-A 3/parallel key jis 1301_JIS
+          B 1301 18x11x40-A 5/NONE 23/ 24
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  22/parallel key jis 1301_JIS B 1301 18x11x40-A
+          1/parallel key jis 1301_JIS B 1301 18x11x40-A 3/parallel key jis 1301_JIS
+          B 1301 18x11x40-A 5/NONE 23/ 24/Chamfer1 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  22/parallel key jis 1301_JIS B 1301 18x11x40-A
+          1/parallel key jis 1301_JIS B 1301 18x11x40-A 3/parallel key jis 1301_JIS
+          B 1301 18x11x40-A 5/NONE 23/ 24/Chamfer1 1/Chamfer1-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  23
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  23/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  23/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 3/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  23/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 3/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 5/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  23/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 3/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 5/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 10/NONE 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  23/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 3/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 5/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 10/NONE 9/ 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  23/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 3/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 5/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 10/NONE 9/ 11/OuterRace 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  23/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 3/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 5/angular contact ball bearing_68_tfm_TOR
+          - 7224WN MBR - 17,SI,NC,17_68 10/NONE 9/ 11/OuterRace 2/OuterRace-DC_Shell
+          2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  24
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  24/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  24/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 1/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  24/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 1/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 8/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 20
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  24/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 1/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 8/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 20/NONE 17
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  24/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 1/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 8/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 20/NONE 17/ 18
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  24/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 1/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 8/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 20/NONE 17/ 18/Hex 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  24/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 1/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 8/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 20/NONE 17/ 18/Hex 1/Hex-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  69
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  69/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 30
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  69/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 30/spring lock washer_2_jis_JIS B 1251 No.2
+          12 37
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  69/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 30/spring lock washer_2_jis_JIS B 1251 No.2
+          12 37/spring lock washer_2_jis_JIS B 1251 No.2 12 45
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  69/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 30/spring lock washer_2_jis_JIS B 1251 No.2
+          12 37/spring lock washer_2_jis_JIS B 1251 No.2 12 45/NONE 73
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  69/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 30/spring lock washer_2_jis_JIS B 1251 No.2
+          12 37/spring lock washer_2_jis_JIS B 1251 No.2 12 45/NONE 73/ 70
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  69/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 30/spring lock washer_2_jis_JIS B 1251 No.2
+          12 37/spring lock washer_2_jis_JIS B 1251 No.2 12 45/NONE 73/ 70/Gap 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  69/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 30/spring lock washer_2_jis_JIS B 1251 No.2
+          12 37/spring lock washer_2_jis_JIS B 1251 No.2 12 45/NONE 73/ 70/Gap 15/Gap-DC_Shell
+          15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  70
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  70/Z200100-80-1^Z200100-80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  70/Z200100-80-1^Z200100-80/Z200100-80-1^Z200100-80
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  70/Z200100-80-1^Z200100-80/Z200100-80-1^Z200100-80
+          1/Z200100-80-1^Z200100-80 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  70/Z200100-80-1^Z200100-80/Z200100-80-1^Z200100-80
+          1/Z200100-80-1^Z200100-80 2/NONE 65
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  70/Z200100-80-1^Z200100-80/Z200100-80-1^Z200100-80
+          1/Z200100-80-1^Z200100-80 2/NONE 65/ 64
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  70/Z200100-80-1^Z200100-80/Z200100-80-1^Z200100-80
+          1/Z200100-80-1^Z200100-80 2/NONE 65/ 64/O6.0mm w1 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  70/Z200100-80-1^Z200100-80/Z200100-80-1^Z200100-80
+          1/Z200100-80-1^Z200100-80 2/NONE 65/ 64/O6.0mm w1 3/O6.0mm w1-DC_Shell 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  71
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  71/taper pin_ab_jis_JIS
+          B 1352 B 6x65 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  71/taper pin_ab_jis_JIS
+          B 1352 B 6x65 2/taper pin_ab_jis_JIS B 1352 B 6x65 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  71/taper pin_ab_jis_JIS
+          B 1352 B 6x65 2/taper pin_ab_jis_JIS B 1352 B 6x65 6/taper pin_ab_jis_JIS
+          B 1352 B 6x65 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  71/taper pin_ab_jis_JIS
+          B 1352 B 6x65 2/taper pin_ab_jis_JIS B 1352 B 6x65 6/taper pin_ab_jis_JIS
+          B 1352 B 6x65 11/NONE 75
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  71/taper pin_ab_jis_JIS
+          B 1352 B 6x65 2/taper pin_ab_jis_JIS B 1352 B 6x65 6/taper pin_ab_jis_JIS
+          B 1352 B 6x65 11/NONE 75/ 73
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  71/taper pin_ab_jis_JIS
+          B 1352 B 6x65 2/taper pin_ab_jis_JIS B 1352 B 6x65 6/taper pin_ab_jis_JIS
+          B 1352 B 6x65 11/NONE 75/ 73/Body 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  71/taper pin_ab_jis_JIS
+          B 1352 B 6x65 2/taper pin_ab_jis_JIS B 1352 B 6x65 6/taper pin_ab_jis_JIS
+          B 1352 B 6x65 11/NONE 75/ 73/Body 3/Body-DC_Shell 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  72
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  72/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  72/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  72/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 15/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 20
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  72/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 15/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 20/NONE 66
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  72/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 15/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 20/NONE 66/ 68
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  72/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 15/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 20/NONE 66/ 68/Hex 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  72/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 5/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 15/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 20/NONE 66/ 68/Hex 15/Hex-DC_Shell 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  73
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  73/taper pin_ab_jis_JIS
+          B 1352 B 6x65 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  73/taper pin_ab_jis_JIS
+          B 1352 B 6x65 3/taper pin_ab_jis_JIS B 1352 B 6x65 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  73/taper pin_ab_jis_JIS
+          B 1352 B 6x65 3/taper pin_ab_jis_JIS B 1352 B 6x65 7/taper pin_ab_jis_JIS
+          B 1352 B 6x65 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  73/taper pin_ab_jis_JIS
+          B 1352 B 6x65 3/taper pin_ab_jis_JIS B 1352 B 6x65 7/taper pin_ab_jis_JIS
+          B 1352 B 6x65 10/NONE 74
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  73/taper pin_ab_jis_JIS
+          B 1352 B 6x65 3/taper pin_ab_jis_JIS B 1352 B 6x65 7/taper pin_ab_jis_JIS
+          B 1352 B 6x65 10/NONE 74/ 74
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  73/taper pin_ab_jis_JIS
+          B 1352 B 6x65 3/taper pin_ab_jis_JIS B 1352 B 6x65 7/taper pin_ab_jis_JIS
+          B 1352 B 6x65 10/NONE 74/ 74/Body 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  73/taper pin_ab_jis_JIS
+          B 1352 B 6x65 3/taper pin_ab_jis_JIS B 1352 B 6x65 7/taper pin_ab_jis_JIS
+          B 1352 B 6x65 10/NONE 74/ 74/Body 4/Body-DC_Shell 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  74
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  74/z200100-80-2^Z200100-80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  74/z200100-80-2^Z200100-80/z200100-80-2^Z200100-80
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  74/z200100-80-2^Z200100-80/z200100-80-2^Z200100-80
+          1/z200100-80-2^Z200100-80 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  74/z200100-80-2^Z200100-80/z200100-80-2^Z200100-80
+          1/z200100-80-2^Z200100-80 2/NONE 76
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  74/z200100-80-2^Z200100-80/z200100-80-2^Z200100-80
+          1/z200100-80-2^Z200100-80 2/NONE 76/ 75
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  74/z200100-80-2^Z200100-80/z200100-80-2^Z200100-80
+          1/z200100-80-2^Z200100-80 2/NONE 76/ 75/O6.0mm w1 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  74/z200100-80-2^Z200100-80/z200100-80-2^Z200100-80
+          1/z200100-80-2^Z200100-80 2/NONE 76/ 75/O6.0mm w1 4/O6.0mm w1-DC_Shell 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  75
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  75/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 31
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  75/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 31/spring lock washer_2_jis_JIS B 1251 No.2
+          12 36
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  75/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 31/spring lock washer_2_jis_JIS B 1251 No.2
+          12 36/spring lock washer_2_jis_JIS B 1251 No.2 12 47
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  75/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 31/spring lock washer_2_jis_JIS B 1251 No.2
+          12 36/spring lock washer_2_jis_JIS B 1251 No.2 12 47/NONE 72
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  75/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 31/spring lock washer_2_jis_JIS B 1251 No.2
+          12 36/spring lock washer_2_jis_JIS B 1251 No.2 12 47/NONE 72/ 69
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  75/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 31/spring lock washer_2_jis_JIS B 1251 No.2
+          12 36/spring lock washer_2_jis_JIS B 1251 No.2 12 47/NONE 72/ 69/Gap 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  75/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 31/spring lock washer_2_jis_JIS B 1251 No.2
+          12 36/spring lock washer_2_jis_JIS B 1251 No.2 12 47/NONE 72/ 69/Gap 14/Gap-DC_Shell
+          13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  76
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  76/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 28
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  76/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 28/spring lock washer_2_jis_JIS B 1251 No.2
+          12 38
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  76/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 28/spring lock washer_2_jis_JIS B 1251 No.2
+          12 38/spring lock washer_2_jis_JIS B 1251 No.2 12 44
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  76/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 28/spring lock washer_2_jis_JIS B 1251 No.2
+          12 38/spring lock washer_2_jis_JIS B 1251 No.2 12 44/NONE 70
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  76/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 28/spring lock washer_2_jis_JIS B 1251 No.2
+          12 38/spring lock washer_2_jis_JIS B 1251 No.2 12 44/NONE 70/ 71
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  76/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 28/spring lock washer_2_jis_JIS B 1251 No.2
+          12 38/spring lock washer_2_jis_JIS B 1251 No.2 12 44/NONE 70/ 71/Gap 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  76/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 28/spring lock washer_2_jis_JIS B 1251 No.2
+          12 38/spring lock washer_2_jis_JIS B 1251 No.2 12 44/NONE 70/ 71/Gap 12/Gap-DC_Shell
+          14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  77
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  77/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  77/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  77/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 13/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 23
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  77/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 13/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 23/NONE 67
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  77/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 13/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 23/NONE 67/ 66
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  77/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 13/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 23/NONE 67/ 66/Hex 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  77/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 6/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 13/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 23/NONE 67/ 66/Hex 13/Hex-DC_Shell 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  78
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  78/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  78/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  78/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 14/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 22
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  78/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 14/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 22/NONE 69
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  78/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 14/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 22/NONE 69/ 65
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  78/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 14/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 22/NONE 69/ 65/Hex 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  78/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 7/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 14/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 22/NONE 69/ 65/Hex 14/Hex-DC_Shell 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  79
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  79/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  79/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  79/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 12/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 21
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  79/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 12/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 21/NONE 68
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  79/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 12/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 21/NONE 68/ 67
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  79/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 12/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 21/NONE 68/ 67/Hex 12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  79/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 4/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 12/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 21/NONE 68/ 67/Hex 12/Hex-DC_Shell 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  80/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 29
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  80/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 29/spring lock washer_2_jis_JIS B 1251 No.2
+          12 39
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  80/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 29/spring lock washer_2_jis_JIS B 1251 No.2
+          12 39/spring lock washer_2_jis_JIS B 1251 No.2 12 46
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  80/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 29/spring lock washer_2_jis_JIS B 1251 No.2
+          12 39/spring lock washer_2_jis_JIS B 1251 No.2 12 46/NONE 71
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  80/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 29/spring lock washer_2_jis_JIS B 1251 No.2
+          12 39/spring lock washer_2_jis_JIS B 1251 No.2 12 46/NONE 71/ 72
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  80/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 29/spring lock washer_2_jis_JIS B 1251 No.2
+          12 39/spring lock washer_2_jis_JIS B 1251 No.2 12 46/NONE 71/ 72/Gap 13
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  25/Z200100-80/Z200100-80 1/  80/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 29/spring lock washer_2_jis_JIS B 1251 No.2
+          12 39/spring lock washer_2_jis_JIS B 1251 No.2 12 46/NONE 71/ 72/Gap 13/Gap-DC_Shell
+          12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  26
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  26/F1800030 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  26/F1800030 2/F1800030 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  26/F1800030 2/F1800030 4/F1800030 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  26/F1800030 2/F1800030 4/F1800030 8/NONE 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  26/F1800030 2/F1800030 4/F1800030 8/NONE 1/
+          3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  26/F1800030 2/F1800030 4/F1800030 8/NONE 1/
+          3/1 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  26/F1800030 2/F1800030 4/F1800030 8/NONE 1/
+          3/1 1/1-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  27
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 2/spring lock washer_2_jis_JIS B 1251 No.2 12 15
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 2/spring lock washer_2_jis_JIS B 1251 No.2 12 15/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 21
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 2/spring lock washer_2_jis_JIS B 1251 No.2 12 15/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 21/NONE 26
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 2/spring lock washer_2_jis_JIS B 1251 No.2 12 15/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 21/NONE 26/ 32
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 2/spring lock washer_2_jis_JIS B 1251 No.2 12 15/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 21/NONE 26/ 32/Gap 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 2/spring lock washer_2_jis_JIS B 1251 No.2 12 15/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 21/NONE 26/ 32/Gap 1/Gap-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  28
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  28/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  28/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 4/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  28/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 4/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 10/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 23
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  28/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 4/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 10/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 23/NONE 18
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  28/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 4/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 10/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 23/NONE 18/ 17
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  28/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 4/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 10/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 23/NONE 18/ 17/Hex 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  28/hexagon socket head cap screw_jis_JIS B
+          1176 M12 x 100 (36) --N 4/hexagon socket head cap screw_jis_JIS B 1176 M12
+          x 100 (36) --N 10/hexagon socket head cap screw_jis_JIS B 1176 M12 x 100
+          (36) --N 23/NONE 18/ 17/Hex 3/Hex-DC_Shell 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  29
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  29/F1800030 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  29/F1800030 1/F1800030 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  29/F1800030 1/F1800030 6/F1800030 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  29/F1800030 1/F1800030 6/F1800030 10/NONE
+          2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  29/F1800030 1/F1800030 6/F1800030 10/NONE
+          2/ 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  29/F1800030 1/F1800030 6/F1800030 10/NONE
+          2/ 2/1 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  29/F1800030 1/F1800030 6/F1800030 10/NONE
+          2/ 2/1 2/1-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  30
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  30/L180030
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  30/L180030/L180030 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  30/L180030/L180030 1/L180030 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  30/L180030/L180030 1/L180030 2/NONE 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  30/L180030/L180030 1/L180030 2/NONE 4/ 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  30/L180030/L180030 1/L180030 2/NONE 4/ 5/2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  30/L180030/L180030 1/L180030 2/NONE 4/ 5/2/2-DC_Shell
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  31
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  31/spring lock washer_2_jis_JIS B 1251 No.2
+          12
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  31/spring lock washer_2_jis_JIS B 1251 No.2
+          12/spring lock washer_2_jis_JIS B 1251 No.2 12 14
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  31/spring lock washer_2_jis_JIS B 1251 No.2
+          12/spring lock washer_2_jis_JIS B 1251 No.2 12 14/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 22
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  31/spring lock washer_2_jis_JIS B 1251 No.2
+          12/spring lock washer_2_jis_JIS B 1251 No.2 12 14/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 22/NONE 24
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  31/spring lock washer_2_jis_JIS B 1251 No.2
+          12/spring lock washer_2_jis_JIS B 1251 No.2 12 14/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 22/NONE 24/ 29
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  31/spring lock washer_2_jis_JIS B 1251 No.2
+          12/spring lock washer_2_jis_JIS B 1251 No.2 12 14/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 22/NONE 24/ 29/Gap
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  31/spring lock washer_2_jis_JIS B 1251 No.2
+          12/spring lock washer_2_jis_JIS B 1251 No.2 12 14/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 22/NONE 24/ 29/Gap/Gap-DC_Shell 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  32
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  32/L330361
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  32/L330361/L330361 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  32/L330361/L330361 1/L330361 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  32/L330361/L330361 1/L330361 2/NONE 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  32/L330361/L330361 1/L330361 2/NONE 5/ 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  32/L330361/L330361 1/L330361 2/NONE 5/ 6/1
+          4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  32/L330361/L330361 1/L330361 2/NONE 5/ 6/1
+          4/1-DC_Shell 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  33
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  33/spring lock washer_2_jis_JIS B 1251 No.2
+          12 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  33/spring lock washer_2_jis_JIS B 1251 No.2
+          12 5/spring lock washer_2_jis_JIS B 1251 No.2 12 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  33/spring lock washer_2_jis_JIS B 1251 No.2
+          12 5/spring lock washer_2_jis_JIS B 1251 No.2 12 8/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 19
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  33/spring lock washer_2_jis_JIS B 1251 No.2
+          12 5/spring lock washer_2_jis_JIS B 1251 No.2 12 8/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 19/NONE 27
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  33/spring lock washer_2_jis_JIS B 1251 No.2
+          12 5/spring lock washer_2_jis_JIS B 1251 No.2 12 8/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 19/NONE 27/ 27
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  33/spring lock washer_2_jis_JIS B 1251 No.2
+          12 5/spring lock washer_2_jis_JIS B 1251 No.2 12 8/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 19/NONE 27/ 27/Gap 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  33/spring lock washer_2_jis_JIS B 1251 No.2
+          12 5/spring lock washer_2_jis_JIS B 1251 No.2 12 8/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 19/NONE 27/ 27/Gap 7/Gap-DC_Shell 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  57
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  57/taper pin_ab_jis_JIS
+          B 1352 B 6x65
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  57/taper pin_ab_jis_JIS
+          B 1352 B 6x65/taper pin_ab_jis_JIS B 1352 B 6x65 4
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  57/taper pin_ab_jis_JIS
+          B 1352 B 6x65/taper pin_ab_jis_JIS B 1352 B 6x65 4/taper pin_ab_jis_JIS
+          B 1352 B 6x65 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  57/taper pin_ab_jis_JIS
+          B 1352 B 6x65/taper pin_ab_jis_JIS B 1352 B 6x65 4/taper pin_ab_jis_JIS
+          B 1352 B 6x65 8/NONE 64
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  57/taper pin_ab_jis_JIS
+          B 1352 B 6x65/taper pin_ab_jis_JIS B 1352 B 6x65 4/taper pin_ab_jis_JIS
+          B 1352 B 6x65 8/NONE 64/ 63
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  57/taper pin_ab_jis_JIS
+          B 1352 B 6x65/taper pin_ab_jis_JIS B 1352 B 6x65 4/taper pin_ab_jis_JIS
+          B 1352 B 6x65 8/NONE 64/ 63/Body 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  57/taper pin_ab_jis_JIS
+          B 1352 B 6x65/taper pin_ab_jis_JIS B 1352 B 6x65 4/taper pin_ab_jis_JIS
+          B 1352 B 6x65 8/NONE 64/ 63/Body 1/Body-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  58
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  58/Z200040-80-2^Z200040-80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  58/Z200040-80-2^Z200040-80/Z200040-80-2^Z200040-80
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  58/Z200040-80-2^Z200040-80/Z200040-80-2^Z200040-80
+          1/Z200040-80-2^Z200040-80 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  58/Z200040-80-2^Z200040-80/Z200040-80-2^Z200040-80
+          1/Z200040-80-2^Z200040-80 2/NONE 54
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  58/Z200040-80-2^Z200040-80/Z200040-80-2^Z200040-80
+          1/Z200040-80-2^Z200040-80 2/NONE 54/ 53
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  58/Z200040-80-2^Z200040-80/Z200040-80-2^Z200040-80
+          1/Z200040-80-2^Z200040-80 2/NONE 54/ 53/O6.0mm w1 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  58/Z200040-80-2^Z200040-80/Z200040-80-2^Z200040-80
+          1/Z200040-80-2^Z200040-80 2/NONE 54/ 53/O6.0mm w1 2/O6.0mm w1-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  59
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  59/Z200040-80-1^Z200040-80
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  59/Z200040-80-1^Z200040-80/Z200040-80-1^Z200040-80
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  59/Z200040-80-1^Z200040-80/Z200040-80-1^Z200040-80
+          1/Z200040-80-1^Z200040-80 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  59/Z200040-80-1^Z200040-80/Z200040-80-1^Z200040-80
+          1/Z200040-80-1^Z200040-80 2/NONE 53
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  59/Z200040-80-1^Z200040-80/Z200040-80-1^Z200040-80
+          1/Z200040-80-1^Z200040-80 2/NONE 53/ 52
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  59/Z200040-80-1^Z200040-80/Z200040-80-1^Z200040-80
+          1/Z200040-80-1^Z200040-80 2/NONE 53/ 52/O6.0mm w1 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  59/Z200040-80-1^Z200040-80/Z200040-80-1^Z200040-80
+          1/Z200040-80-1^Z200040-80 2/NONE 53/ 52/O6.0mm w1 1/O6.0mm w1-DC_Shell 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  60
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  60/taper pin_ab_jis_JIS
+          B 1352 B 6x65 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  60/taper pin_ab_jis_JIS
+          B 1352 B 6x65 1/taper pin_ab_jis_JIS B 1352 B 6x65 5
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  60/taper pin_ab_jis_JIS
+          B 1352 B 6x65 1/taper pin_ab_jis_JIS B 1352 B 6x65 5/taper pin_ab_jis_JIS
+          B 1352 B 6x65 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  60/taper pin_ab_jis_JIS
+          B 1352 B 6x65 1/taper pin_ab_jis_JIS B 1352 B 6x65 5/taper pin_ab_jis_JIS
+          B 1352 B 6x65 9/NONE 63
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  60/taper pin_ab_jis_JIS
+          B 1352 B 6x65 1/taper pin_ab_jis_JIS B 1352 B 6x65 5/taper pin_ab_jis_JIS
+          B 1352 B 6x65 9/NONE 63/ 62
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  60/taper pin_ab_jis_JIS
+          B 1352 B 6x65 1/taper pin_ab_jis_JIS B 1352 B 6x65 5/taper pin_ab_jis_JIS
+          B 1352 B 6x65 9/NONE 63/ 62/Body 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  60/taper pin_ab_jis_JIS
+          B 1352 B 6x65 1/taper pin_ab_jis_JIS B 1352 B 6x65 5/taper pin_ab_jis_JIS
+          B 1352 B 6x65 9/NONE 63/ 62/Body 2/Body-DC_Shell 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  61
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  61/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 27
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  61/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 35
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  61/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 35/spring lock washer_2_jis_JIS B 1251 No.2 12 40
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  61/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 35/spring lock washer_2_jis_JIS B 1251 No.2 12 40/NONE 59
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  61/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 35/spring lock washer_2_jis_JIS B 1251 No.2 12 40/NONE 59/ 61
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  61/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 35/spring lock washer_2_jis_JIS B 1251 No.2 12 40/NONE 59/ 61/Gap 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  61/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 27/spring lock washer_2_jis_JIS B 1251 No.2
+          12 35/spring lock washer_2_jis_JIS B 1251 No.2 12 40/NONE 59/ 61/Gap 11/Gap-DC_Shell
+          11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  62
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  62/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  62/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  62/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 8/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 16
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  62/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 8/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 16/NONE 56
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  62/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 8/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 16/NONE 56/ 54
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  62/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 8/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 16/NONE 56/ 54/Hex 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  62/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 8/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 16/NONE 56/ 54/Hex 9/Hex-DC_Shell 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  63
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  63/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 26
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  63/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 26/spring lock washer_2_jis_JIS B 1251 No.2
+          12 34
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  63/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 26/spring lock washer_2_jis_JIS B 1251 No.2
+          12 34/spring lock washer_2_jis_JIS B 1251 No.2 12 41
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  63/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 26/spring lock washer_2_jis_JIS B 1251 No.2
+          12 34/spring lock washer_2_jis_JIS B 1251 No.2 12 41/NONE 62
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  63/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 26/spring lock washer_2_jis_JIS B 1251 No.2
+          12 34/spring lock washer_2_jis_JIS B 1251 No.2 12 41/NONE 62/ 60
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  63/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 26/spring lock washer_2_jis_JIS B 1251 No.2
+          12 34/spring lock washer_2_jis_JIS B 1251 No.2 12 41/NONE 62/ 60/Gap 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  63/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 26/spring lock washer_2_jis_JIS B 1251 No.2
+          12 34/spring lock washer_2_jis_JIS B 1251 No.2 12 41/NONE 62/ 60/Gap 9/Gap-DC_Shell
+          8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  64
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  64/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  64/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  64/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 11/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 17
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  64/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 11/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 17/NONE 55
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  64/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 11/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 17/NONE 55/ 55
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  64/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 11/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 17/NONE 55/ 55/Hex 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  64/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 1/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 11/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 17/NONE 55/ 55/Hex 11/Hex-DC_Shell 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  65
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  65/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 24
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  65/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 24/spring lock washer_2_jis_JIS B 1251 No.2
+          12 32
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  65/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 24/spring lock washer_2_jis_JIS B 1251 No.2
+          12 32/spring lock washer_2_jis_JIS B 1251 No.2 12 42
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  65/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 24/spring lock washer_2_jis_JIS B 1251 No.2
+          12 32/spring lock washer_2_jis_JIS B 1251 No.2 12 42/NONE 61
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  65/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 24/spring lock washer_2_jis_JIS B 1251 No.2
+          12 32/spring lock washer_2_jis_JIS B 1251 No.2 12 42/NONE 61/ 59
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  65/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 24/spring lock washer_2_jis_JIS B 1251 No.2
+          12 32/spring lock washer_2_jis_JIS B 1251 No.2 12 42/NONE 61/ 59/Gap 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  65/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 24/spring lock washer_2_jis_JIS B 1251 No.2
+          12 32/spring lock washer_2_jis_JIS B 1251 No.2 12 42/NONE 61/ 59/Gap 8/Gap-DC_Shell
+          9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  66
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  66/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  66/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  66/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 10/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 19
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  66/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 10/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 19/NONE 57
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  66/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 10/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 19/NONE 57/ 56
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  66/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 10/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 19/NONE 57/ 56/Hex 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  66/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 2/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 10/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 19/NONE 57/ 56/Hex 10/Hex-DC_Shell 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  67
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  67/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 25
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  67/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 25/spring lock washer_2_jis_JIS B 1251 No.2
+          12 33
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  67/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 25/spring lock washer_2_jis_JIS B 1251 No.2
+          12 33/spring lock washer_2_jis_JIS B 1251 No.2 12 43
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  67/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 25/spring lock washer_2_jis_JIS B 1251 No.2
+          12 33/spring lock washer_2_jis_JIS B 1251 No.2 12 43/NONE 60
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  67/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 25/spring lock washer_2_jis_JIS B 1251 No.2
+          12 33/spring lock washer_2_jis_JIS B 1251 No.2 12 43/NONE 60/ 58
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  67/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 25/spring lock washer_2_jis_JIS B 1251 No.2
+          12 33/spring lock washer_2_jis_JIS B 1251 No.2 12 43/NONE 60/ 58/Gap 10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  67/spring lock
+          washer_2_jis_JIS B 1251 No.2 12 25/spring lock washer_2_jis_JIS B 1251 No.2
+          12 33/spring lock washer_2_jis_JIS B 1251 No.2 12 43/NONE 60/ 58/Gap 10/Gap-DC_Shell
+          10
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  68
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  68/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  68/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  68/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 9/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 18
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  68/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 9/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 18/NONE 58
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  68/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 9/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 18/NONE 58/ 57
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  68/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 9/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 18/NONE 58/ 57/Hex 8
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  34/Z200040-80/Z200040-80 1/  68/hexagon socket
+          head cap screw_jis_JIS B 1176 M12 x 60 (60) --N 3/hexagon socket head cap
+          screw_jis_JIS B 1176 M12 x 60 (60) --N 9/hexagon socket head cap screw_jis_JIS
+          B 1176 M12 x 60 (60) --N 18/NONE 58/ 57/Hex 8/Hex-DC_Shell 9
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  35
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  35/spring lock washer_2_jis_JIS B 1251 No.2
+          12 6
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  35/spring lock washer_2_jis_JIS B 1251 No.2
+          12 6/spring lock washer_2_jis_JIS B 1251 No.2 12 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  35/spring lock washer_2_jis_JIS B 1251 No.2
+          12 6/spring lock washer_2_jis_JIS B 1251 No.2 12 11/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 20
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  35/spring lock washer_2_jis_JIS B 1251 No.2
+          12 6/spring lock washer_2_jis_JIS B 1251 No.2 12 11/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 20/NONE 25
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  35/spring lock washer_2_jis_JIS B 1251 No.2
+          12 6/spring lock washer_2_jis_JIS B 1251 No.2 12 11/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 20/NONE 25/ 31
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  35/spring lock washer_2_jis_JIS B 1251 No.2
+          12 6/spring lock washer_2_jis_JIS B 1251 No.2 12 11/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 20/NONE 25/ 31/Gap 2
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  35/spring lock washer_2_jis_JIS B 1251 No.2
+          12 6/spring lock washer_2_jis_JIS B 1251 No.2 12 11/spring lock washer_2_jis_JIS
+          B 1251 No.2 12 20/NONE 25/ 31/Gap 2/Gap-DC_Shell 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  36
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  36/F1800030
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  36/F1800030/F1800030 7
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  36/F1800030/F1800030 7/F1800030 11
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  36/F1800030/F1800030 7/F1800030 11/NONE 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  36/F1800030/F1800030 7/F1800030 11/NONE 3/
+          1
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  36/F1800030/F1800030 7/F1800030 11/NONE 3/
+          1/1 3
+        weight: 1
+      - path: AST80E42076 1/ /1Z/1Z 1/  36/F1800030/F1800030 7/F1800030 11/NONE 3/
+          1/1 3/1-DC_Shell 3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -2298,7 +5426,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

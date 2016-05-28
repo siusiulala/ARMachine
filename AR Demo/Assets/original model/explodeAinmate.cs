@@ -24,6 +24,7 @@ public class explodeAinmate : MonoBehaviour {
 		animation[aniName].time = 0;
 		animation.Play(aniName);
     }
+	public int times=12;
 
     public void unexplode()
     {
@@ -32,4 +33,10 @@ public class explodeAinmate : MonoBehaviour {
 		animation[aniName].time = animation[aniName].length;
 		animation.Play(aniName);
     }
+
+	public void haha()
+	{
+
+		print ("haha");
+	}
 }

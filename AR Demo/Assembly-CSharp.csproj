@@ -138,6 +138,7 @@
      <Compile Include="Assets\script\changeScene.cs" />
      <Compile Include="Assets\script\changeScene_tail.cs" />
      <Compile Include="Assets\showBtn.cs" />
+     <Compile Include="Assets\test.cs" />
      <Compile Include="Assets\toExplodeView.cs" />
      <None Include="Assets\freeHDRI_assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Shader Calibration Scene\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />

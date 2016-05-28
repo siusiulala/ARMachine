@@ -50,8 +50,43 @@ public class ChangeScene : MonoBehaviour {
 		SceneManager.LoadScene ("tail_all");
 	}
 
+	public void ToTailLock()
+	{
+		SceneManager.LoadScene ("tail_Lock");
+	}
+
+	public void ToTailmandrel()
+	{
+		SceneManager.LoadScene ("tail_mandrel");
+	}
+
 	public void ToBed()
 	{
 		SceneManager.LoadScene ("bed_all");
+	}
+
+	public void ToBedMotor()
+	{
+		SceneManager.LoadScene ("bed_Motor");
+	}
+
+	public void ToBedFoot()
+	{
+		SceneManager.LoadScene ("bed_Foot");
+	}
+
+	public void ToBedZ()
+	{
+		SceneManager.LoadScene ("bed_Z");
+	}
+
+	public void ToBedC()
+	{
+		SceneManager.LoadScene ("bed_C");
+	}
+
+	public void ToBedMotorCase()
+	{
+		SceneManager.LoadScene ("bed_MotorCase");
 	}
 }

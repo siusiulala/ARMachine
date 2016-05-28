@@ -277,8 +277,9 @@ ModelImporter:
     4300022: Hex-DC_Shell
     4300024: Hex-DC_Shell
     4300026: Hex-DC_Shell
-    7400000: Take 001
+    7400000: explode
     9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -299,7 +300,359 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AST3A612868 1
+        weight: 1
+      - path: 'AST3A612868 1/ '
+        weight: 1
+      - path: AST3A612868 1/ /L824090-75
+        weight: 1
+      - path: AST3A612868 1/ /L824090-75/L824090-75 1
+        weight: 1
+      - path: AST3A612868 1/ /L824090-75/L824090-75 1/L824090-75 2
+        weight: 1
+      - path: AST3A612868 1/ /L824090-75/L824090-75 1/L824090-75 2/NONE 2
+        weight: 1
+      - path: AST3A612868 1/ /L824090-75/L824090-75 1/L824090-75 2/NONE 2/ 3
+        weight: 1
+      - path: AST3A612868 1/ /L824090-75/L824090-75 1/L824090-75 2/NONE 2/ 3/O8.0
+          (8) |1
+        weight: 1
+      - path: AST3A612868 1/ /L824090-75/L824090-75 1/L824090-75 2/NONE 2/ 3/O8.0
+          (8) |1/NONE 14
+        weight: 1
+      - path: AST3A612868 1/ /L824090-75/L824090-75 1/L824090-75 2/NONE 2/ 3/O8.0
+          (8) |1/NONE 14/NONE-DC_Shell
+        weight: 1
+      - path: AST3A612868 1/  1
+        weight: 1
+      - path: AST3A612868 1/  1/O-RING
+        weight: 1
+      - path: AST3A612868 1/  1/O-RING/O-RING 1
+        weight: 1
+      - path: AST3A612868 1/  1/O-RING/O-RING 1/O-RING 2
+        weight: 1
+      - path: AST3A612868 1/  1/O-RING/O-RING 1/O-RING 2/NONE 4
+        weight: 1
+      - path: AST3A612868 1/  1/O-RING/O-RING 1/O-RING 2/NONE 4/ 5
+        weight: 1
+      - path: AST3A612868 1/  1/O-RING/O-RING 1/O-RING 2/NONE 4/ 5/1 1
+        weight: 1
+      - path: AST3A612868 1/  1/O-RING/O-RING 1/O-RING 2/NONE 4/ 5/1 1/1-DC_Shell
+          1
+        weight: 1
+      - path: AST3A612868 1/  2
+        weight: 1
+      - path: AST3A612868 1/  2/hexagon socket head cap screw_jis_PreviewCfg 7
+        weight: 1
+      - path: AST3A612868 1/  2/hexagon socket head cap screw_jis_PreviewCfg 7/hexagon
+          socket head cap screw_jis_PreviewCfg 9
+        weight: 1
+      - path: AST3A612868 1/  2/hexagon socket head cap screw_jis_PreviewCfg 7/hexagon
+          socket head cap screw_jis_PreviewCfg 9/hexagon socket head cap screw_jis_PreviewCfg
+          18
+        weight: 1
+      - path: AST3A612868 1/  2/hexagon socket head cap screw_jis_PreviewCfg 7/hexagon
+          socket head cap screw_jis_PreviewCfg 9/hexagon socket head cap screw_jis_PreviewCfg
+          18/NONE 13
+        weight: 1
+      - path: AST3A612868 1/  2/hexagon socket head cap screw_jis_PreviewCfg 7/hexagon
+          socket head cap screw_jis_PreviewCfg 9/hexagon socket head cap screw_jis_PreviewCfg
+          18/NONE 13/ 7
+        weight: 1
+      - path: AST3A612868 1/  2/hexagon socket head cap screw_jis_PreviewCfg 7/hexagon
+          socket head cap screw_jis_PreviewCfg 9/hexagon socket head cap screw_jis_PreviewCfg
+          18/NONE 13/ 7/Hex
+        weight: 1
+      - path: AST3A612868 1/  2/hexagon socket head cap screw_jis_PreviewCfg 7/hexagon
+          socket head cap screw_jis_PreviewCfg 9/hexagon socket head cap screw_jis_PreviewCfg
+          18/NONE 13/ 7/Hex/Hex-DC_Shell 7
+        weight: 1
+      - path: AST3A612868 1/  3
+        weight: 1
+      - path: AST3A612868 1/  3/hexagon socket head cap screw_jis_PreviewCfg 2
+        weight: 1
+      - path: AST3A612868 1/  3/hexagon socket head cap screw_jis_PreviewCfg 2/hexagon
+          socket head cap screw_jis_PreviewCfg 13
+        weight: 1
+      - path: AST3A612868 1/  3/hexagon socket head cap screw_jis_PreviewCfg 2/hexagon
+          socket head cap screw_jis_PreviewCfg 13/hexagon socket head cap screw_jis_PreviewCfg
+          16
+        weight: 1
+      - path: AST3A612868 1/  3/hexagon socket head cap screw_jis_PreviewCfg 2/hexagon
+          socket head cap screw_jis_PreviewCfg 13/hexagon socket head cap screw_jis_PreviewCfg
+          16/NONE 11
+        weight: 1
+      - path: AST3A612868 1/  3/hexagon socket head cap screw_jis_PreviewCfg 2/hexagon
+          socket head cap screw_jis_PreviewCfg 13/hexagon socket head cap screw_jis_PreviewCfg
+          16/NONE 11/ 8
+        weight: 1
+      - path: AST3A612868 1/  3/hexagon socket head cap screw_jis_PreviewCfg 2/hexagon
+          socket head cap screw_jis_PreviewCfg 13/hexagon socket head cap screw_jis_PreviewCfg
+          16/NONE 11/ 8/Hex 2
+        weight: 1
+      - path: AST3A612868 1/  3/hexagon socket head cap screw_jis_PreviewCfg 2/hexagon
+          socket head cap screw_jis_PreviewCfg 13/hexagon socket head cap screw_jis_PreviewCfg
+          16/NONE 11/ 8/Hex 2/Hex-DC_Shell 6
+        weight: 1
+      - path: AST3A612868 1/  4
+        weight: 1
+      - path: AST3A612868 1/  4/hexagon socket head cap screw_jis_PreviewCfg 4
+        weight: 1
+      - path: AST3A612868 1/  4/hexagon socket head cap screw_jis_PreviewCfg 4/hexagon
+          socket head cap screw_jis_PreviewCfg 10
+        weight: 1
+      - path: AST3A612868 1/  4/hexagon socket head cap screw_jis_PreviewCfg 4/hexagon
+          socket head cap screw_jis_PreviewCfg 10/hexagon socket head cap screw_jis_PreviewCfg
+          19
+        weight: 1
+      - path: AST3A612868 1/  4/hexagon socket head cap screw_jis_PreviewCfg 4/hexagon
+          socket head cap screw_jis_PreviewCfg 10/hexagon socket head cap screw_jis_PreviewCfg
+          19/NONE 10
+        weight: 1
+      - path: AST3A612868 1/  4/hexagon socket head cap screw_jis_PreviewCfg 4/hexagon
+          socket head cap screw_jis_PreviewCfg 10/hexagon socket head cap screw_jis_PreviewCfg
+          19/NONE 10/ 9
+        weight: 1
+      - path: AST3A612868 1/  4/hexagon socket head cap screw_jis_PreviewCfg 4/hexagon
+          socket head cap screw_jis_PreviewCfg 10/hexagon socket head cap screw_jis_PreviewCfg
+          19/NONE 10/ 9/Hex 4
+        weight: 1
+      - path: AST3A612868 1/  4/hexagon socket head cap screw_jis_PreviewCfg 4/hexagon
+          socket head cap screw_jis_PreviewCfg 10/hexagon socket head cap screw_jis_PreviewCfg
+          19/NONE 10/ 9/Hex 4/Hex-DC_Shell 5
+        weight: 1
+      - path: AST3A612868 1/  5
+        weight: 1
+      - path: AST3A612868 1/  5/L824140
+        weight: 1
+      - path: AST3A612868 1/  5/L824140/L824140 1
+        weight: 1
+      - path: AST3A612868 1/  5/L824140/L824140 1/L824140 2
+        weight: 1
+      - path: AST3A612868 1/  5/L824140/L824140 1/L824140 2/NONE 3
+        weight: 1
+      - path: AST3A612868 1/  5/L824140/L824140 1/L824140 2/NONE 3/ 4
+        weight: 1
+      - path: AST3A612868 1/  5/L824140/L824140 1/L824140 2/NONE 3/ 4/1
+        weight: 1
+      - path: AST3A612868 1/  5/L824140/L824140 1/L824140 2/NONE 3/ 4/1/1-DC_Shell
+        weight: 1
+      - path: AST3A612868 1/  6
+        weight: 1
+      - path: AST3A612868 1/  6/hexagon socket head cap screw_jis_PreviewCfg 1
+        weight: 1
+      - path: AST3A612868 1/  6/hexagon socket head cap screw_jis_PreviewCfg 1/hexagon
+          socket head cap screw_jis_PreviewCfg 8
+        weight: 1
+      - path: AST3A612868 1/  6/hexagon socket head cap screw_jis_PreviewCfg 1/hexagon
+          socket head cap screw_jis_PreviewCfg 8/hexagon socket head cap screw_jis_PreviewCfg
+          17
+        weight: 1
+      - path: AST3A612868 1/  6/hexagon socket head cap screw_jis_PreviewCfg 1/hexagon
+          socket head cap screw_jis_PreviewCfg 8/hexagon socket head cap screw_jis_PreviewCfg
+          17/NONE 12
+        weight: 1
+      - path: AST3A612868 1/  6/hexagon socket head cap screw_jis_PreviewCfg 1/hexagon
+          socket head cap screw_jis_PreviewCfg 8/hexagon socket head cap screw_jis_PreviewCfg
+          17/NONE 12/ 13
+        weight: 1
+      - path: AST3A612868 1/  6/hexagon socket head cap screw_jis_PreviewCfg 1/hexagon
+          socket head cap screw_jis_PreviewCfg 8/hexagon socket head cap screw_jis_PreviewCfg
+          17/NONE 12/ 13/Hex 1
+        weight: 1
+      - path: AST3A612868 1/  6/hexagon socket head cap screw_jis_PreviewCfg 1/hexagon
+          socket head cap screw_jis_PreviewCfg 8/hexagon socket head cap screw_jis_PreviewCfg
+          17/NONE 12/ 13/Hex 1/Hex-DC_Shell
+        weight: 1
+      - path: AST3A612868 1/  7
+        weight: 1
+      - path: AST3A612868 1/  7/hexagon socket head cap screw_jis_PreviewCfg 5
+        weight: 1
+      - path: AST3A612868 1/  7/hexagon socket head cap screw_jis_PreviewCfg 5/hexagon
+          socket head cap screw_jis_PreviewCfg 12
+        weight: 1
+      - path: AST3A612868 1/  7/hexagon socket head cap screw_jis_PreviewCfg 5/hexagon
+          socket head cap screw_jis_PreviewCfg 12/hexagon socket head cap screw_jis_PreviewCfg
+          21
+        weight: 1
+      - path: AST3A612868 1/  7/hexagon socket head cap screw_jis_PreviewCfg 5/hexagon
+          socket head cap screw_jis_PreviewCfg 12/hexagon socket head cap screw_jis_PreviewCfg
+          21/NONE 8
+        weight: 1
+      - path: AST3A612868 1/  7/hexagon socket head cap screw_jis_PreviewCfg 5/hexagon
+          socket head cap screw_jis_PreviewCfg 12/hexagon socket head cap screw_jis_PreviewCfg
+          21/NONE 8/ 10
+        weight: 1
+      - path: AST3A612868 1/  7/hexagon socket head cap screw_jis_PreviewCfg 5/hexagon
+          socket head cap screw_jis_PreviewCfg 12/hexagon socket head cap screw_jis_PreviewCfg
+          21/NONE 8/ 10/Hex 5
+        weight: 1
+      - path: AST3A612868 1/  7/hexagon socket head cap screw_jis_PreviewCfg 5/hexagon
+          socket head cap screw_jis_PreviewCfg 12/hexagon socket head cap screw_jis_PreviewCfg
+          21/NONE 8/ 10/Hex 5/Hex-DC_Shell 4
+        weight: 1
+      - path: AST3A612868 1/  8
+        weight: 1
+      - path: AST3A612868 1/  8/L824070
+        weight: 1
+      - path: AST3A612868 1/  8/L824070/L824070 1
+        weight: 1
+      - path: AST3A612868 1/  8/L824070/L824070 1/L824070 2
+        weight: 1
+      - path: AST3A612868 1/  8/L824070/L824070 1/L824070 2/NONE
+        weight: 1
+      - path: AST3A612868 1/  8/L824070/L824070 1/L824070 2/NONE/ 1
+        weight: 1
+      - path: AST3A612868 1/  8/L824070/L824070 1/L824070 2/NONE/ 1/2
+        weight: 1
+      - path: AST3A612868 1/  8/L824070/L824070 1/L824070 2/NONE/ 1/2/2-DC_Shell
+        weight: 1
+      - path: AST3A612868 1/  9
+        weight: 1
+      - path: AST3A612868 1/  9/USH50-40-6
+        weight: 1
+      - path: AST3A612868 1/  9/USH50-40-6/USH50-40-6 1
+        weight: 1
+      - path: AST3A612868 1/  9/USH50-40-6/USH50-40-6 1/USH50-40-6 2
+        weight: 1
+      - path: AST3A612868 1/  9/USH50-40-6/USH50-40-6 1/USH50-40-6 2/NONE 5
+        weight: 1
+      - path: AST3A612868 1/  9/USH50-40-6/USH50-40-6 1/USH50-40-6 2/NONE 5/ 6
+        weight: 1
+      - path: AST3A612868 1/  9/USH50-40-6/USH50-40-6 1/USH50-40-6 2/NONE 5/ 6/1 2
+        weight: 1
+      - path: AST3A612868 1/  9/USH50-40-6/USH50-40-6 1/USH50-40-6 2/NONE 5/ 6/1 2/1-DC_Shell
+          2
+        weight: 1
+      - path: AST3A612868 1/  10
+        weight: 1
+      - path: AST3A612868 1/  10/hexagon socket head cap screw_jis_PreviewCfg 3
+        weight: 1
+      - path: AST3A612868 1/  10/hexagon socket head cap screw_jis_PreviewCfg 3/hexagon
+          socket head cap screw_jis_PreviewCfg 14
+        weight: 1
+      - path: AST3A612868 1/  10/hexagon socket head cap screw_jis_PreviewCfg 3/hexagon
+          socket head cap screw_jis_PreviewCfg 14/hexagon socket head cap screw_jis_PreviewCfg
+          23
+        weight: 1
+      - path: AST3A612868 1/  10/hexagon socket head cap screw_jis_PreviewCfg 3/hexagon
+          socket head cap screw_jis_PreviewCfg 14/hexagon socket head cap screw_jis_PreviewCfg
+          23/NONE 7
+        weight: 1
+      - path: AST3A612868 1/  10/hexagon socket head cap screw_jis_PreviewCfg 3/hexagon
+          socket head cap screw_jis_PreviewCfg 14/hexagon socket head cap screw_jis_PreviewCfg
+          23/NONE 7/ 11
+        weight: 1
+      - path: AST3A612868 1/  10/hexagon socket head cap screw_jis_PreviewCfg 3/hexagon
+          socket head cap screw_jis_PreviewCfg 14/hexagon socket head cap screw_jis_PreviewCfg
+          23/NONE 7/ 11/Hex 7
+        weight: 1
+      - path: AST3A612868 1/  10/hexagon socket head cap screw_jis_PreviewCfg 3/hexagon
+          socket head cap screw_jis_PreviewCfg 14/hexagon socket head cap screw_jis_PreviewCfg
+          23/NONE 7/ 11/Hex 7/Hex-DC_Shell 3
+        weight: 1
+      - path: AST3A612868 1/  11
+        weight: 1
+      - path: AST3A612868 1/  11/hexagon socket head cap screw_jis_PreviewCfg 6
+        weight: 1
+      - path: AST3A612868 1/  11/hexagon socket head cap screw_jis_PreviewCfg 6/hexagon
+          socket head cap screw_jis_PreviewCfg 11
+        weight: 1
+      - path: AST3A612868 1/  11/hexagon socket head cap screw_jis_PreviewCfg 6/hexagon
+          socket head cap screw_jis_PreviewCfg 11/hexagon socket head cap screw_jis_PreviewCfg
+          20
+        weight: 1
+      - path: AST3A612868 1/  11/hexagon socket head cap screw_jis_PreviewCfg 6/hexagon
+          socket head cap screw_jis_PreviewCfg 11/hexagon socket head cap screw_jis_PreviewCfg
+          20/NONE 9
+        weight: 1
+      - path: AST3A612868 1/  11/hexagon socket head cap screw_jis_PreviewCfg 6/hexagon
+          socket head cap screw_jis_PreviewCfg 11/hexagon socket head cap screw_jis_PreviewCfg
+          20/NONE 9/ 14
+        weight: 1
+      - path: AST3A612868 1/  11/hexagon socket head cap screw_jis_PreviewCfg 6/hexagon
+          socket head cap screw_jis_PreviewCfg 11/hexagon socket head cap screw_jis_PreviewCfg
+          20/NONE 9/ 14/Hex 3
+        weight: 1
+      - path: AST3A612868 1/  11/hexagon socket head cap screw_jis_PreviewCfg 6/hexagon
+          socket head cap screw_jis_PreviewCfg 11/hexagon socket head cap screw_jis_PreviewCfg
+          20/NONE 9/ 14/Hex 3/Hex-DC_Shell 1
+        weight: 1
+      - path: AST3A612868 1/  12
+        weight: 1
+      - path: AST3A612868 1/  12/hexagon socket head cap screw_jis_PreviewCfg
+        weight: 1
+      - path: AST3A612868 1/  12/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 15
+        weight: 1
+      - path: AST3A612868 1/  12/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 15/hexagon socket head cap screw_jis_PreviewCfg
+          22
+        weight: 1
+      - path: AST3A612868 1/  12/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 15/hexagon socket head cap screw_jis_PreviewCfg
+          22/NONE 6
+        weight: 1
+      - path: AST3A612868 1/  12/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 15/hexagon socket head cap screw_jis_PreviewCfg
+          22/NONE 6/ 12
+        weight: 1
+      - path: AST3A612868 1/  12/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 15/hexagon socket head cap screw_jis_PreviewCfg
+          22/NONE 6/ 12/Hex 6
+        weight: 1
+      - path: AST3A612868 1/  12/hexagon socket head cap screw_jis_PreviewCfg/hexagon
+          socket head cap screw_jis_PreviewCfg 15/hexagon socket head cap screw_jis_PreviewCfg
+          22/NONE 6/ 12/Hex 6/Hex-DC_Shell 2
+        weight: 1
+      - path: AST3A612868 1/  13
+        weight: 1
+      - path: AST3A612868 1/  13/L824081
+        weight: 1
+      - path: AST3A612868 1/  13/L824081/L824081 1
+        weight: 1
+      - path: AST3A612868 1/  13/L824081/L824081 1/L824081 2
+        weight: 1
+      - path: AST3A612868 1/  13/L824081/L824081 1/L824081 2/NONE 1
+        weight: 1
+      - path: AST3A612868 1/  13/L824081/L824081 1/L824081 2/NONE 1/ 2
+        weight: 1
+      - path: AST3A612868 1/  13/L824081/L824081 1/L824081 2/NONE 1/ 2/M8x1.25 1
+        weight: 1
+      - path: AST3A612868 1/  13/L824081/L824081 1/L824081 2/NONE 1/ 2/M8x1.25 1/M8x1.25
+          1-DC_Shell
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -337,7 +690,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
