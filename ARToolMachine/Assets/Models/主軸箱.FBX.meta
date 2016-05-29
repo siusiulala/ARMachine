@@ -1,0 +1,4007 @@
+fileFormatVersion: 2
+guid: 8a9773526cd7d430f9462604a3e3f6d3
+timeCreated: 1464464216
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  16'
+    100018: '  17'
+    100020: '  18'
+    100022: '  19'
+    100024: '  2'
+    100026: '  20'
+    100028: '  21'
+    100030: '  22'
+    100032: '  23'
+    100034: '  24'
+    100036: '  25'
+    100038: '  26'
+    100040: '  27'
+    100042: '  28'
+    100044: '  29'
+    100046: '  3'
+    100048: '  30'
+    100050: '  31'
+    100052: '  32'
+    100054: '  33'
+    100056: '  34'
+    100058: '  35'
+    100060: '  36'
+    100062: '  37'
+    100064: '  38'
+    100066: '  39'
+    100068: '  4'
+    100070: '  40'
+    100072: '  41'
+    100074: '  42'
+    100076: '  43'
+    100078: '  44'
+    100080: '  45'
+    100082: '  46'
+    100084: '  47'
+    100086: '  48'
+    100088: '  49'
+    100090: '  5'
+    100092: '  50'
+    100094: '  51'
+    100096: '  52'
+    100098: '  53'
+    100100: '  54'
+    100102: '  55'
+    100104: '  56'
+    100106: '  57'
+    100108: '  58'
+    100110: '  59'
+    100112: '  6'
+    100114: '  60'
+    100116: '  61'
+    100118: '  62'
+    100120: '  63'
+    100122: '  64'
+    100124: '  65'
+    100126: '  66'
+    100128: '  67'
+    100130: '  68'
+    100132: '  69'
+    100134: '  7'
+    100136: '  70'
+    100138: '  71'
+    100140: '  72'
+    100142: '  73'
+    100144: '  74'
+    100146: '  75'
+    100148: '  76'
+    100150: '  77'
+    100152: '  78'
+    100154: '  79'
+    100156: '  8'
+    100158: '  80'
+    100160: '  81'
+    100162: '  82'
+    100164: '  83'
+    100166: '  9'
+    100168: ' 1'
+    100170: ' 10'
+    100172: ' 11'
+    100174: ' 12'
+    100176: ' 13'
+    100178: ' 14'
+    100180: ' 15'
+    100182: ' 16'
+    100184: ' 17'
+    100186: ' 18'
+    100188: ' 19'
+    100190: ' 2'
+    100192: ' 20'
+    100194: ' 21'
+    100196: ' 22'
+    100198: ' 23'
+    100200: ' 24'
+    100202: ' 25'
+    100204: ' 26'
+    100206: ' 27'
+    100208: ' 28'
+    100210: ' 29'
+    100212: ' 3'
+    100214: ' 30'
+    100216: ' 31'
+    100218: ' 32'
+    100220: ' 33'
+    100222: ' 34'
+    100224: ' 35'
+    100226: ' 36'
+    100228: ' 37'
+    100230: ' 38'
+    100232: ' 39'
+    100234: ' 4'
+    100236: ' 40'
+    100238: ' 41'
+    100240: ' 42'
+    100242: ' 43'
+    100244: ' 44'
+    100246: ' 45'
+    100248: ' 46'
+    100250: ' 47'
+    100252: ' 48'
+    100254: ' 49'
+    100256: ' 5'
+    100258: ' 50'
+    100260: ' 51'
+    100262: ' 52'
+    100264: ' 53'
+    100266: ' 54'
+    100268: ' 55'
+    100270: ' 56'
+    100272: ' 57'
+    100274: ' 58'
+    100276: ' 59'
+    100278: ' 6'
+    100280: ' 60'
+    100282: ' 61'
+    100284: ' 62'
+    100286: ' 63'
+    100288: ' 64'
+    100290: ' 65'
+    100292: ' 66'
+    100294: ' 67'
+    100296: ' 68'
+    100298: ' 69'
+    100300: ' 7'
+    100302: ' 70'
+    100304: ' 71'
+    100306: ' 72'
+    100308: ' 73'
+    100310: ' 74'
+    100312: ' 75'
+    100314: ' 76'
+    100316: ' 77'
+    100318: ' 78'
+    100320: ' 79'
+    100322: ' 8'
+    100324: ' 80'
+    100326: ' 81'
+    100328: ' 82'
+    100330: ' 83'
+    100332: ' 84'
+    100334: ' 9'
+    100336: ' Case'
+    100338: ' l1'
+    100340: ' l1 1'
+    100342: ' l1-DC_Shell'
+    100344: ' l1-DC_Shell 1'
+    100346: ' ShaftA'
+    100348: ' ShaftB'
+    100350: ' ShaftF'
+    100352: ' ShaftL1'
+    100354: ' ShaftL2'
+    100356: ' Side'
+    100358: ' Top'
+    100360: -/s1
+    100362: -1
+    100364: -1 1
+    100366: -1 10
+    100368: -1 2
+    100370: -1 3
+    100372: -1 4
+    100374: -1 5
+    100376: -1 6
+    100378: -1 7
+    100380: -1 8
+    100382: -1 9
+    100384: -1-DC_Shell
+    100386: -1-DC_Shell 1
+    100388: -1-DC_Shell 2
+    100390: -1-DC_Shell 3
+    100392: -1-DC_Shell 4
+    100394: -1-DC_Shell 5
+    100396: -1-DC_Shell 6
+    100398: -1-DC_Shell 7
+    100400: -1-DC_Shell 8
+    100402: -1-DC_Shell 9
+    100404: 1
+    100406: 1 1
+    100408: 1 10
+    100410: 1 11
+    100412: 1 12
+    100414: 1 13
+    100416: 1 14
+    100418: 1 15
+    100420: 1 16
+    100422: 1 17
+    100424: 1 18
+    100426: 1 19
+    100428: 1 2
+    100430: 1 20
+    100432: 1 21
+    100434: 1 22
+    100436: 1 23
+    100438: 1 24
+    100440: 1 3
+    100442: 1 4
+    100444: 1 5
+    100446: 1 6
+    100448: 1 7
+    100450: 1 8
+    100452: 1 9
+    100454: 1-DC_Shell
+    100456: 1-DC_Shell 1
+    100458: 1-DC_Shell 10
+    100460: 1-DC_Shell 11
+    100462: 1-DC_Shell 12
+    100464: 1-DC_Shell 2
+    100466: 1-DC_Shell 3
+    100468: 1-DC_Shell 4
+    100470: 1-DC_Shell 5
+    100472: 1-DC_Shell 6
+    100474: 1-DC_Shell 7
+    100476: 1-DC_Shell 8
+    100478: 1-DC_Shell 9
+    100480: 2
+    100482: 2-DC_Shell
+    100484: 3
+    100486: 3-DC_Shell
+    100488: 412221203
+    100490: 412221203 1
+    100492: 412221203 2
+    100494: 412230370
+    100496: 412230370 1
+    100498: 412230370 2
+    100500: 412230380
+    100502: 412230380 1
+    100504: 412230380 2
+    100506: 412230391
+    100508: 412230391 1
+    100510: 412230391 2
+    100512: 412230402
+    100514: 412230402 1
+    100516: 412230402 2
+    100518: AST57264656 1
+    100520: B2000051
+    100522: B2000051 1
+    100524: B2000051 2
+    100526: B2000350
+    100528: B2000350 1
+    100530: B2000350 2
+    100532: B2000420
+    100534: B2000420 1
+    100536: B2000420 2
+    100538: B2000420 3
+    100540: B2000420 4
+    100542: B2000420 5
+    100544: B2000600
+    100546: B2000600 1
+    100548: B2000600 2
+    100550: B2000600 3
+    100552: B2000600 4
+    100554: B2000600 5
+    100556: bA1
+    100558: bA1 1
+    100560: bA2
+    100562: bA2 1
+    100564: BallsDetailed
+    100566: BallsDetailed 1
+    100568: BallsDetailed 2
+    100570: BallsDetailed 3
+    100572: BallsDetailed 4
+    100574: BallsDetailed-DC_Shell
+    100576: BallsDetailed-DC_Shell 1
+    100578: BallsDetailed-DC_Shell 2
+    100580: BallsDetailed-DC_Shell 3
+    100582: BallsDetailed-DC_Shell 4
+    100584: bB
+    100586: bB 1
+    100588: bF
+    100590: bF 1
+    100592: bL1
+    100594: bL1 1
+    100596: bL2
+    100598: bL2 1
+    100600: Body
+    100602: Body 1
+    100604: Body 10
+    100606: Body 11
+    100608: Body 12
+    100610: Body 13
+    100612: Body 2
+    100614: Body 3
+    100616: Body 4
+    100618: Body 5
+    100620: Body 6
+    100622: Body 7
+    100624: Body 8
+    100626: Body 9
+    100628: Body-DC_Shell
+    100630: Body-DC_Shell 1
+    100632: Body-DC_Shell 10
+    100634: Body-DC_Shell 11
+    100636: Body-DC_Shell 12
+    100638: Body-DC_Shell 13
+    100640: Body-DC_Shell 2
+    100642: Body-DC_Shell 3
+    100644: Body-DC_Shell 4
+    100646: Body-DC_Shell 5
+    100648: Body-DC_Shell 6
+    100650: Body-DC_Shell 7
+    100652: Body-DC_Shell 8
+    100654: Body-DC_Shell 9
+    100656: c type hole use retaining ring_jis_JIS B 2804 Hole use 120
+    100658: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 1
+    100660: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 10
+    100662: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 11
+    100664: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 12
+    100666: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 13
+    100668: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 14
+    100670: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 2
+    100672: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 3
+    100674: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 4
+    100676: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 5
+    100678: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 6
+    100680: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 7
+    100682: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 8
+    100684: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 9
+    100686: c type hole use retaining ring_jis_PreviewCfg
+    100688: c type hole use retaining ring_jis_PreviewCfg 1
+    100690: c type hole use retaining ring_jis_PreviewCfg 2
+    100692: c type hole use retaining ring_jis_PreviewCfg 3
+    100694: c type hole use retaining ring_jis_PreviewCfg 4
+    100696: c type hole use retaining ring_jis_PreviewCfg 5
+    100698: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100
+    100700: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 1
+    100702: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2
+    100704: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45
+    100706: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 1
+    100708: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2
+    100710: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55
+    100712: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1
+    100714: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2
+    100716: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 3
+    100718: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 4
+    100720: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 5
+    100722: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 6
+    100724: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 7
+    100726: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 8
+    100728: c type shaft use retaining ring_jis_PreviewCfg
+    100730: c type shaft use retaining ring_jis_PreviewCfg 1
+    100732: c type shaft use retaining ring_jis_PreviewCfg 2
+    100734: c type shaft use retaining ring_jis_PreviewCfg 3
+    100736: c type shaft use retaining ring_jis_PreviewCfg 4
+    100738: c type shaft use retaining ring_jis_PreviewCfg 5
+    100740: C200330
+    100742: C200330 1
+    100744: C200330 2
+    100746: D200030
+    100748: D200030 1
+    100750: D200030 2
+    100752: D200040
+    100754: D200040 1
+    100756: D200040 2
+    100758: D200050
+    100760: D200050 1
+    100762: D200050 2
+    100764: D200060
+    100766: D200060 1
+    100768: D200060 2
+    100770: D200070
+    100772: D200070 1
+    100774: D200070 2
+    100776: D200080
+    100778: D200080 1
+    100780: D200080 2
+    100782: D200090
+    100784: D200090 1
+    100786: D200090 2
+    100788: D200100
+    100790: D200100 1
+    100792: D200100 2
+    100794: D200110
+    100796: D200110 1
+    100798: D200110 2
+    100800: D200120-
+    100802: D200120- 1
+    100804: D200120- 2
+    100806: D200132
+    100808: D200132 1
+    100810: D200132 2
+    100812: D200142
+    100814: D200142 1
+    100816: D200142 2
+    100818: D200181
+    100820: D200181 1
+    100822: D200181 2
+    100824: D200210
+    100826: D200210 1
+    100828: D200210 2
+    100830: D200220
+    100832: D200220 1
+    100834: D200220 2
+    100836: D200230
+    100838: D200230 1
+    100840: D200230 2
+    100842: D200250
+    100844: D200250 1
+    100846: D200250 2
+    100848: D200261
+    100850: D200261 1
+    100852: D200261 2
+    100854: D200261 3
+    100856: D200261 4
+    100858: D200261 5
+    100860: D200270
+    100862: D200270 1
+    100864: D200270 2
+    100866: D200280
+    100868: D200280 1
+    100870: D200280 2
+    100872: D200300
+    100874: D200300 1
+    100876: D200300 2
+    100878: D209151
+    100880: D209151 1
+    100882: D209151 2
+    100884: D209161
+    100886: D209161 1
+    100888: D209161 2
+    100890: D209171
+    100892: D209171 1
+    100894: D209171 2
+    100896: D209280
+    100898: D209280 1
+    100900: D209280 2
+    100902: DMB_72
+    100904: DMB_72 1
+    100906: DMB_72 2
+    100908: DMB_72 3
+    100910: DMB_72 4
+    100912: DMB_72 5
+    100914: DMB_DMB40N72FA
+    100916: DMB_DMB40N72FA 1
+    100918: DMB_DMB40N72FA 2
+    100920: DMB_DMB40N72FA 3
+    100922: DMBb_72
+    100924: DMBb_72 1
+    100926: DMBb_72 2
+    100928: DMBb_72 3
+    100930: DMBb_72 4
+    100932: DMBb_72 5
+    100934: EndChamfer
+    100936: EndChamfer 1
+    100938: EndChamfer-DC_Shell
+    100940: EndChamfer-DC_Shell 1
+    100942: g1
+    100944: g2
+    100946: g2 1
+    100948: g2-DC_Shell
+    100950: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N
+    100952: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 1
+    100954: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 2
+    100956: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 3
+    100958: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 4
+    100960: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 5
+    100962: InnerRace
+    100964: InnerRace-DC_Shell
+    100966: KEY2R12-10-35-L
+    100968: KEY2R12-10-35-L 1
+    100970: KEY2R12-10-35-L 2
+    100972: KEY2R12-10-35-L 3
+    100974: KEY2R12-10-35-L 4
+    100976: KEY2R12-10-35-L 5
+    100978: KEY2R12-10-40-L
+    100980: KEY2R12-10-40-L 1
+    100982: KEY2R12-10-40-L 2
+    100984: KEY2R12-10-40-L 3
+    100986: KEY2R12-10-40-L 4
+    100988: KEY2R12-10-40-L 5
+    100990: KEY2R12-10-50-L
+    100992: KEY2R12-10-50-L 1
+    100994: KEY2R12-10-50-L 2
+    100996: KEY2R12-10-50-L 3
+    100998: KEY2R12-10-50-L 4
+    101000: KEY2R12-10-50-L 5
+    101002: KEY2R25-14-170
+    101004: KEY2R25-14-170 1
+    101006: KEY2R25-14-170 2
+    101008: KEY2R25-14-170 3
+    101010: KEY2R25-14-170 4
+    101012: KEY2R25-14-170 5
+    101014: L220010_L220010-805
+    101016: L220010_L220010-805 1
+    101018: L220010_L220010-805 2
+    101020: L220020
+    101022: L220020 1
+    101024: L220020 2
+    101026: LM451310
+    101028: LM451310 1
+    101030: LM451310 2
+    101032: LM451345
+    101034: LM451345 1
+    101036: LM451345 2
+    101038: M10x1.5 1
+    101040: M10x1.5 1-DC_Shell
+    101042: M12 1
+    101044: M12 1-DC_Shell
+    101046: M6 1
+    101048: M6 1-DC_Shell
+    101050: M8 1
+    101052: M8 YvW1
+    101054: M8 YvW1 1
+    101056: M8 YvW1-DC_Shell
+    101058: M8 YvW1-DC_Shell 1
+    101060: NONE
+    101062: NONE 1
+    101064: NONE 10
+    101066: NONE 100
+    101068: NONE 101
+    101070: NONE 102
+    101072: NONE 103
+    101074: NONE 104
+    101076: NONE 105
+    101078: NONE 106
+    101080: NONE 107
+    101082: NONE 108
+    101084: NONE 109
+    101086: NONE 11
+    101088: NONE 110
+    101090: NONE 111
+    101092: NONE 112
+    101094: NONE 113
+    101096: NONE 114
+    101098: NONE 12
+    101100: NONE 13
+    101102: NONE 14
+    101104: NONE 15
+    101106: NONE 16
+    101108: NONE 17
+    101110: NONE 18
+    101112: NONE 19
+    101114: NONE 2
+    101116: NONE 20
+    101118: NONE 21
+    101120: NONE 22
+    101122: NONE 23
+    101124: NONE 24
+    101126: NONE 25
+    101128: NONE 26
+    101130: NONE 27
+    101132: NONE 28
+    101134: NONE 29
+    101136: NONE 3
+    101138: NONE 30
+    101140: NONE 31
+    101142: NONE 32
+    101144: NONE 33
+    101146: NONE 34
+    101148: NONE 35
+    101150: NONE 36
+    101152: NONE 37
+    101154: NONE 38
+    101156: NONE 39
+    101158: NONE 4
+    101160: NONE 40
+    101162: NONE 41
+    101164: NONE 42
+    101166: NONE 43
+    101168: NONE 44
+    101170: NONE 45
+    101172: NONE 46
+    101174: NONE 47
+    101176: NONE 48
+    101178: NONE 49
+    101180: NONE 5
+    101182: NONE 50
+    101184: NONE 51
+    101186: NONE 52
+    101188: NONE 53
+    101190: NONE 54
+    101192: NONE 55
+    101194: NONE 56
+    101196: NONE 57
+    101198: NONE 58
+    101200: NONE 59
+    101202: NONE 6
+    101204: NONE 60
+    101206: NONE 61
+    101208: NONE 62
+    101210: NONE 63
+    101212: NONE 64
+    101214: NONE 65
+    101216: NONE 66
+    101218: NONE 67
+    101220: NONE 68
+    101222: NONE 69
+    101224: NONE 7
+    101226: NONE 70
+    101228: NONE 71
+    101230: NONE 72
+    101232: NONE 73
+    101234: NONE 74
+    101236: NONE 75
+    101238: NONE 76
+    101240: NONE 77
+    101242: NONE 78
+    101244: NONE 79
+    101246: NONE 8
+    101248: NONE 80
+    101250: NONE 81
+    101252: NONE 82
+    101254: NONE 83
+    101256: NONE 84
+    101258: NONE 85
+    101260: NONE 86
+    101262: NONE 87
+    101264: NONE 88
+    101266: NONE 89
+    101268: NONE 9
+    101270: NONE 90
+    101272: NONE 91
+    101274: NONE 92
+    101276: NONE 93
+    101278: NONE 94
+    101280: NONE 95
+    101282: NONE 96
+    101284: NONE 97
+    101286: NONE 98
+    101288: NONE 99
+    101290: NONE-DC_Shell
+    101292: NONE-DC_Shell 1
+    101294: NONE-DC_Shell 10
+    101296: NONE-DC_Shell 11
+    101298: NONE-DC_Shell 12
+    101300: NONE-DC_Shell 13
+    101302: NONE-DC_Shell 14
+    101304: NONE-DC_Shell 15
+    101306: NONE-DC_Shell 16
+    101308: NONE-DC_Shell 17
+    101310: NONE-DC_Shell 18
+    101312: NONE-DC_Shell 19
+    101314: NONE-DC_Shell 2
+    101316: NONE-DC_Shell 20
+    101318: NONE-DC_Shell 21
+    101320: NONE-DC_Shell 22
+    101322: NONE-DC_Shell 23
+    101324: NONE-DC_Shell 24
+    101326: NONE-DC_Shell 25
+    101328: NONE-DC_Shell 26
+    101330: NONE-DC_Shell 27
+    101332: NONE-DC_Shell 28
+    101334: NONE-DC_Shell 29
+    101336: NONE-DC_Shell 3
+    101338: NONE-DC_Shell 30
+    101340: NONE-DC_Shell 31
+    101342: NONE-DC_Shell 32
+    101344: NONE-DC_Shell 33
+    101346: NONE-DC_Shell 34
+    101348: NONE-DC_Shell 35
+    101350: NONE-DC_Shell 36
+    101352: NONE-DC_Shell 37
+    101354: NONE-DC_Shell 4
+    101356: NONE-DC_Shell 5
+    101358: NONE-DC_Shell 6
+    101360: NONE-DC_Shell 7
+    101362: NONE-DC_Shell 8
+    101364: NONE-DC_Shell 9
+    101366: O8.0 (8) |1
+    101368: OuterRace
+    101370: OuterRace 1
+    101372: OuterRace 2
+    101374: OuterRace 3
+    101376: OuterRace 4
+    101378: OuterRace 5
+    101380: OuterRace 6
+    101382: OuterRace-DC_Shell
+    101384: OuterRace-DC_Shell 1
+    101386: OuterRace-DC_Shell 2
+    101388: OuterRace-DC_Shell 3
+    101390: OuterRace-DC_Shell 4
+    101392: OuterRace-DC_Shell 5
+    101394: OuterRace-DC_Shell 6
+    101396: OV-D200240
+    101398: OV-D200240 1
+    101400: OV-D200240 2
+    101402: radial ball bearing_68_iso_PreviewCfg
+    101404: radial ball bearing_68_iso_PreviewCfg 1
+    101406: radial ball bearing_68_iso_PreviewCfg 2
+    101408: radial ball bearing_68_iso_PreviewCfg 3
+    101410: radial ball bearing_68_iso_PreviewCfg 4
+    101412: radial ball bearing_68_iso_PreviewCfg 5
+    101414: radial ball bearing_68_iso_PreviewCfg 6
+    101416: radial ball bearing_68_iso_PreviewCfg 7
+    101418: radial ball bearing_68_iso_PreviewCfg 8
+    101420: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+    101422: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 1
+    101424: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 2
+    101426: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 3
+    101428: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 4
+    101430: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 5
+    101432: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+    101434: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 1
+    101436: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 2
+    101438: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 3
+    101440: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 4
+    101442: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 5
+    101444: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 6
+    101446: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 7
+    101448: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 8
+    101450: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+    101452: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      1
+    101454: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      2
+    101456: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      3
+    101458: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      4
+    101460: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      5
+    101462: radial ball bearing_68_jis_PreviewCfg
+    101464: radial ball bearing_68_jis_PreviewCfg 1
+    101466: radial ball bearing_68_jis_PreviewCfg 2
+    101468: radial ball bearing_68_jis_PreviewCfg 3
+    101470: radial ball bearing_68_jis_PreviewCfg 4
+    101472: radial ball bearing_68_jis_PreviewCfg 5
+    101474: radial cylindrical roller bearing_jis_JIS B 1512-1 - 4945 - R,24,SI,NC,24
+    101476: radial cylindrical roller bearing_jis_JIS B 1512-1 - 4945 - R,24,SI,NC,24
+      1
+    101478: radial cylindrical roller bearing_jis_JIS B 1512-1 - 4945 - R,24,SI,NC,24
+      2
+    101480: sC1
+    101482: sC1 1
+    101484: sC1 2
+    101486: sC1 3
+    101488: sC1 4
+    101490: sC1-DC_Shell
+    101492: sC1-DC_Shell 1
+    101494: sC1-DC_Shell 2
+    101496: sC1-DC_Shell 3
+    101498: sC1-DC_Shell 4
+    101500: sC2
+    101502: sC2-DC_Shell
+    101504: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  16'
+    400018: '  17'
+    400020: '  18'
+    400022: '  19'
+    400024: '  2'
+    400026: '  20'
+    400028: '  21'
+    400030: '  22'
+    400032: '  23'
+    400034: '  24'
+    400036: '  25'
+    400038: '  26'
+    400040: '  27'
+    400042: '  28'
+    400044: '  29'
+    400046: '  3'
+    400048: '  30'
+    400050: '  31'
+    400052: '  32'
+    400054: '  33'
+    400056: '  34'
+    400058: '  35'
+    400060: '  36'
+    400062: '  37'
+    400064: '  38'
+    400066: '  39'
+    400068: '  4'
+    400070: '  40'
+    400072: '  41'
+    400074: '  42'
+    400076: '  43'
+    400078: '  44'
+    400080: '  45'
+    400082: '  46'
+    400084: '  47'
+    400086: '  48'
+    400088: '  49'
+    400090: '  5'
+    400092: '  50'
+    400094: '  51'
+    400096: '  52'
+    400098: '  53'
+    400100: '  54'
+    400102: '  55'
+    400104: '  56'
+    400106: '  57'
+    400108: '  58'
+    400110: '  59'
+    400112: '  6'
+    400114: '  60'
+    400116: '  61'
+    400118: '  62'
+    400120: '  63'
+    400122: '  64'
+    400124: '  65'
+    400126: '  66'
+    400128: '  67'
+    400130: '  68'
+    400132: '  69'
+    400134: '  7'
+    400136: '  70'
+    400138: '  71'
+    400140: '  72'
+    400142: '  73'
+    400144: '  74'
+    400146: '  75'
+    400148: '  76'
+    400150: '  77'
+    400152: '  78'
+    400154: '  79'
+    400156: '  8'
+    400158: '  80'
+    400160: '  81'
+    400162: '  82'
+    400164: '  83'
+    400166: '  9'
+    400168: ' 1'
+    400170: ' 10'
+    400172: ' 11'
+    400174: ' 12'
+    400176: ' 13'
+    400178: ' 14'
+    400180: ' 15'
+    400182: ' 16'
+    400184: ' 17'
+    400186: ' 18'
+    400188: ' 19'
+    400190: ' 2'
+    400192: ' 20'
+    400194: ' 21'
+    400196: ' 22'
+    400198: ' 23'
+    400200: ' 24'
+    400202: ' 25'
+    400204: ' 26'
+    400206: ' 27'
+    400208: ' 28'
+    400210: ' 29'
+    400212: ' 3'
+    400214: ' 30'
+    400216: ' 31'
+    400218: ' 32'
+    400220: ' 33'
+    400222: ' 34'
+    400224: ' 35'
+    400226: ' 36'
+    400228: ' 37'
+    400230: ' 38'
+    400232: ' 39'
+    400234: ' 4'
+    400236: ' 40'
+    400238: ' 41'
+    400240: ' 42'
+    400242: ' 43'
+    400244: ' 44'
+    400246: ' 45'
+    400248: ' 46'
+    400250: ' 47'
+    400252: ' 48'
+    400254: ' 49'
+    400256: ' 5'
+    400258: ' 50'
+    400260: ' 51'
+    400262: ' 52'
+    400264: ' 53'
+    400266: ' 54'
+    400268: ' 55'
+    400270: ' 56'
+    400272: ' 57'
+    400274: ' 58'
+    400276: ' 59'
+    400278: ' 6'
+    400280: ' 60'
+    400282: ' 61'
+    400284: ' 62'
+    400286: ' 63'
+    400288: ' 64'
+    400290: ' 65'
+    400292: ' 66'
+    400294: ' 67'
+    400296: ' 68'
+    400298: ' 69'
+    400300: ' 7'
+    400302: ' 70'
+    400304: ' 71'
+    400306: ' 72'
+    400308: ' 73'
+    400310: ' 74'
+    400312: ' 75'
+    400314: ' 76'
+    400316: ' 77'
+    400318: ' 78'
+    400320: ' 79'
+    400322: ' 8'
+    400324: ' 80'
+    400326: ' 81'
+    400328: ' 82'
+    400330: ' 83'
+    400332: ' 84'
+    400334: ' 9'
+    400336: ' Case'
+    400338: ' l1'
+    400340: ' l1 1'
+    400342: ' l1-DC_Shell'
+    400344: ' l1-DC_Shell 1'
+    400346: ' ShaftA'
+    400348: ' ShaftB'
+    400350: ' ShaftF'
+    400352: ' ShaftL1'
+    400354: ' ShaftL2'
+    400356: ' Side'
+    400358: ' Top'
+    400360: -/s1
+    400362: -1
+    400364: -1 1
+    400366: -1 10
+    400368: -1 2
+    400370: -1 3
+    400372: -1 4
+    400374: -1 5
+    400376: -1 6
+    400378: -1 7
+    400380: -1 8
+    400382: -1 9
+    400384: -1-DC_Shell
+    400386: -1-DC_Shell 1
+    400388: -1-DC_Shell 2
+    400390: -1-DC_Shell 3
+    400392: -1-DC_Shell 4
+    400394: -1-DC_Shell 5
+    400396: -1-DC_Shell 6
+    400398: -1-DC_Shell 7
+    400400: -1-DC_Shell 8
+    400402: -1-DC_Shell 9
+    400404: 1
+    400406: 1 1
+    400408: 1 10
+    400410: 1 11
+    400412: 1 12
+    400414: 1 13
+    400416: 1 14
+    400418: 1 15
+    400420: 1 16
+    400422: 1 17
+    400424: 1 18
+    400426: 1 19
+    400428: 1 2
+    400430: 1 20
+    400432: 1 21
+    400434: 1 22
+    400436: 1 23
+    400438: 1 24
+    400440: 1 3
+    400442: 1 4
+    400444: 1 5
+    400446: 1 6
+    400448: 1 7
+    400450: 1 8
+    400452: 1 9
+    400454: 1-DC_Shell
+    400456: 1-DC_Shell 1
+    400458: 1-DC_Shell 10
+    400460: 1-DC_Shell 11
+    400462: 1-DC_Shell 12
+    400464: 1-DC_Shell 2
+    400466: 1-DC_Shell 3
+    400468: 1-DC_Shell 4
+    400470: 1-DC_Shell 5
+    400472: 1-DC_Shell 6
+    400474: 1-DC_Shell 7
+    400476: 1-DC_Shell 8
+    400478: 1-DC_Shell 9
+    400480: 2
+    400482: 2-DC_Shell
+    400484: 3
+    400486: 3-DC_Shell
+    400488: 412221203
+    400490: 412221203 1
+    400492: 412221203 2
+    400494: 412230370
+    400496: 412230370 1
+    400498: 412230370 2
+    400500: 412230380
+    400502: 412230380 1
+    400504: 412230380 2
+    400506: 412230391
+    400508: 412230391 1
+    400510: 412230391 2
+    400512: 412230402
+    400514: 412230402 1
+    400516: 412230402 2
+    400518: AST57264656 1
+    400520: B2000051
+    400522: B2000051 1
+    400524: B2000051 2
+    400526: B2000350
+    400528: B2000350 1
+    400530: B2000350 2
+    400532: B2000420
+    400534: B2000420 1
+    400536: B2000420 2
+    400538: B2000420 3
+    400540: B2000420 4
+    400542: B2000420 5
+    400544: B2000600
+    400546: B2000600 1
+    400548: B2000600 2
+    400550: B2000600 3
+    400552: B2000600 4
+    400554: B2000600 5
+    400556: bA1
+    400558: bA1 1
+    400560: bA2
+    400562: bA2 1
+    400564: BallsDetailed
+    400566: BallsDetailed 1
+    400568: BallsDetailed 2
+    400570: BallsDetailed 3
+    400572: BallsDetailed 4
+    400574: BallsDetailed-DC_Shell
+    400576: BallsDetailed-DC_Shell 1
+    400578: BallsDetailed-DC_Shell 2
+    400580: BallsDetailed-DC_Shell 3
+    400582: BallsDetailed-DC_Shell 4
+    400584: bB
+    400586: bB 1
+    400588: bF
+    400590: bF 1
+    400592: bL1
+    400594: bL1 1
+    400596: bL2
+    400598: bL2 1
+    400600: Body
+    400602: Body 1
+    400604: Body 10
+    400606: Body 11
+    400608: Body 12
+    400610: Body 13
+    400612: Body 2
+    400614: Body 3
+    400616: Body 4
+    400618: Body 5
+    400620: Body 6
+    400622: Body 7
+    400624: Body 8
+    400626: Body 9
+    400628: Body-DC_Shell
+    400630: Body-DC_Shell 1
+    400632: Body-DC_Shell 10
+    400634: Body-DC_Shell 11
+    400636: Body-DC_Shell 12
+    400638: Body-DC_Shell 13
+    400640: Body-DC_Shell 2
+    400642: Body-DC_Shell 3
+    400644: Body-DC_Shell 4
+    400646: Body-DC_Shell 5
+    400648: Body-DC_Shell 6
+    400650: Body-DC_Shell 7
+    400652: Body-DC_Shell 8
+    400654: Body-DC_Shell 9
+    400656: c type hole use retaining ring_jis_JIS B 2804 Hole use 120
+    400658: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 1
+    400660: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 10
+    400662: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 11
+    400664: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 12
+    400666: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 13
+    400668: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 14
+    400670: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 2
+    400672: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 3
+    400674: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 4
+    400676: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 5
+    400678: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 6
+    400680: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 7
+    400682: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 8
+    400684: c type hole use retaining ring_jis_JIS B 2804 Hole use 120 9
+    400686: c type hole use retaining ring_jis_PreviewCfg
+    400688: c type hole use retaining ring_jis_PreviewCfg 1
+    400690: c type hole use retaining ring_jis_PreviewCfg 2
+    400692: c type hole use retaining ring_jis_PreviewCfg 3
+    400694: c type hole use retaining ring_jis_PreviewCfg 4
+    400696: c type hole use retaining ring_jis_PreviewCfg 5
+    400698: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100
+    400700: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 1
+    400702: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2
+    400704: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45
+    400706: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 1
+    400708: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2
+    400710: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55
+    400712: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 1
+    400714: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 2
+    400716: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 3
+    400718: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 4
+    400720: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 5
+    400722: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 6
+    400724: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 7
+    400726: c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 8
+    400728: c type shaft use retaining ring_jis_PreviewCfg
+    400730: c type shaft use retaining ring_jis_PreviewCfg 1
+    400732: c type shaft use retaining ring_jis_PreviewCfg 2
+    400734: c type shaft use retaining ring_jis_PreviewCfg 3
+    400736: c type shaft use retaining ring_jis_PreviewCfg 4
+    400738: c type shaft use retaining ring_jis_PreviewCfg 5
+    400740: C200330
+    400742: C200330 1
+    400744: C200330 2
+    400746: D200030
+    400748: D200030 1
+    400750: D200030 2
+    400752: D200040
+    400754: D200040 1
+    400756: D200040 2
+    400758: D200050
+    400760: D200050 1
+    400762: D200050 2
+    400764: D200060
+    400766: D200060 1
+    400768: D200060 2
+    400770: D200070
+    400772: D200070 1
+    400774: D200070 2
+    400776: D200080
+    400778: D200080 1
+    400780: D200080 2
+    400782: D200090
+    400784: D200090 1
+    400786: D200090 2
+    400788: D200100
+    400790: D200100 1
+    400792: D200100 2
+    400794: D200110
+    400796: D200110 1
+    400798: D200110 2
+    400800: D200120-
+    400802: D200120- 1
+    400804: D200120- 2
+    400806: D200132
+    400808: D200132 1
+    400810: D200132 2
+    400812: D200142
+    400814: D200142 1
+    400816: D200142 2
+    400818: D200181
+    400820: D200181 1
+    400822: D200181 2
+    400824: D200210
+    400826: D200210 1
+    400828: D200210 2
+    400830: D200220
+    400832: D200220 1
+    400834: D200220 2
+    400836: D200230
+    400838: D200230 1
+    400840: D200230 2
+    400842: D200250
+    400844: D200250 1
+    400846: D200250 2
+    400848: D200261
+    400850: D200261 1
+    400852: D200261 2
+    400854: D200261 3
+    400856: D200261 4
+    400858: D200261 5
+    400860: D200270
+    400862: D200270 1
+    400864: D200270 2
+    400866: D200280
+    400868: D200280 1
+    400870: D200280 2
+    400872: D200300
+    400874: D200300 1
+    400876: D200300 2
+    400878: D209151
+    400880: D209151 1
+    400882: D209151 2
+    400884: D209161
+    400886: D209161 1
+    400888: D209161 2
+    400890: D209171
+    400892: D209171 1
+    400894: D209171 2
+    400896: D209280
+    400898: D209280 1
+    400900: D209280 2
+    400902: DMB_72
+    400904: DMB_72 1
+    400906: DMB_72 2
+    400908: DMB_72 3
+    400910: DMB_72 4
+    400912: DMB_72 5
+    400914: DMB_DMB40N72FA
+    400916: DMB_DMB40N72FA 1
+    400918: DMB_DMB40N72FA 2
+    400920: DMB_DMB40N72FA 3
+    400922: DMBb_72
+    400924: DMBb_72 1
+    400926: DMBb_72 2
+    400928: DMBb_72 3
+    400930: DMBb_72 4
+    400932: DMBb_72 5
+    400934: EndChamfer
+    400936: EndChamfer 1
+    400938: EndChamfer-DC_Shell
+    400940: EndChamfer-DC_Shell 1
+    400942: g1
+    400944: g2
+    400946: g2 1
+    400948: g2-DC_Shell
+    400950: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N
+    400952: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 1
+    400954: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 2
+    400956: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 3
+    400958: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 4
+    400960: hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+      --N 5
+    400962: InnerRace
+    400964: InnerRace-DC_Shell
+    400966: KEY2R12-10-35-L
+    400968: KEY2R12-10-35-L 1
+    400970: KEY2R12-10-35-L 2
+    400972: KEY2R12-10-35-L 3
+    400974: KEY2R12-10-35-L 4
+    400976: KEY2R12-10-35-L 5
+    400978: KEY2R12-10-40-L
+    400980: KEY2R12-10-40-L 1
+    400982: KEY2R12-10-40-L 2
+    400984: KEY2R12-10-40-L 3
+    400986: KEY2R12-10-40-L 4
+    400988: KEY2R12-10-40-L 5
+    400990: KEY2R12-10-50-L
+    400992: KEY2R12-10-50-L 1
+    400994: KEY2R12-10-50-L 2
+    400996: KEY2R12-10-50-L 3
+    400998: KEY2R12-10-50-L 4
+    401000: KEY2R12-10-50-L 5
+    401002: KEY2R25-14-170
+    401004: KEY2R25-14-170 1
+    401006: KEY2R25-14-170 2
+    401008: KEY2R25-14-170 3
+    401010: KEY2R25-14-170 4
+    401012: KEY2R25-14-170 5
+    401014: L220010_L220010-805
+    401016: L220010_L220010-805 1
+    401018: L220010_L220010-805 2
+    401020: L220020
+    401022: L220020 1
+    401024: L220020 2
+    401026: LM451310
+    401028: LM451310 1
+    401030: LM451310 2
+    401032: LM451345
+    401034: LM451345 1
+    401036: LM451345 2
+    401038: M10x1.5 1
+    401040: M10x1.5 1-DC_Shell
+    401042: M12 1
+    401044: M12 1-DC_Shell
+    401046: M6 1
+    401048: M6 1-DC_Shell
+    401050: M8 1
+    401052: M8 YvW1
+    401054: M8 YvW1 1
+    401056: M8 YvW1-DC_Shell
+    401058: M8 YvW1-DC_Shell 1
+    401060: NONE
+    401062: NONE 1
+    401064: NONE 10
+    401066: NONE 100
+    401068: NONE 101
+    401070: NONE 102
+    401072: NONE 103
+    401074: NONE 104
+    401076: NONE 105
+    401078: NONE 106
+    401080: NONE 107
+    401082: NONE 108
+    401084: NONE 109
+    401086: NONE 11
+    401088: NONE 110
+    401090: NONE 111
+    401092: NONE 112
+    401094: NONE 113
+    401096: NONE 114
+    401098: NONE 12
+    401100: NONE 13
+    401102: NONE 14
+    401104: NONE 15
+    401106: NONE 16
+    401108: NONE 17
+    401110: NONE 18
+    401112: NONE 19
+    401114: NONE 2
+    401116: NONE 20
+    401118: NONE 21
+    401120: NONE 22
+    401122: NONE 23
+    401124: NONE 24
+    401126: NONE 25
+    401128: NONE 26
+    401130: NONE 27
+    401132: NONE 28
+    401134: NONE 29
+    401136: NONE 3
+    401138: NONE 30
+    401140: NONE 31
+    401142: NONE 32
+    401144: NONE 33
+    401146: NONE 34
+    401148: NONE 35
+    401150: NONE 36
+    401152: NONE 37
+    401154: NONE 38
+    401156: NONE 39
+    401158: NONE 4
+    401160: NONE 40
+    401162: NONE 41
+    401164: NONE 42
+    401166: NONE 43
+    401168: NONE 44
+    401170: NONE 45
+    401172: NONE 46
+    401174: NONE 47
+    401176: NONE 48
+    401178: NONE 49
+    401180: NONE 5
+    401182: NONE 50
+    401184: NONE 51
+    401186: NONE 52
+    401188: NONE 53
+    401190: NONE 54
+    401192: NONE 55
+    401194: NONE 56
+    401196: NONE 57
+    401198: NONE 58
+    401200: NONE 59
+    401202: NONE 6
+    401204: NONE 60
+    401206: NONE 61
+    401208: NONE 62
+    401210: NONE 63
+    401212: NONE 64
+    401214: NONE 65
+    401216: NONE 66
+    401218: NONE 67
+    401220: NONE 68
+    401222: NONE 69
+    401224: NONE 7
+    401226: NONE 70
+    401228: NONE 71
+    401230: NONE 72
+    401232: NONE 73
+    401234: NONE 74
+    401236: NONE 75
+    401238: NONE 76
+    401240: NONE 77
+    401242: NONE 78
+    401244: NONE 79
+    401246: NONE 8
+    401248: NONE 80
+    401250: NONE 81
+    401252: NONE 82
+    401254: NONE 83
+    401256: NONE 84
+    401258: NONE 85
+    401260: NONE 86
+    401262: NONE 87
+    401264: NONE 88
+    401266: NONE 89
+    401268: NONE 9
+    401270: NONE 90
+    401272: NONE 91
+    401274: NONE 92
+    401276: NONE 93
+    401278: NONE 94
+    401280: NONE 95
+    401282: NONE 96
+    401284: NONE 97
+    401286: NONE 98
+    401288: NONE 99
+    401290: NONE-DC_Shell
+    401292: NONE-DC_Shell 1
+    401294: NONE-DC_Shell 10
+    401296: NONE-DC_Shell 11
+    401298: NONE-DC_Shell 12
+    401300: NONE-DC_Shell 13
+    401302: NONE-DC_Shell 14
+    401304: NONE-DC_Shell 15
+    401306: NONE-DC_Shell 16
+    401308: NONE-DC_Shell 17
+    401310: NONE-DC_Shell 18
+    401312: NONE-DC_Shell 19
+    401314: NONE-DC_Shell 2
+    401316: NONE-DC_Shell 20
+    401318: NONE-DC_Shell 21
+    401320: NONE-DC_Shell 22
+    401322: NONE-DC_Shell 23
+    401324: NONE-DC_Shell 24
+    401326: NONE-DC_Shell 25
+    401328: NONE-DC_Shell 26
+    401330: NONE-DC_Shell 27
+    401332: NONE-DC_Shell 28
+    401334: NONE-DC_Shell 29
+    401336: NONE-DC_Shell 3
+    401338: NONE-DC_Shell 30
+    401340: NONE-DC_Shell 31
+    401342: NONE-DC_Shell 32
+    401344: NONE-DC_Shell 33
+    401346: NONE-DC_Shell 34
+    401348: NONE-DC_Shell 35
+    401350: NONE-DC_Shell 36
+    401352: NONE-DC_Shell 37
+    401354: NONE-DC_Shell 4
+    401356: NONE-DC_Shell 5
+    401358: NONE-DC_Shell 6
+    401360: NONE-DC_Shell 7
+    401362: NONE-DC_Shell 8
+    401364: NONE-DC_Shell 9
+    401366: O8.0 (8) |1
+    401368: OuterRace
+    401370: OuterRace 1
+    401372: OuterRace 2
+    401374: OuterRace 3
+    401376: OuterRace 4
+    401378: OuterRace 5
+    401380: OuterRace 6
+    401382: OuterRace-DC_Shell
+    401384: OuterRace-DC_Shell 1
+    401386: OuterRace-DC_Shell 2
+    401388: OuterRace-DC_Shell 3
+    401390: OuterRace-DC_Shell 4
+    401392: OuterRace-DC_Shell 5
+    401394: OuterRace-DC_Shell 6
+    401396: OV-D200240
+    401398: OV-D200240 1
+    401400: OV-D200240 2
+    401402: radial ball bearing_68_iso_PreviewCfg
+    401404: radial ball bearing_68_iso_PreviewCfg 1
+    401406: radial ball bearing_68_iso_PreviewCfg 2
+    401408: radial ball bearing_68_iso_PreviewCfg 3
+    401410: radial ball bearing_68_iso_PreviewCfg 4
+    401412: radial ball bearing_68_iso_PreviewCfg 5
+    401414: radial ball bearing_68_iso_PreviewCfg 6
+    401416: radial ball bearing_68_iso_PreviewCfg 7
+    401418: radial ball bearing_68_iso_PreviewCfg 8
+    401420: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+    401422: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 1
+    401424: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 2
+    401426: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 3
+    401428: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 4
+    401430: radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68 5
+    401432: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+    401434: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 1
+    401436: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 2
+    401438: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 3
+    401440: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 4
+    401442: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 5
+    401444: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 6
+    401446: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 7
+    401448: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68 8
+    401450: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+    401452: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      1
+    401454: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      2
+    401456: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      3
+    401458: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      4
+    401460: radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,Full,SI,NC,Full_68
+      5
+    401462: radial ball bearing_68_jis_PreviewCfg
+    401464: radial ball bearing_68_jis_PreviewCfg 1
+    401466: radial ball bearing_68_jis_PreviewCfg 2
+    401468: radial ball bearing_68_jis_PreviewCfg 3
+    401470: radial ball bearing_68_jis_PreviewCfg 4
+    401472: radial ball bearing_68_jis_PreviewCfg 5
+    401474: radial cylindrical roller bearing_jis_JIS B 1512-1 - 4945 - R,24,SI,NC,24
+    401476: radial cylindrical roller bearing_jis_JIS B 1512-1 - 4945 - R,24,SI,NC,24
+      1
+    401478: radial cylindrical roller bearing_jis_JIS B 1512-1 - 4945 - R,24,SI,NC,24
+      2
+    401480: sC1
+    401482: sC1 1
+    401484: sC1 2
+    401486: sC1 3
+    401488: sC1 4
+    401490: sC1-DC_Shell
+    401492: sC1-DC_Shell 1
+    401494: sC1-DC_Shell 2
+    401496: sC1-DC_Shell 3
+    401498: sC1-DC_Shell 4
+    401500: sC2
+    401502: sC2-DC_Shell
+    401504: //RootNode
+    2300000: ' l1-DC_Shell'
+    2300002: ' l1-DC_Shell 1'
+    2300004: -1-DC_Shell
+    2300006: -1-DC_Shell 1
+    2300008: -1-DC_Shell 2
+    2300010: -1-DC_Shell 3
+    2300012: -1-DC_Shell 4
+    2300014: -1-DC_Shell 5
+    2300016: -1-DC_Shell 6
+    2300018: -1-DC_Shell 7
+    2300020: -1-DC_Shell 8
+    2300022: -1-DC_Shell 9
+    2300024: 1-DC_Shell
+    2300026: 1-DC_Shell 1
+    2300028: 1-DC_Shell 10
+    2300030: 1-DC_Shell 11
+    2300032: 1-DC_Shell 12
+    2300034: 1-DC_Shell 2
+    2300036: 1-DC_Shell 3
+    2300038: 1-DC_Shell 4
+    2300040: 1-DC_Shell 5
+    2300042: 1-DC_Shell 6
+    2300044: 1-DC_Shell 7
+    2300046: 1-DC_Shell 8
+    2300048: 1-DC_Shell 9
+    2300050: 2-DC_Shell
+    2300052: 3-DC_Shell
+    2300054: BallsDetailed-DC_Shell
+    2300056: BallsDetailed-DC_Shell 1
+    2300058: BallsDetailed-DC_Shell 2
+    2300060: BallsDetailed-DC_Shell 3
+    2300062: BallsDetailed-DC_Shell 4
+    2300064: Body-DC_Shell
+    2300066: Body-DC_Shell 1
+    2300068: Body-DC_Shell 10
+    2300070: Body-DC_Shell 11
+    2300072: Body-DC_Shell 12
+    2300074: Body-DC_Shell 13
+    2300076: Body-DC_Shell 2
+    2300078: Body-DC_Shell 3
+    2300080: Body-DC_Shell 4
+    2300082: Body-DC_Shell 5
+    2300084: Body-DC_Shell 6
+    2300086: Body-DC_Shell 7
+    2300088: Body-DC_Shell 8
+    2300090: Body-DC_Shell 9
+    2300092: EndChamfer-DC_Shell
+    2300094: EndChamfer-DC_Shell 1
+    2300096: g2-DC_Shell
+    2300098: InnerRace-DC_Shell
+    2300100: M10x1.5 1-DC_Shell
+    2300102: M12 1-DC_Shell
+    2300104: M6 1-DC_Shell
+    2300106: M8 YvW1-DC_Shell
+    2300108: M8 YvW1-DC_Shell 1
+    2300110: NONE-DC_Shell
+    2300112: NONE-DC_Shell 1
+    2300114: NONE-DC_Shell 10
+    2300116: NONE-DC_Shell 11
+    2300118: NONE-DC_Shell 12
+    2300120: NONE-DC_Shell 13
+    2300122: NONE-DC_Shell 14
+    2300124: NONE-DC_Shell 15
+    2300126: NONE-DC_Shell 16
+    2300128: NONE-DC_Shell 17
+    2300130: NONE-DC_Shell 18
+    2300132: NONE-DC_Shell 19
+    2300134: NONE-DC_Shell 2
+    2300136: NONE-DC_Shell 20
+    2300138: NONE-DC_Shell 21
+    2300140: NONE-DC_Shell 22
+    2300142: NONE-DC_Shell 23
+    2300144: NONE-DC_Shell 24
+    2300146: NONE-DC_Shell 25
+    2300148: NONE-DC_Shell 26
+    2300150: NONE-DC_Shell 27
+    2300152: NONE-DC_Shell 28
+    2300154: NONE-DC_Shell 29
+    2300156: NONE-DC_Shell 3
+    2300158: NONE-DC_Shell 30
+    2300160: NONE-DC_Shell 31
+    2300162: NONE-DC_Shell 32
+    2300164: NONE-DC_Shell 33
+    2300166: NONE-DC_Shell 34
+    2300168: NONE-DC_Shell 35
+    2300170: NONE-DC_Shell 36
+    2300172: NONE-DC_Shell 37
+    2300174: NONE-DC_Shell 4
+    2300176: NONE-DC_Shell 5
+    2300178: NONE-DC_Shell 6
+    2300180: NONE-DC_Shell 7
+    2300182: NONE-DC_Shell 8
+    2300184: NONE-DC_Shell 9
+    2300186: OuterRace-DC_Shell
+    2300188: OuterRace-DC_Shell 1
+    2300190: OuterRace-DC_Shell 2
+    2300192: OuterRace-DC_Shell 3
+    2300194: OuterRace-DC_Shell 4
+    2300196: OuterRace-DC_Shell 5
+    2300198: OuterRace-DC_Shell 6
+    2300200: sC1-DC_Shell
+    2300202: sC1-DC_Shell 1
+    2300204: sC1-DC_Shell 2
+    2300206: sC1-DC_Shell 3
+    2300208: sC1-DC_Shell 4
+    2300210: sC2-DC_Shell
+    3300000: ' l1-DC_Shell'
+    3300002: ' l1-DC_Shell 1'
+    3300004: -1-DC_Shell
+    3300006: -1-DC_Shell 1
+    3300008: -1-DC_Shell 2
+    3300010: -1-DC_Shell 3
+    3300012: -1-DC_Shell 4
+    3300014: -1-DC_Shell 5
+    3300016: -1-DC_Shell 6
+    3300018: -1-DC_Shell 7
+    3300020: -1-DC_Shell 8
+    3300022: -1-DC_Shell 9
+    3300024: 1-DC_Shell
+    3300026: 1-DC_Shell 1
+    3300028: 1-DC_Shell 10
+    3300030: 1-DC_Shell 11
+    3300032: 1-DC_Shell 12
+    3300034: 1-DC_Shell 2
+    3300036: 1-DC_Shell 3
+    3300038: 1-DC_Shell 4
+    3300040: 1-DC_Shell 5
+    3300042: 1-DC_Shell 6
+    3300044: 1-DC_Shell 7
+    3300046: 1-DC_Shell 8
+    3300048: 1-DC_Shell 9
+    3300050: 2-DC_Shell
+    3300052: 3-DC_Shell
+    3300054: BallsDetailed-DC_Shell
+    3300056: BallsDetailed-DC_Shell 1
+    3300058: BallsDetailed-DC_Shell 2
+    3300060: BallsDetailed-DC_Shell 3
+    3300062: BallsDetailed-DC_Shell 4
+    3300064: Body-DC_Shell
+    3300066: Body-DC_Shell 1
+    3300068: Body-DC_Shell 10
+    3300070: Body-DC_Shell 11
+    3300072: Body-DC_Shell 12
+    3300074: Body-DC_Shell 13
+    3300076: Body-DC_Shell 2
+    3300078: Body-DC_Shell 3
+    3300080: Body-DC_Shell 4
+    3300082: Body-DC_Shell 5
+    3300084: Body-DC_Shell 6
+    3300086: Body-DC_Shell 7
+    3300088: Body-DC_Shell 8
+    3300090: Body-DC_Shell 9
+    3300092: EndChamfer-DC_Shell
+    3300094: EndChamfer-DC_Shell 1
+    3300096: g2-DC_Shell
+    3300098: InnerRace-DC_Shell
+    3300100: M10x1.5 1-DC_Shell
+    3300102: M12 1-DC_Shell
+    3300104: M6 1-DC_Shell
+    3300106: M8 YvW1-DC_Shell
+    3300108: M8 YvW1-DC_Shell 1
+    3300110: NONE-DC_Shell
+    3300112: NONE-DC_Shell 1
+    3300114: NONE-DC_Shell 10
+    3300116: NONE-DC_Shell 11
+    3300118: NONE-DC_Shell 12
+    3300120: NONE-DC_Shell 13
+    3300122: NONE-DC_Shell 14
+    3300124: NONE-DC_Shell 15
+    3300126: NONE-DC_Shell 16
+    3300128: NONE-DC_Shell 17
+    3300130: NONE-DC_Shell 18
+    3300132: NONE-DC_Shell 19
+    3300134: NONE-DC_Shell 2
+    3300136: NONE-DC_Shell 20
+    3300138: NONE-DC_Shell 21
+    3300140: NONE-DC_Shell 22
+    3300142: NONE-DC_Shell 23
+    3300144: NONE-DC_Shell 24
+    3300146: NONE-DC_Shell 25
+    3300148: NONE-DC_Shell 26
+    3300150: NONE-DC_Shell 27
+    3300152: NONE-DC_Shell 28
+    3300154: NONE-DC_Shell 29
+    3300156: NONE-DC_Shell 3
+    3300158: NONE-DC_Shell 30
+    3300160: NONE-DC_Shell 31
+    3300162: NONE-DC_Shell 32
+    3300164: NONE-DC_Shell 33
+    3300166: NONE-DC_Shell 34
+    3300168: NONE-DC_Shell 35
+    3300170: NONE-DC_Shell 36
+    3300172: NONE-DC_Shell 37
+    3300174: NONE-DC_Shell 4
+    3300176: NONE-DC_Shell 5
+    3300178: NONE-DC_Shell 6
+    3300180: NONE-DC_Shell 7
+    3300182: NONE-DC_Shell 8
+    3300184: NONE-DC_Shell 9
+    3300186: OuterRace-DC_Shell
+    3300188: OuterRace-DC_Shell 1
+    3300190: OuterRace-DC_Shell 2
+    3300192: OuterRace-DC_Shell 3
+    3300194: OuterRace-DC_Shell 4
+    3300196: OuterRace-DC_Shell 5
+    3300198: OuterRace-DC_Shell 6
+    3300200: sC1-DC_Shell
+    3300202: sC1-DC_Shell 1
+    3300204: sC1-DC_Shell 2
+    3300206: sC1-DC_Shell 3
+    3300208: sC1-DC_Shell 4
+    3300210: sC2-DC_Shell
+    4300000: M10x1.5 1-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: NONE-DC_Shell
+    4300006: sC1-DC_Shell
+    4300008: 1-DC_Shell
+    4300010: sC1-DC_Shell
+    4300012: -1-DC_Shell
+    4300014: NONE-DC_Shell
+    4300016: NONE-DC_Shell
+    4300018: 1-DC_Shell
+    4300020: M12 1-DC_Shell
+    4300022: NONE-DC_Shell
+    4300024: NONE-DC_Shell
+    4300026: NONE-DC_Shell
+    4300028: NONE-DC_Shell
+    4300030: -1-DC_Shell
+    4300032: NONE-DC_Shell
+    4300034: NONE-DC_Shell
+    4300036: NONE-DC_Shell
+    4300038: NONE-DC_Shell
+    4300040: 1-DC_Shell
+    4300042: 1-DC_Shell
+    4300044: Body-DC_Shell
+    4300046: 1-DC_Shell
+    4300048: sC1-DC_Shell
+    4300050: NONE-DC_Shell
+    4300052: NONE-DC_Shell
+    4300054: Body-DC_Shell
+    4300056: Body-DC_Shell
+    4300058: Body-DC_Shell
+    4300060: Body-DC_Shell
+    4300062: BallsDetailed-DC_Shell
+    4300064: BallsDetailed-DC_Shell
+    4300066: BallsDetailed-DC_Shell
+    4300068: BallsDetailed-DC_Shell
+    4300070: BallsDetailed-DC_Shell
+    4300072: 3-DC_Shell
+    4300074: OuterRace-DC_Shell
+    4300076: OuterRace-DC_Shell
+    4300078: Body-DC_Shell
+    4300080: -1-DC_Shell
+    4300082: sC1-DC_Shell
+    4300084: NONE-DC_Shell
+    4300086: NONE-DC_Shell
+    4300088: NONE-DC_Shell
+    4300090: NONE-DC_Shell
+    4300092: -1-DC_Shell
+    4300094: NONE-DC_Shell
+    4300096: Body-DC_Shell
+    4300098: 1-DC_Shell
+    4300100: Body-DC_Shell
+    4300102: Body-DC_Shell
+    4300104: Body-DC_Shell
+    4300106: 1-DC_Shell
+    4300108: -1-DC_Shell
+    4300110: g2-DC_Shell
+    4300112: -1-DC_Shell
+    4300114: -1-DC_Shell
+    4300116: sC2-DC_Shell
+    4300118: sC1-DC_Shell
+    4300120: Body-DC_Shell
+    4300122: Body-DC_Shell
+    4300124: InnerRace-DC_Shell
+    4300126: Body-DC_Shell
+    4300128: OuterRace-DC_Shell
+    4300130: NONE-DC_Shell
+    4300132: OuterRace-DC_Shell
+    4300134: -1-DC_Shell
+    4300136: NONE-DC_Shell
+    4300138: -1-DC_Shell
+    4300140: -1-DC_Shell
+    4300142: 2-DC_Shell
+    4300144: Body-DC_Shell
+    4300146: OuterRace-DC_Shell
+    4300148: 1-DC_Shell
+    4300150: NONE-DC_Shell
+    4300152: NONE-DC_Shell
+    4300154: NONE-DC_Shell
+    4300156: OuterRace-DC_Shell
+    4300158: OuterRace-DC_Shell
+    4300160: 1-DC_Shell
+    4300162: 1-DC_Shell
+    4300164: ' l1-DC_Shell'
+    4300166: 1-DC_Shell
+    4300168: EndChamfer-DC_Shell
+    4300170: M6 1-DC_Shell
+    4300172: NONE-DC_Shell
+    4300174: NONE-DC_Shell
+    4300176: NONE-DC_Shell
+    4300178: NONE-DC_Shell
+    4300180: NONE-DC_Shell
+    4300182: NONE-DC_Shell
+    4300184: NONE-DC_Shell
+    4300186: NONE-DC_Shell
+    4300188: NONE-DC_Shell
+    4300190: NONE-DC_Shell
+    4300192: NONE-DC_Shell
+    4300194: M8 YvW1-DC_Shell
+    4300196: M8 YvW1-DC_Shell
+    4300198: NONE-DC_Shell
+    4300200: ' l1-DC_Shell'
+    4300202: EndChamfer-DC_Shell
+    4300204: NONE-DC_Shell
+    4300206: NONE-DC_Shell
+    4300208: 1-DC_Shell
+    4300210: 1-DC_Shell
+    7400000: explode
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AST57264656 1
+        weight: 1
+      - path: 'AST57264656 1/ '
+        weight: 1
+      - path: AST57264656 1/ /D200181
+        weight: 1
+      - path: AST57264656 1/ /D200181/D200181 1
+        weight: 1
+      - path: AST57264656 1/ /D200181/D200181 1/D200181 2
+        weight: 1
+      - path: AST57264656 1/ /D200181/D200181 1/D200181 2/NONE 5
+        weight: 1
+      - path: AST57264656 1/ /D200181/D200181 1/D200181 2/NONE 5/ 6
+        weight: 1
+      - path: AST57264656 1/ /D200181/D200181 1/D200181 2/NONE 5/ 6/1 4
+        weight: 1
+      - path: AST57264656 1/  1
+        weight: 1
+      - path: AST57264656 1/  1/412230391
+        weight: 1
+      - path: AST57264656 1/  1/412230391/412230391 1
+        weight: 1
+      - path: AST57264656 1/  1/412230391/412230391 1/412230391 2
+        weight: 1
+      - path: AST57264656 1/  1/412230391/412230391 1/412230391 2/NONE 1
+        weight: 1
+      - path: AST57264656 1/  1/412230391/412230391 1/412230391 2/NONE 1/ 2
+        weight: 1
+      - path: AST57264656 1/  1/412230391/412230391 1/412230391 2/NONE 1/ 2/1
+        weight: 1
+      - path: AST57264656 1/  1/412230391/412230391 1/412230391 2/NONE 1/ 2/1/NONE
+          17
+        weight: 1
+      - path: AST57264656 1/  1/412230391/412230391 1/412230391 2/NONE 1/ 2/1/NONE
+          17/NONE 84
+        weight: 1
+      - path: AST57264656 1/  2
+        weight: 1
+      - path: AST57264656 1/  2/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 1
+        weight: 1
+      - path: AST57264656 1/  2/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 1/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 6
+        weight: 1
+      - path: AST57264656 1/  2/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 1/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 6/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 12
+        weight: 1
+      - path: AST57264656 1/  2/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 1/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 6/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 12/NONE 10
+        weight: 1
+      - path: AST57264656 1/  2/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 1/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 6/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 12/NONE 10/ 12
+        weight: 1
+      - path: AST57264656 1/  2/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 1/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 6/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 12/NONE 10/ 12/Body
+          2
+        weight: 1
+      - path: AST57264656 1/  3
+        weight: 1
+      - path: AST57264656 1/  3/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 2
+        weight: 1
+      - path: AST57264656 1/  3/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 2/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 7
+        weight: 1
+      - path: AST57264656 1/  3/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 2/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 7/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 11
+        weight: 1
+      - path: AST57264656 1/  3/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 2/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 7/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 11/NONE 9
+        weight: 1
+      - path: AST57264656 1/  3/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 2/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 7/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 11/NONE 9/ 11
+        weight: 1
+      - path: AST57264656 1/  3/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 2/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 7/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 11/NONE 9/ 11/Body
+        weight: 1
+      - path: AST57264656 1/  4
+        weight: 1
+      - path: AST57264656 1/  4/bA2
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15/D200060
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15/D200060/D200060 1
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15/D200060/D200060 1/D200060 2
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15/D200060/D200060 1/D200060 2/NONE 20
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15/D200060/D200060 1/D200060 2/NONE 20/
+          19
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15/D200060/D200060 1/D200060 2/NONE 20/
+          19/1 7
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15/D200060/D200060 1/D200060 2/NONE 20/
+          19/1 7/NONE 87
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  15/D200060/D200060 1/D200060 2/NONE 20/
+          19/1 7/NONE 87/NONE 104
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  16
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  16/KEY2R12-10-50-L
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  16/KEY2R12-10-50-L/KEY2R12-10-50-L 2
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  16/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  16/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4/NONE 22
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  16/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4/NONE 22/ 21
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  16/KEY2R12-10-50-L/KEY2R12-10-50-L 2/KEY2R12-10-50-L
+          4/NONE 22/ 21/-1 2
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  17
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  17/D200050
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  17/D200050/D200050 1
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  17/D200050/D200050 1/D200050 2
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  17/D200050/D200050 1/D200050 2/NONE 19
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  17/D200050/D200050 1/D200050 2/NONE 19/
+          18
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  17/D200050/D200050 1/D200050 2/NONE 19/
+          18/sC1
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  18
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  18/KEY2R12-10-50-L 1
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  18/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  18/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  18/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5/NONE 21
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  18/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5/NONE 21/ 20
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  18/KEY2R12-10-50-L 1/KEY2R12-10-50-L 3/KEY2R12-10-50-L
+          5/NONE 21/ 20/-1 3
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  19
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  19/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  19/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  19/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 5
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  19/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 5/NONE 24
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  19/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 5/NONE 24/ 24
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  19/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 1/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 3/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68 5/NONE 24/ 24/OuterRace 1
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  20
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 4
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 4/NONE 25
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 4/NONE 25/ 23
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  20/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,Full,SI,NC,Full_68/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 2/radial ball bearing_68_jis_JIS B 1512-1 -
+          0355 - B,Full,SI,NC,Full_68 4/NONE 25/ 23/OuterRace
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  21
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  21/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  21/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 3
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  21/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 3/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 6
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  21/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 3/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 6/NONE
+          23
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  21/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 3/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 6/NONE
+          23/ 22
+        weight: 1
+      - path: AST57264656 1/  4/bA2/bA2 1/  21/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 3/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 6/NONE
+          23/ 22/Body 5
+        weight: 1
+      - path: AST57264656 1/  5
+        weight: 1
+      - path: AST57264656 1/  6
+        weight: 1
+      - path: AST57264656 1/  6/D200300
+        weight: 1
+      - path: AST57264656 1/  6/D200300/D200300 1
+        weight: 1
+      - path: AST57264656 1/  6/D200300/D200300 1/D200300 2
+        weight: 1
+      - path: AST57264656 1/  6/D200300/D200300 1/D200300 2/NONE 8
+        weight: 1
+      - path: AST57264656 1/  6/D200300/D200300 1/D200300 2/NONE 8/ 9
+        weight: 1
+      - path: AST57264656 1/  6/D200300/D200300 1/D200300 2/NONE 8/ 9/1 6
+        weight: 1
+      - path: AST57264656 1/  7
+        weight: 1
+      - path: AST57264656 1/  7/D200280
+        weight: 1
+      - path: AST57264656 1/  7/D200280/D200280 1
+        weight: 1
+      - path: AST57264656 1/  7/D200280/D200280 1/D200280 2
+        weight: 1
+      - path: AST57264656 1/  7/D200280/D200280 1/D200280 2/NONE 7
+        weight: 1
+      - path: AST57264656 1/  7/D200280/D200280 1/D200280 2/NONE 7/ 8
+        weight: 1
+      - path: AST57264656 1/  7/D200280/D200280 1/D200280 2/NONE 7/ 8/1 5
+        weight: 1
+      - path: AST57264656 1/  8
+        weight: 1
+      - path: AST57264656 1/  8/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120
+        weight: 1
+      - path: AST57264656 1/  8/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 5
+        weight: 1
+      - path: AST57264656 1/  8/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 5/c type
+          hole use retaining ring_jis_JIS B 2804 Hole use 120 13
+        weight: 1
+      - path: AST57264656 1/  8/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 5/c type
+          hole use retaining ring_jis_JIS B 2804 Hole use 120 13/NONE 12
+        weight: 1
+      - path: AST57264656 1/  8/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 5/c type
+          hole use retaining ring_jis_JIS B 2804 Hole use 120 13/NONE 12/ 13
+        weight: 1
+      - path: AST57264656 1/  8/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 5/c type
+          hole use retaining ring_jis_JIS B 2804 Hole use 120 13/NONE 12/ 13/Body
+          1
+        weight: 1
+      - path: AST57264656 1/  9
+        weight: 1
+      - path: AST57264656 1/  9/D200261
+        weight: 1
+      - path: AST57264656 1/  9/D200261/D200261 2
+        weight: 1
+      - path: AST57264656 1/  9/D200261/D200261 2/D200261 4
+        weight: 1
+      - path: AST57264656 1/  9/D200261/D200261 2/D200261 4/NONE 6
+        weight: 1
+      - path: AST57264656 1/  9/D200261/D200261 2/D200261 4/NONE 6/ 7
+        weight: 1
+      - path: AST57264656 1/  9/D200261/D200261 2/D200261 4/NONE 6/ 7/M8 YvW1
+        weight: 1
+      - path: AST57264656 1/  10
+        weight: 1
+      - path: AST57264656 1/  10/B2000420
+        weight: 1
+      - path: AST57264656 1/  10/B2000420/B2000420 2
+        weight: 1
+      - path: AST57264656 1/  10/B2000420/B2000420 2/B2000420 4
+        weight: 1
+      - path: AST57264656 1/  10/B2000420/B2000420 2/B2000420 4/NONE 4
+        weight: 1
+      - path: AST57264656 1/  10/B2000420/B2000420 2/B2000420 4/NONE 4/ 5
+        weight: 1
+      - path: AST57264656 1/  10/B2000420/B2000420 2/B2000420 4/NONE 4/ 5/1 2
+        weight: 1
+      - path: AST57264656 1/  11
+        weight: 1
+      - path: AST57264656 1/  11/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 3
+        weight: 1
+      - path: AST57264656 1/  11/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 3/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 8
+        weight: 1
+      - path: AST57264656 1/  11/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 3/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 8/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 10
+        weight: 1
+      - path: AST57264656 1/  11/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 3/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 8/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 10/NONE 11
+        weight: 1
+      - path: AST57264656 1/  11/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 3/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 8/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 10/NONE 11/ 10
+        weight: 1
+      - path: AST57264656 1/  11/c type hole use retaining ring_jis_JIS B 2804 Hole
+          use 120 3/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 8/c
+          type hole use retaining ring_jis_JIS B 2804 Hole use 120 10/NONE 11/ 10/Body
+          3
+        weight: 1
+      - path: AST57264656 1/  12
+        weight: 1
+      - path: AST57264656 1/  12/412230402
+        weight: 1
+      - path: AST57264656 1/  12/412230402/412230402 1
+        weight: 1
+      - path: AST57264656 1/  12/412230402/412230402 1/412230402 2
+        weight: 1
+      - path: AST57264656 1/  12/412230402/412230402 1/412230402 2/NONE 2
+        weight: 1
+      - path: AST57264656 1/  12/412230402/412230402 1/412230402 2/NONE 2/ 3
+        weight: 1
+      - path: AST57264656 1/  12/412230402/412230402 1/412230402 2/NONE 2/ 3/1 1
+        weight: 1
+      - path: AST57264656 1/  12/412230402/412230402 1/412230402 2/NONE 2/ 3/1 1/NONE
+          18
+        weight: 1
+      - path: AST57264656 1/  12/412230402/412230402 1/412230402 2/NONE 2/ 3/1 1/NONE
+          18/NONE 85
+        weight: 1
+      - path: AST57264656 1/  13
+        weight: 1
+      - path: AST57264656 1/  13/B2000420 1
+        weight: 1
+      - path: AST57264656 1/  13/B2000420 1/B2000420 3
+        weight: 1
+      - path: AST57264656 1/  13/B2000420 1/B2000420 3/B2000420 5
+        weight: 1
+      - path: AST57264656 1/  13/B2000420 1/B2000420 3/B2000420 5/NONE 3
+        weight: 1
+      - path: AST57264656 1/  13/B2000420 1/B2000420 3/B2000420 5/NONE 3/ 4
+        weight: 1
+      - path: AST57264656 1/  13/B2000420 1/B2000420 3/B2000420 5/NONE 3/ 4/1 3
+        weight: 1
+      - path: AST57264656 1/  14
+        weight: 1
+      - path: AST57264656 1/  14/bB
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  22
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  22/B2000350
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  22/B2000350/B2000350 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  22/B2000350/B2000350 1/B2000350 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  22/B2000350/B2000350 1/B2000350 2/NONE
+          26
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  22/B2000350/B2000350 1/B2000350 2/NONE
+          26/ 25
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  22/B2000350/B2000350 1/B2000350 2/NONE
+          26/ 25/1 8
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  23
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  23/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  23/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  23/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  23/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 2/NONE 50
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  23/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 2/NONE 50/ 49
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  23/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 1/radial cylindrical roller bearing_jis_JIS
+          B 1512-1 - 4945 - R,24,SI,NC,24 2/NONE 50/ 49/InnerRace
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  24
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  24/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  24/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 4
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  24/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 4/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 7
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  24/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 4/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 7/NONE
+          43
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  24/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 4/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 7/NONE
+          43/ 43
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  24/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 4/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 7/NONE
+          43/ 43/Body 9
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  25
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  25/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  25/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 3
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  25/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          8
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  25/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          8/NONE 47
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  25/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          8/NONE 47/ 48
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  25/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 3/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          8/NONE 47/ 48/OuterRace 4
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  26
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  26/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  26/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  26/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          4
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  26/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          4/NONE 45
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  26/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          4/NONE 45/ 44
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  26/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          4/NONE 45/ 44/OuterRace 3
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  27
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  27/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  27/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 3
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  27/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 3/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          5
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  27/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 3/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          5/NONE 46
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  27/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 3/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          5/NONE 46/ 45
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  27/radial ball bearing_68_jis_JIS B 1512-1
+          - 0265 - B,14,SI,NC,14_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0265
+          - B,14,SI,NC,14_68 3/radial ball bearing_68_jis_JIS B 1512-1 - 0265 - B,14,SI,NC,14_68
+          5/NONE 46/ 45/OuterRace 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  28
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  28/KEY2R12-10-40-L 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  28/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  28/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  28/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4/NONE 39
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  28/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4/NONE 39/ 39
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  28/KEY2R12-10-40-L 1/KEY2R12-10-40-L 2/KEY2R12-10-40-L
+          4/NONE 39/ 39/-1 9
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  29
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  29/KEY2R12-10-40-L
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  29/KEY2R12-10-40-L/KEY2R12-10-40-L 3
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  29/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  29/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5/NONE 40
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  29/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5/NONE 40/ 38
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  29/KEY2R12-10-40-L/KEY2R12-10-40-L 3/KEY2R12-10-40-L
+          5/NONE 40/ 38/-1 8
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30/D200100
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30/D200100/D200100 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30/D200100/D200100 1/D200100 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30/D200100/D200100 1/D200100 2/NONE 32
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30/D200100/D200100 1/D200100 2/NONE 32/
+          31
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30/D200100/D200100 1/D200100 2/NONE 32/
+          31/1 11
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30/D200100/D200100 1/D200100 2/NONE 32/
+          31/1 11/NONE 88
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  30/D200100/D200100 1/D200100 2/NONE 32/
+          31/1 11/NONE 88/NONE 105
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  31
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  31/D200090
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  31/D200090/D200090 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  31/D200090/D200090 1/D200090 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  31/D200090/D200090 1/D200090 2/NONE 31
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  31/D200090/D200090 1/D200090 2/NONE 31/
+          30
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  31/D200090/D200090 1/D200090 2/NONE 31/
+          30/1 10
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  32
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  32/D200080
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  32/D200080/D200080 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  32/D200080/D200080 1/D200080 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  32/D200080/D200080 1/D200080 2/NONE 30
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  32/D200080/D200080 1/D200080 2/NONE 30/
+          29
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  32/D200080/D200080 1/D200080 2/NONE 30/
+          29/1 9
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  33
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  33/D200070
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  33/D200070/D200070 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  33/D200070/D200070 1/D200070 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  33/D200070/D200070 1/D200070 2/NONE 29
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  33/D200070/D200070 1/D200070 2/NONE 29/
+          28
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  33/D200070/D200070 1/D200070 2/NONE 29/
+          28/2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  34
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  34/KEY2R12-10-35-L 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  34/KEY2R12-10-35-L 1/KEY2R12-10-35-L 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  34/KEY2R12-10-35-L 1/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  34/KEY2R12-10-35-L 1/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4/NONE 37
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  34/KEY2R12-10-35-L 1/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4/NONE 37/ 36
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  34/KEY2R12-10-35-L 1/KEY2R12-10-35-L 2/KEY2R12-10-35-L
+          4/NONE 37/ 36/-1 6
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  35
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  35/KEY2R12-10-35-L
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  35/KEY2R12-10-35-L/KEY2R12-10-35-L 3
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  35/KEY2R12-10-35-L/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  35/KEY2R12-10-35-L/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5/NONE 38
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  35/KEY2R12-10-35-L/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5/NONE 38/ 37
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  35/KEY2R12-10-35-L/KEY2R12-10-35-L 3/KEY2R12-10-35-L
+          5/NONE 38/ 37/-1 7
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  36
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  36/D200142
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  36/D200142/D200142 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  36/D200142/D200142 1/D200142 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  36/D200142/D200142 1/D200142 2/NONE 36
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  36/D200142/D200142 1/D200142 2/NONE 36/
+          35
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  36/D200142/D200142 1/D200142 2/NONE 36/
+          35/g2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  37
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  37/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 100
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  37/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  37/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  37/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2/NONE
+          41
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  37/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2/NONE
+          41/ 40
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  37/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 100/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 100 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 100 2/NONE
+          41/ 40/Body 6
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  38
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  38/D200132
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  38/D200132/D200132 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  38/D200132/D200132 1/D200132 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  38/D200132/D200132 1/D200132 2/NONE 35
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  38/D200132/D200132 1/D200132 2/NONE 35/
+          34
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  38/D200132/D200132 1/D200132 2/NONE 35/
+          34/sC1 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  39
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  39/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  39/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 4
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  39/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          7
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  39/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          7/NONE 49
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  39/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          7/NONE 49/ 47
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  39/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 1/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 4/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          7/NONE 49/ 47/OuterRace 5
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  40
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  40/D200120-
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  40/D200120-/D200120- 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  40/D200120-/D200120- 1/D200120- 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  40/D200120-/D200120- 1/D200120- 2/NONE
+          34
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  40/D200120-/D200120- 1/D200120- 2/NONE
+          34/ 33
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  40/D200120-/D200120- 1/D200120- 2/NONE
+          34/ 33/sC2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  41
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  41/B2000600
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  41/B2000600/B2000600 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  41/B2000600/B2000600 2/B2000600 4
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  41/B2000600/B2000600 2/B2000600 4/NONE
+          27
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  41/B2000600/B2000600 2/B2000600 4/NONE
+          27/ 26
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  41/B2000600/B2000600 2/B2000600 4/NONE
+          27/ 26/-1 4
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  42
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  42/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  42/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 5
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  42/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          6
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  42/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          6/NONE 48
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  42/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          6/NONE 48/ 46
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  42/radial ball bearing_68_jis_JIS B 1512-1
+          - 0355 - B,10,SI,NC,10_68 2/radial ball bearing_68_jis_JIS B 1512-1 - 0355
+          - B,10,SI,NC,10_68 5/radial ball bearing_68_jis_JIS B 1512-1 - 0355 - B,10,SI,NC,10_68
+          6/NONE 48/ 46/OuterRace 6
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  43
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  43/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  43/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 5
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  43/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 5/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 8
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  43/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 5/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 8/NONE
+          44
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  43/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 5/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 8/NONE
+          44/ 42
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  43/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 55 2/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 55 5/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 55 8/NONE
+          44/ 42/Body 8
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  44
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  44/B2000600 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  44/B2000600 1/B2000600 3
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  44/B2000600 1/B2000600 3/B2000600 5
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  44/B2000600 1/B2000600 3/B2000600 5/NONE
+          28
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  44/B2000600 1/B2000600 3/B2000600 5/NONE
+          28/ 27
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  44/B2000600 1/B2000600 3/B2000600 5/NONE
+          28/ 27/-1 5
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45/D200110
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45/D200110/D200110 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45/D200110/D200110 1/D200110 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45/D200110/D200110 1/D200110 2/NONE 33
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45/D200110/D200110 1/D200110 2/NONE 33/
+          32
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45/D200110/D200110 1/D200110 2/NONE 33/
+          32/M8 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45/D200110/D200110 1/D200110 2/NONE 33/
+          32/M8 1/NONE 89
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  45/D200110/D200110 1/D200110 2/NONE 33/
+          32/M8 1/NONE 89/NONE 106
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  46
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  46/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 45
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  46/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45 1
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  46/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  46/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2/NONE
+          42
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  46/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2/NONE
+          42/ 41
+        weight: 1
+      - path: AST57264656 1/  14/bB/bB 1/  46/c type shaft use retaining ring_jis_JIS
+          B 2804 Shaft use 45/c type shaft use retaining ring_jis_JIS B 2804 Shaft
+          use 45 1/c type shaft use retaining ring_jis_JIS B 2804 Shaft use 45 2/NONE
+          42/ 41/Body 7
+        weight: 1
+      - path: AST57264656 1/ Case
+        weight: 1
+      - path: AST57264656 1/ Case/L220010_L220010-805
+        weight: 1
+      - path: AST57264656 1/ Case/L220010_L220010-805/L220010_L220010-805 1
+        weight: 1
+      - path: AST57264656 1/ Case/L220010_L220010-805/L220010_L220010-805 1/L220010_L220010-805
+          2
+        weight: 1
+      - path: AST57264656 1/ Case/L220010_L220010-805/L220010_L220010-805 1/L220010_L220010-805
+          2/NONE 13
+        weight: 1
+      - path: AST57264656 1/ Case/L220010_L220010-805/L220010_L220010-805 1/L220010_L220010-805
+          2/NONE 13/ 14
+        weight: 1
+      - path: AST57264656 1/ Case/L220010_L220010-805/L220010_L220010-805 1/L220010_L220010-805
+          2/NONE 13/ 14/M10x1.5 1
+        weight: 1
+      - path: AST57264656 1/ Case/M10x1.5 1-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA
+        weight: 1
+      - path: AST57264656 1/ ShaftA/-1-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA/-1-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/1-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA/1-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/1-DC_Shell 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/3-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  47
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  47/c type shaft use retaining ring_jis_PreviewCfg
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  47/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  47/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  47/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5/NONE 57
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  47/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5/NONE 57/ 57
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  47/c type shaft use retaining ring_jis_PreviewCfg/c
+          type shaft use retaining ring_jis_PreviewCfg 2/c type shaft use retaining
+          ring_jis_PreviewCfg 5/NONE 57/ 57/Body 12
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  48
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  48/c type hole use retaining ring_jis_PreviewCfg
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  48/c type hole use retaining ring_jis_PreviewCfg/c
+          type hole use retaining ring_jis_PreviewCfg 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  48/c type hole use retaining ring_jis_PreviewCfg/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  48/c type hole use retaining ring_jis_PreviewCfg/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 56
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  48/c type hole use retaining ring_jis_PreviewCfg/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 56/ 55
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  48/c type hole use retaining ring_jis_PreviewCfg/c
+          type hole use retaining ring_jis_PreviewCfg 2/c type hole use retaining
+          ring_jis_PreviewCfg 5/NONE 56/ 55/Body 11
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  49
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  49/radial ball bearing_68_iso_PreviewCfg
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  49/radial ball bearing_68_iso_PreviewCfg/radial
+          ball bearing_68_iso_PreviewCfg 3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  49/radial ball bearing_68_iso_PreviewCfg/radial
+          ball bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 6
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  49/radial ball bearing_68_iso_PreviewCfg/radial
+          ball bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 6/NONE
+          60
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  49/radial ball bearing_68_iso_PreviewCfg/radial
+          ball bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 6/NONE
+          60/ 60
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  49/radial ball bearing_68_iso_PreviewCfg/radial
+          ball bearing_68_iso_PreviewCfg 3/radial ball bearing_68_iso_PreviewCfg 6/NONE
+          60/ 60/BallsDetailed 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  50
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  50/D200030
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  50/D200030/D200030 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  50/D200030/D200030 1/D200030 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  50/D200030/D200030 1/D200030 2/NONE
+          53
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  50/D200030/D200030 1/D200030 2/NONE
+          53/ 52
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  50/D200030/D200030 1/D200030 2/NONE
+          53/ 52/1 13
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  51
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  51/radial ball bearing_68_jis_PreviewCfg
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  51/radial ball bearing_68_jis_PreviewCfg/radial
+          ball bearing_68_jis_PreviewCfg 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  51/radial ball bearing_68_jis_PreviewCfg/radial
+          ball bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  51/radial ball bearing_68_jis_PreviewCfg/radial
+          ball bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4/NONE
+          63
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  51/radial ball bearing_68_jis_PreviewCfg/radial
+          ball bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4/NONE
+          63/ 62
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  51/radial ball bearing_68_jis_PreviewCfg/radial
+          ball bearing_68_jis_PreviewCfg 2/radial ball bearing_68_jis_PreviewCfg 4/NONE
+          63/ 62/BallsDetailed 3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  52
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  52/c type hole use retaining ring_jis_PreviewCfg
+          1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  52/c type hole use retaining ring_jis_PreviewCfg
+          1/c type hole use retaining ring_jis_PreviewCfg 3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  52/c type hole use retaining ring_jis_PreviewCfg
+          1/c type hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining
+          ring_jis_PreviewCfg 4
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  52/c type hole use retaining ring_jis_PreviewCfg
+          1/c type hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining
+          ring_jis_PreviewCfg 4/NONE 55
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  52/c type hole use retaining ring_jis_PreviewCfg
+          1/c type hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining
+          ring_jis_PreviewCfg 4/NONE 55/ 54
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  52/c type hole use retaining ring_jis_PreviewCfg
+          1/c type hole use retaining ring_jis_PreviewCfg 3/c type hole use retaining
+          ring_jis_PreviewCfg 4/NONE 55/ 54/Body 10
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  53
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  53/C200330
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  53/C200330/C200330 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  53/C200330/C200330 1/C200330 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  53/C200330/C200330 1/C200330 2/NONE
+          52
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  53/C200330/C200330 1/C200330 2/NONE
+          52/ 51
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  53/C200330/C200330 1/C200330 2/NONE
+          52/ 51/3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54/B2000051
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54/B2000051/B2000051 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54/B2000051/B2000051 1/B2000051 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54/B2000051/B2000051 1/B2000051 2/NONE
+          51
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54/B2000051/B2000051 1/B2000051 2/NONE
+          51/ 50
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54/B2000051/B2000051 1/B2000051 2/NONE
+          51/ 50/1 12
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54/B2000051/B2000051 1/B2000051 2/NONE
+          51/ 50/1 12/NONE 90
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  54/B2000051/B2000051 1/B2000051 2/NONE
+          51/ 50/1 12/NONE 90/NONE 107
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  55
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  55/radial ball bearing_68_iso_PreviewCfg
+          2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  55/radial ball bearing_68_iso_PreviewCfg
+          2/radial ball bearing_68_iso_PreviewCfg 4
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  55/radial ball bearing_68_iso_PreviewCfg
+          2/radial ball bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg
+          7
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  55/radial ball bearing_68_iso_PreviewCfg
+          2/radial ball bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg
+          7/NONE 59
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  55/radial ball bearing_68_iso_PreviewCfg
+          2/radial ball bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg
+          7/NONE 59/ 58
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  55/radial ball bearing_68_iso_PreviewCfg
+          2/radial ball bearing_68_iso_PreviewCfg 4/radial ball bearing_68_iso_PreviewCfg
+          7/NONE 59/ 58/BallsDetailed
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  56
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  56/radial ball bearing_68_iso_PreviewCfg
+          1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  56/radial ball bearing_68_iso_PreviewCfg
+          1/radial ball bearing_68_iso_PreviewCfg 5
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  56/radial ball bearing_68_iso_PreviewCfg
+          1/radial ball bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg
+          8
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  56/radial ball bearing_68_iso_PreviewCfg
+          1/radial ball bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg
+          8/NONE 61
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  56/radial ball bearing_68_iso_PreviewCfg
+          1/radial ball bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg
+          8/NONE 61/ 59
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  56/radial ball bearing_68_iso_PreviewCfg
+          1/radial ball bearing_68_iso_PreviewCfg 5/radial ball bearing_68_iso_PreviewCfg
+          8/NONE 61/ 59/BallsDetailed 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  57
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  57/c type shaft use retaining ring_jis_PreviewCfg
+          1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  57/c type shaft use retaining ring_jis_PreviewCfg
+          1/c type shaft use retaining ring_jis_PreviewCfg 3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  57/c type shaft use retaining ring_jis_PreviewCfg
+          1/c type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  57/c type shaft use retaining ring_jis_PreviewCfg
+          1/c type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4/NONE 58
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  57/c type shaft use retaining ring_jis_PreviewCfg
+          1/c type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4/NONE 58/ 56
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  57/c type shaft use retaining ring_jis_PreviewCfg
+          1/c type shaft use retaining ring_jis_PreviewCfg 3/c type shaft use retaining
+          ring_jis_PreviewCfg 4/NONE 58/ 56/Body 13
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  58
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  58/radial ball bearing_68_jis_PreviewCfg
+          1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  58/radial ball bearing_68_jis_PreviewCfg
+          1/radial ball bearing_68_jis_PreviewCfg 3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  58/radial ball bearing_68_jis_PreviewCfg
+          1/radial ball bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg
+          5
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  58/radial ball bearing_68_jis_PreviewCfg
+          1/radial ball bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg
+          5/NONE 62
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  58/radial ball bearing_68_jis_PreviewCfg
+          1/radial ball bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg
+          5/NONE 62/ 61
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  58/radial ball bearing_68_jis_PreviewCfg
+          1/radial ball bearing_68_jis_PreviewCfg 3/radial ball bearing_68_jis_PreviewCfg
+          5/NONE 62/ 61/BallsDetailed 4
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  59
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  59/D200040
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  59/D200040/D200040 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  59/D200040/D200040 1/D200040 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  59/D200040/D200040 1/D200040 2/NONE
+          54
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  59/D200040/D200040 1/D200040 2/NONE
+          54/ 53
+        weight: 1
+      - path: AST57264656 1/ ShaftA/bA1/bA1 1/  59/D200040/D200040 1/D200040 2/NONE
+          54/ 53/sC1 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/BallsDetailed-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA/BallsDetailed-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/BallsDetailed-DC_Shell 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/BallsDetailed-DC_Shell 3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/BallsDetailed-DC_Shell 4
+        weight: 1
+      - path: AST57264656 1/ ShaftA/Body-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA/Body-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/Body-DC_Shell 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/Body-DC_Shell 3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/Body-DC_Shell 4
+        weight: 1
+      - path: AST57264656 1/ ShaftA/Body-DC_Shell 5
+        weight: 1
+      - path: AST57264656 1/ ShaftA/NONE-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA/NONE-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/NONE-DC_Shell 2
+        weight: 1
+      - path: AST57264656 1/ ShaftA/NONE-DC_Shell 3
+        weight: 1
+      - path: AST57264656 1/ ShaftA/NONE-DC_Shell 4
+        weight: 1
+      - path: AST57264656 1/ ShaftA/NONE-DC_Shell 5
+        weight: 1
+      - path: AST57264656 1/ ShaftA/OuterRace-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA/OuterRace-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftA/sC1-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftA/sC1-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftB
+        weight: 1
+      - path: AST57264656 1/ ShaftB/-1-DC_Shell 2
+        weight: 1
+      - path: AST57264656 1/ ShaftB/-1-DC_Shell 3
+        weight: 1
+      - path: AST57264656 1/ ShaftB/-1-DC_Shell 4
+        weight: 1
+      - path: AST57264656 1/ ShaftB/-1-DC_Shell 5
+        weight: 1
+      - path: AST57264656 1/ ShaftB/-1-DC_Shell 6
+        weight: 1
+      - path: AST57264656 1/ ShaftB/-1-DC_Shell 7
+        weight: 1
+      - path: AST57264656 1/ ShaftB/1-DC_Shell 3
+        weight: 1
+      - path: AST57264656 1/ ShaftB/1-DC_Shell 4
+        weight: 1
+      - path: AST57264656 1/ ShaftB/1-DC_Shell 5
+        weight: 1
+      - path: AST57264656 1/ ShaftB/1-DC_Shell 6
+        weight: 1
+      - path: AST57264656 1/ ShaftB/1-DC_Shell 7
+        weight: 1
+      - path: AST57264656 1/ ShaftB/2-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  60
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  60/D200210
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  60/D200210/D200210 1
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  60/D200210/D200210 1/D200210 2
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  60/D200210/D200210 1/D200210 2/NONE
+          64
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  60/D200210/D200210 1/D200210 2/NONE
+          64/ 63
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  60/D200210/D200210 1/D200210 2/NONE
+          64/ 63/1 14
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61/D200220
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61/D200220/D200220 1
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61/D200220/D200220 1/D200220 2
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61/D200220/D200220 1/D200220 2/NONE
+          65
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61/D200220/D200220 1/D200220 2/NONE
+          65/ 64
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61/D200220/D200220 1/D200220 2/NONE
+          65/ 64/O8.0 (8) |1
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61/D200220/D200220 1/D200220 2/NONE
+          65/ 64/O8.0 (8) |1/NONE 91
+        weight: 1
+      - path: AST57264656 1/ ShaftB/bL1/bL1 1/  61/D200220/D200220 1/D200220 2/NONE
+          65/ 64/O8.0 (8) |1/NONE 91/NONE 108
+        weight: 1
+      - path: AST57264656 1/ ShaftB/Body-DC_Shell 6
+        weight: 1
+      - path: AST57264656 1/ ShaftB/Body-DC_Shell 7
+        weight: 1
+      - path: AST57264656 1/ ShaftB/Body-DC_Shell 8
+        weight: 1
+      - path: AST57264656 1/ ShaftB/Body-DC_Shell 9
+        weight: 1
+      - path: AST57264656 1/ ShaftB/Body-DC_Shell 10
+        weight: 1
+      - path: AST57264656 1/ ShaftB/Body-DC_Shell 11
+        weight: 1
+      - path: AST57264656 1/ ShaftB/Body-DC_Shell 12
+        weight: 1
+      - path: AST57264656 1/ ShaftB/Body-DC_Shell 13
+        weight: 1
+      - path: AST57264656 1/ ShaftB/c type hole use retaining ring_jis_JIS B 2804
+          Hole use 120 4
+        weight: 1
+      - path: AST57264656 1/ ShaftB/c type hole use retaining ring_jis_JIS B 2804
+          Hole use 120 4/c type hole use retaining ring_jis_JIS B 2804 Hole use 120
+          9
+        weight: 1
+      - path: AST57264656 1/ ShaftB/c type hole use retaining ring_jis_JIS B 2804
+          Hole use 120 4/c type hole use retaining ring_jis_JIS B 2804 Hole use 120
+          9/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 14
+        weight: 1
+      - path: AST57264656 1/ ShaftB/c type hole use retaining ring_jis_JIS B 2804
+          Hole use 120 4/c type hole use retaining ring_jis_JIS B 2804 Hole use 120
+          9/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 14/NONE 14
+        weight: 1
+      - path: AST57264656 1/ ShaftB/c type hole use retaining ring_jis_JIS B 2804
+          Hole use 120 4/c type hole use retaining ring_jis_JIS B 2804 Hole use 120
+          9/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 14/NONE 14/
+          15
+        weight: 1
+      - path: AST57264656 1/ ShaftB/c type hole use retaining ring_jis_JIS B 2804
+          Hole use 120 4/c type hole use retaining ring_jis_JIS B 2804 Hole use 120
+          9/c type hole use retaining ring_jis_JIS B 2804 Hole use 120 14/NONE 14/
+          15/Body 4
+        weight: 1
+      - path: AST57264656 1/ ShaftB/g2-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftB/InnerRace-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftB/NONE-DC_Shell 6
+        weight: 1
+      - path: AST57264656 1/ ShaftB/NONE-DC_Shell 7
+        weight: 1
+      - path: AST57264656 1/ ShaftB/NONE-DC_Shell 8
+        weight: 1
+      - path: AST57264656 1/ ShaftB/NONE-DC_Shell 9
+        weight: 1
+      - path: AST57264656 1/ ShaftB/NONE-DC_Shell 10
+        weight: 1
+      - path: AST57264656 1/ ShaftB/NONE-DC_Shell 11
+        weight: 1
+      - path: AST57264656 1/ ShaftB/OuterRace-DC_Shell 2
+        weight: 1
+      - path: AST57264656 1/ ShaftB/OuterRace-DC_Shell 3
+        weight: 1
+      - path: AST57264656 1/ ShaftB/OuterRace-DC_Shell 4
+        weight: 1
+      - path: AST57264656 1/ ShaftB/OuterRace-DC_Shell 5
+        weight: 1
+      - path: AST57264656 1/ ShaftB/OuterRace-DC_Shell 6
+        weight: 1
+      - path: AST57264656 1/ ShaftB/sC1-DC_Shell 2
+        weight: 1
+      - path: AST57264656 1/ ShaftB/sC2-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftF
+        weight: 1
+      - path: AST57264656 1/ ShaftF/-1-DC_Shell 8
+        weight: 1
+      - path: AST57264656 1/ ShaftF/-1-DC_Shell 9
+        weight: 1
+      - path: AST57264656 1/ ShaftF/1-DC_Shell 8
+        weight: 1
+      - path: AST57264656 1/ ShaftF/1-DC_Shell 9
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62/LM451345
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62/LM451345/LM451345 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62/LM451345/LM451345 1/LM451345 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62/LM451345/LM451345 1/LM451345 2/NONE
+          75
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62/LM451345/LM451345 1/LM451345 2/NONE
+          75/ 74
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62/LM451345/LM451345 1/LM451345 2/NONE
+          75/ 74/1 19
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62/LM451345/LM451345 1/LM451345 2/NONE
+          75/ 74/1 19/NONE 95
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  62/LM451345/LM451345 1/LM451345 2/NONE
+          75/ 74/1 19/NONE 95/NONE 112
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63/412221203
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63/412221203/412221203 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63/412221203/412221203 1/412221203 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63/412221203/412221203 1/412221203 2/NONE
+          66
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63/412221203/412221203 1/412221203 2/NONE
+          66/ 65
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63/412221203/412221203 1/412221203 2/NONE
+          66/ 65/1 15
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63/412221203/412221203 1/412221203 2/NONE
+          66/ 65/1 15/NONE 92
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  63/412221203/412221203 1/412221203 2/NONE
+          66/ 65/1 15/NONE 92/NONE 109
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  64
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  64/412230370
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  64/412230370/412230370 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  64/412230370/412230370 1/412230370 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  64/412230370/412230370 1/412230370 2/NONE
+          67
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  64/412230370/412230370 1/412230370 2/NONE
+          67/ 66
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  64/412230370/412230370 1/412230370 2/NONE
+          67/ 66/sC1 3
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  65
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  65/412230380
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  65/412230380/412230380 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  65/412230380/412230380 1/412230380 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  65/412230380/412230380 1/412230380 2/NONE
+          68
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  65/412230380/412230380 1/412230380 2/NONE
+          68/ 67
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  65/412230380/412230380 1/412230380 2/NONE
+          68/ 67/sC1 4
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  66
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  66/KEY2R25-14-170 3
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  66/KEY2R25-14-170 3/KEY2R25-14-170 4
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  66/KEY2R25-14-170 3/KEY2R25-14-170 4/KEY2R25-14-170
+          5
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  66/KEY2R25-14-170 3/KEY2R25-14-170 4/KEY2R25-14-170
+          5/NONE 73
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  66/KEY2R25-14-170 3/KEY2R25-14-170 4/KEY2R25-14-170
+          5/NONE 73/ 72
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  66/KEY2R25-14-170 3/KEY2R25-14-170 4/KEY2R25-14-170
+          5/NONE 73/ 72/-1 10
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  67
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  68
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  68/LM451310
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  68/LM451310/LM451310 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  68/LM451310/LM451310 1/LM451310 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  68/LM451310/LM451310 1/LM451310 2/NONE
+          74
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  68/LM451310/LM451310 1/LM451310 2/NONE
+          74/ 73
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  68/LM451310/LM451310 1/LM451310 2/NONE
+          74/ 73/1 18
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69/D209161
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69/D209161/D209161 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69/D209161/D209161 1/D209161 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69/D209161/D209161 1/D209161 2/NONE
+          70
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69/D209161/D209161 1/D209161 2/NONE
+          70/ 69
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69/D209161/D209161 1/D209161 2/NONE
+          70/ 69/1 16
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69/D209161/D209161 1/D209161 2/NONE
+          70/ 69/1 16/NONE 94
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  69/D209161/D209161 1/D209161 2/NONE
+          70/ 69/1 16/NONE 94/NONE 111
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  70
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  70/D209171
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  70/D209171/D209171 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  70/D209171/D209171 1/D209171 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  70/D209171/D209171 1/D209171 2/NONE
+          71
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  70/D209171/D209171 1/D209171 2/NONE
+          71/ 70
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  70/D209171/D209171 1/D209171 2/NONE
+          71/ 70/M12 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71/D209151
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71/D209151/D209151 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71/D209151/D209151 1/D209151 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71/D209151/D209151 1/D209151 2/NONE
+          69
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71/D209151/D209151 1/D209151 2/NONE
+          69/ 68
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71/D209151/D209151 1/D209151 2/NONE
+          69/ 68/g2 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71/D209151/D209151 1/D209151 2/NONE
+          69/ 68/g2 1/NONE 93
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  71/D209151/D209151 1/D209151 2/NONE
+          69/ 68/g2 1/NONE 93/NONE 110
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  72
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  72/D209280
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  72/D209280/D209280 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  72/D209280/D209280 1/D209280 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  72/D209280/D209280 1/D209280 2/NONE
+          72
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  72/D209280/D209280 1/D209280 2/NONE
+          72/ 71
+        weight: 1
+      - path: AST57264656 1/ ShaftF/bF/bF 1/  72/D209280/D209280 1/D209280 2/NONE
+          72/ 71/1 17
+        weight: 1
+      - path: AST57264656 1/ ShaftF/KEY2R25-14-170
+        weight: 1
+      - path: AST57264656 1/ ShaftF/KEY2R25-14-170 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/KEY2R25-14-170 2
+        weight: 1
+      - path: AST57264656 1/ ShaftF/M12 1-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE/ 1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE/ 1/-1
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 12
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 13
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 14
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 15
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 16
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 17
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 18
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 19
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 20
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 21
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 22
+        weight: 1
+      - path: AST57264656 1/ ShaftF/NONE-DC_Shell 23
+        weight: 1
+      - path: AST57264656 1/ ShaftF/sC1-DC_Shell 3
+        weight: 1
+      - path: AST57264656 1/ ShaftF/sC1-DC_Shell 4
+        weight: 1
+      - path: AST57264656 1/ ShaftL1
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/ l1-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/1-DC_Shell 10
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/1-DC_Shell 11
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  73
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  73/DMB_72
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  73/DMB_72/DMB_72
+          1
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  73/DMB_72/DMB_72
+          1/DMB_72 2
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  73/DMB_72/DMB_72
+          1/DMB_72 2/NONE 76
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  73/DMB_72/DMB_72
+          1/DMB_72 2/NONE 76/ 75
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  73/DMB_72/DMB_72
+          1/DMB_72 2/NONE 76/ 75/ l1
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  74
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  74/DMBb_72
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  74/DMBb_72/DMBb_72
+          1
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  74/DMBb_72/DMBb_72
+          1/DMBb_72 2
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  74/DMBb_72/DMBb_72
+          1/DMBb_72 2/NONE 77
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  74/DMBb_72/DMBb_72
+          1/DMBb_72 2/NONE 77/ 76
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  74/DMBb_72/DMBb_72
+          1/DMBb_72 2/NONE 77/ 76/1 20
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  74/DMBb_72/DMBb_72
+          1/DMBb_72 2/NONE 77/ 76/1 20/NONE 96
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  75
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  75/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  75/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  75/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  75/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          78
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  75/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          78/ 77
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/DMB_DMB40N72FA/DMB_DMB40N72FA 1/  75/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 1/hexagon
+          nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5 --N 2/NONE
+          78/ 77/EndChamfer
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/EndChamfer-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/NONE-DC_Shell 24
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/NONE-DC_Shell 25
+        weight: 1
+      - path: AST57264656 1/ ShaftL1/NONE-DC_Shell 26
+        weight: 1
+      - path: AST57264656 1/ ShaftL2
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/ l1-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/1-DC_Shell 12
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  76
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  76/D200250
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  76/D200250/D200250 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  76/D200250/D200250 1/D200250 2
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  76/D200250/D200250 1/D200250 2/NONE
+          80
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  76/D200250/D200250 1/D200250 2/NONE
+          80/ 79
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  76/D200250/D200250 1/D200250 2/NONE
+          80/ 79/1 22
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  81
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  81/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 3
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  81/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 3/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 4
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  81/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 3/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 4/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 5
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  81/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 3/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 4/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 5/NONE 100
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  81/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 3/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 4/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 5/NONE 100/ 84
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  81/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 3/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 4/hexagon nut_3 fine_jis_JIS B 1181 Hexagon nut - Class 3 Regular M16x1.5
+          --N 5/NONE 100/ 84/EndChamfer 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  82
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  82/DMBb_72 3
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  82/DMBb_72 3/DMBb_72 4
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  82/DMBb_72 3/DMBb_72 4/DMBb_72 5
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  82/DMBb_72 3/DMBb_72 4/DMBb_72 5/NONE 99
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  82/DMBb_72 3/DMBb_72 4/DMBb_72 5/NONE 99/ 83
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  82/DMBb_72 3/DMBb_72 4/DMBb_72 5/NONE 99/ 83/1 24
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  82/DMBb_72 3/DMBb_72 4/DMBb_72 5/NONE 99/ 83/1 24/NONE 114
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  83
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  83/DMB_72 3
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  83/DMB_72 3/DMB_72 4
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  83/DMB_72 3/DMB_72 4/DMB_72 5
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  83/DMB_72 3/DMB_72 4/DMB_72 5/NONE 98
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  83/DMB_72 3/DMB_72 4/DMB_72 5/NONE 98/ 82
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  77/DMB_DMB40N72FA 2/DMB_DMB40N72FA
+          3/  83/DMB_72 3/DMB_72 4/DMB_72 5/NONE 98/ 82/ l1 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  78
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  78/D200270
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  78/D200270/D200270 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  78/D200270/D200270 1/D200270 2
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  78/D200270/D200270 1/D200270 2/NONE
+          81
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  78/D200270/D200270 1/D200270 2/NONE
+          81/ 80
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  78/D200270/D200270 1/D200270 2/NONE
+          81/ 80/M6 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79/D200230
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79/D200230/D200230 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79/D200230/D200230 1/D200230 2
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79/D200230/D200230 1/D200230 2/NONE
+          79
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79/D200230/D200230 1/D200230 2/NONE
+          79/ 78
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79/D200230/D200230 1/D200230 2/NONE
+          79/ 78/1 21
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79/D200230/D200230 1/D200230 2/NONE
+          79/ 78/1 21/NONE 97
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  79/D200230/D200230 1/D200230 2/NONE
+          79/ 78/1 21/NONE 97/NONE 113
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2/NONE 82
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2/NONE 82/ 81
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2/NONE 82/ 81/-/s1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2/NONE 82/ 81/-/s1/NONE 101
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2/NONE 82/ 81/1 23
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2/NONE 82/ 81/1 23/NONE 102
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2/NONE 82/ 81/g1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/bL2/bL2 1/  80/OV-D200240/OV-D200240 1/OV-D200240
+          2/NONE 82/ 81/g1/NONE 103
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/EndChamfer-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/M6 1-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/NONE-DC_Shell 27
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/NONE-DC_Shell 28
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/NONE-DC_Shell 29
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/NONE-DC_Shell 30
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/NONE-DC_Shell 31
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/NONE-DC_Shell 32
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/NONE-DC_Shell 33
+        weight: 1
+      - path: AST57264656 1/ ShaftL2/NONE-DC_Shell 34
+        weight: 1
+      - path: AST57264656 1/ Side
+        weight: 1
+      - path: AST57264656 1/ Side/D200261 1
+        weight: 1
+      - path: AST57264656 1/ Side/D200261 1/D200261 3
+        weight: 1
+      - path: AST57264656 1/ Side/D200261 1/D200261 3/D200261 5
+        weight: 1
+      - path: AST57264656 1/ Side/D200261 1/D200261 3/D200261 5/NONE 15
+        weight: 1
+      - path: AST57264656 1/ Side/D200261 1/D200261 3/D200261 5/NONE 15/ 16
+        weight: 1
+      - path: AST57264656 1/ Side/D200261 1/D200261 3/D200261 5/NONE 15/ 16/M8 YvW1
+          1
+        weight: 1
+      - path: AST57264656 1/ Side/M8 YvW1-DC_Shell
+        weight: 1
+      - path: AST57264656 1/ Side/M8 YvW1-DC_Shell 1
+        weight: 1
+      - path: AST57264656 1/ Top
+        weight: 1
+      - path: AST57264656 1/ Top/L220020
+        weight: 1
+      - path: AST57264656 1/ Top/L220020/L220020 1
+        weight: 1
+      - path: AST57264656 1/ Top/L220020/L220020 1/L220020 2
+        weight: 1
+      - path: AST57264656 1/ Top/L220020/L220020 1/L220020 2/NONE 16
+        weight: 1
+      - path: AST57264656 1/ Top/L220020/L220020 1/L220020 2/NONE 16/ 17
+        weight: 1
+      - path: AST57264656 1/ Top/L220020/L220020 1/L220020 2/NONE 16/ 17/-1 1
+        weight: 1
+      - path: AST57264656 1/ Top/L220020/L220020 1/L220020 2/NONE 16/ 17/-1 1/NONE
+          83
+        weight: 1
+      - path: AST57264656 1/ Top/L220020/L220020 1/L220020 2/NONE 16/ 17/-1 1/NONE
+          83/NONE 86
+        weight: 1
+      - path: AST57264656 1/ Top/NONE-DC_Shell 35
+        weight: 1
+      - path: AST57264656 1/ Top/NONE-DC_Shell 36
+        weight: 1
+      - path: AST57264656 1/ Top/NONE-DC_Shell 37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

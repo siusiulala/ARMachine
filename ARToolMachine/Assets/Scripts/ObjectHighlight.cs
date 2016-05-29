@@ -30,7 +30,7 @@ public class ObjectHighlight : MonoBehaviour {
 	void OnMouseEnter()
 	{
 		startColor = GetComponent<Renderer>().material.color;
-		GetComponent<Renderer> ().material.color = new Color(0.6f,0,0,1);
+		GetComponent<Renderer> ().material.color = new Color(0.2f,0.6f,1.0f,1);
 		_displayObjectName = true;
 	}
 
@@ -43,8 +43,8 @@ public class ObjectHighlight : MonoBehaviour {
 	void DisplayName()
 	{
 		if (_displayObjectName) {
-			GUI.Box (new Rect (Event.current.mousePosition.x-75, Event.current.mousePosition.y-150, 150, 70),
-				"氣球號："+objectIndex+"\n"+
+			GUI.Box (new Rect (Event.current.mousePosition.x-75, Event.current.mousePosition.y-140, 200, 60),
+				//"氣球號："+objectIndex+"\n"+
 				"零件號碼："+objectNumber+"\n"+
 				"零件名稱："+objectName+"\n"+
 				"數量："+objectQuantity);
