@@ -7,11 +7,12 @@ public class ChangeScene : MonoBehaviour {
 
 	public void ToAR()
 	{
-		SceneManager.LoadScene ("ARview");
+		SceneManager.LoadScene ("AR");
 	}
 
 	public void ToMain()
 	{
+		print ("ToMain...");
 		SceneManager.LoadScene ("main_all");
 	}
 
