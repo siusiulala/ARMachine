@@ -94,42 +94,42 @@ static function ClampAngle (angle : float, min : float, max : float) {
 
 // these GUI-s are for sample purpose
 // simply delete line 97 - 135 to remove these GUI-s
-function OnGUI() {
-	if(showGUI) {
-		// change the limit of camera movement top
-		GUI.Label(Rect(25,25,150,50), "Camera Top Limit");
-		cameraTopLimit = GUI.HorizontalSlider(Rect(250,30,100,20), cameraTopLimit, 50, 150);
-		GUI.Label(Rect(200,25,50,50), cameraTopLimit.ToString("F2"));
-		
-		// change the limit of camera movement bottom
-		GUI.Label(Rect(25,50,150,50), "Camera Bot Limit");
-		cameraBottomLimit = GUI.HorizontalSlider(Rect(250,55,100,20), cameraBottomLimit, 0, -100);
-		GUI.Label(Rect(200,50,50,50), cameraBottomLimit.ToString("F2"));
-		
-		// change the limit of when the camera will start rotating top
-		GUI.Label(Rect(25,75,150,50), "Top Rotation Threshold");
-		thresholdTop = GUI.HorizontalSlider(Rect(250,80,100,20), thresholdTop, 25, 75);
-		GUI.Label(Rect(200,75,50,50), thresholdTop.ToString("F2"));
-		
-		// cahnge the limit of when the camera will start rotating bottom
-		GUI.Label(Rect(25,100,150,50), "Bot Rotation Threshold");
-		thresholdBottom = GUI.HorizontalSlider(Rect(250,105,100,20), thresholdBottom, -25, 25);
-		GUI.Label(Rect(200,100,50,50), thresholdBottom.ToString("F2"));
-		
-		// change the camera movement speed
-		GUI.Label(Rect(25,125,150,50), "Camera Movement Speed");
-		moveSpeed = GUI.HorizontalSlider(Rect(250,130,100,20), moveSpeed, 0, 2);
-		GUI.Label(Rect(200,125,50,50), moveSpeed.ToString("F2"));
-		
-		// change the camera vertical rotation speed
-		GUI.Label(Rect(25,150,150,50), "Camera Rotation Speed");
-		rotationSpeed = GUI.HorizontalSlider(Rect(250,155,100,20), rotationSpeed, 0, 2);
-		GUI.Label(Rect(200,150,50,50), rotationSpeed.ToString("F2"));
-		
-		// to change to sphere orbit scene
-		if (GUI.Button(Rect(Screen.width - 100, 25, 75, 50), "Sphere\nOrbit")){
-			Application.LoadLevel (1);
-		}
-		
-	}
-}
+//function OnGUI() {
+//	if(showGUI) {
+//		// change the limit of camera movement top
+//		GUI.Label(Rect(25,25,150,50), "Camera Top Limit");
+//		cameraTopLimit = GUI.HorizontalSlider(Rect(250,30,100,20), cameraTopLimit, 50, 150);
+//		GUI.Label(Rect(200,25,50,50), cameraTopLimit.ToString("F2"));
+//		
+//		// change the limit of camera movement bottom
+//		GUI.Label(Rect(25,50,150,50), "Camera Bot Limit");
+//		cameraBottomLimit = GUI.HorizontalSlider(Rect(250,55,100,20), cameraBottomLimit, 0, -100);
+//		GUI.Label(Rect(200,50,50,50), cameraBottomLimit.ToString("F2"));
+//		
+//		// change the limit of when the camera will start rotating top
+//		GUI.Label(Rect(25,75,150,50), "Top Rotation Threshold");
+//		thresholdTop = GUI.HorizontalSlider(Rect(250,80,100,20), thresholdTop, 25, 75);
+//		GUI.Label(Rect(200,75,50,50), thresholdTop.ToString("F2"));
+//		
+//		// cahnge the limit of when the camera will start rotating bottom
+//		GUI.Label(Rect(25,100,150,50), "Bot Rotation Threshold");
+//		thresholdBottom = GUI.HorizontalSlider(Rect(250,105,100,20), thresholdBottom, -25, 25);
+//		GUI.Label(Rect(200,100,50,50), thresholdBottom.ToString("F2"));
+//		
+//		// change the camera movement speed
+//		GUI.Label(Rect(25,125,150,50), "Camera Movement Speed");
+//		moveSpeed = GUI.HorizontalSlider(Rect(250,130,100,20), moveSpeed, 0, 2);
+//		GUI.Label(Rect(200,125,50,50), moveSpeed.ToString("F2"));
+//		
+//		// change the camera vertical rotation speed
+//		GUI.Label(Rect(25,150,150,50), "Camera Rotation Speed");
+//		rotationSpeed = GUI.HorizontalSlider(Rect(250,155,100,20), rotationSpeed, 0, 2);
+//		GUI.Label(Rect(200,150,50,50), rotationSpeed.ToString("F2"));
+//		
+//		// to change to sphere orbit scene
+//		if (GUI.Button(Rect(Screen.width - 100, 25, 75, 50), "Sphere\nOrbit")){
+//			Application.LoadLevel (1);
+//		}
+//		
+//	}
+//}

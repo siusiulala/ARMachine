@@ -90,4 +90,35 @@ public class ChangeScene : MonoBehaviour {
 	{
 		SceneManager.LoadScene ("bed_MotorCase");
 	}
+
+	public void ToYall()
+	{
+		SceneManager.LoadScene ("y_all");
+	}
+
+	public void ToYStand()
+	{
+		SceneManager.LoadScene ("y_Stand");
+	}
+
+	public void ToYATC()
+	{
+		SceneManager.LoadScene ("y_ATC");
+	}
+
+	public void ToYBAxis()
+	{
+		SceneManager.LoadScene ("y_Baxis");
+	}
+
+	public void ToYSub()
+	{
+		SceneManager.LoadScene ("y_Sub");
+	}
+
+	public void ToYYAxis()
+	{
+		SceneManager.LoadScene ("y_Yaxis");
+	}
+
 }
