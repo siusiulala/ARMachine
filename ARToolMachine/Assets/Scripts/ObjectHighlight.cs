@@ -45,7 +45,7 @@ public class ObjectHighlight : MonoBehaviour {
 		GUIStyle myStyle = new GUIStyle(GUI.skin.button);
 		myStyle.fontSize = 30;
 		if (_displayObjectName) {
-			int boxWidth = (objectNumber.Length > objectName.Length) ? 120 + objectNumber.Length * 25 : 120 + objectName.Length * 25;
+			int boxWidth = (objectNumber.Length > objectName.Length) ? 180 + objectNumber.Length * 25 : 180 + objectName.Length * 25;
 			GUI.Box (new Rect (Event.current.mousePosition.x-75, Event.current.mousePosition.y-140, boxWidth, 120),
 				//"氣球號："+objectIndex+"\n"+
 				"零件號碼："+objectNumber+"\n"+
