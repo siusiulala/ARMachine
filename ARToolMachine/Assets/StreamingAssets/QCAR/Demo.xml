@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="x2" size="300.000000 135.394119" />
+    <ImageTarget name="bed2" size="300.000000 135.394119" />
+    <ImageTarget name="sub2" size="300.000000 107.346939" />
     <ImageTarget name="tailstock2" size="800.000000 338.060791" />
     <ImageTarget name="headstock2" size="800.000000 298.823517" />
-    <ImageTarget name="Sub-spindle" size="300.000000 107.346939" />
-    <ImageTarget name="Bed" size="300.000000 135.394119" />
-    <ImageTarget name="Headstock" size="300.000000 111.126762" />
-    <ImageTarget name="Tailstock" size="300.000000 126.772797" />
-    <ImageTarget name="X-axis" size="300.000000 135.394119" />
     <ImageTarget name="ALL" size="300.000000 116.230370" />
-    <ImageTarget name="main" size="640.000000 640.000000" />
-    <ImageTarget name="tail" size="640.000000 640.000000" />
     <ImageTarget name="logo" size="300.000000 109.422493" />
   </Tracking>
 </QCARConfig>
