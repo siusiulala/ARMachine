@@ -5,6 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour {
 
+//	public GameObject loadText;
+//	public GameObject loadImage;
+//	IEnumerator DisplayLoadingScreen (string sceneName){////(1)
+//		AsyncOperation async = Application.LoadLevelAsync (sceneName);////(2)
+//		while (!async.isDone) {////(3)
+//			loadText.text = (async.progress * 100).ToString() + "%";////(4)
+//			loadImage.transform.localScale = new Vector2(async.progress,loadImage.transform.localScale.y);
+//			yield return null;
+//		}
+//	}
+
 	public void ToAR()
 	{
 		SceneManager.LoadScene ("AR");
@@ -12,7 +23,6 @@ public class ChangeScene : MonoBehaviour {
 
 	public void ToMain()
 	{
-		print ("ToMain...");
 		SceneManager.LoadScene ("main_all");
 	}
 
