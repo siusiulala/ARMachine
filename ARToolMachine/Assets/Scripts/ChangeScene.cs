@@ -21,6 +21,11 @@ public class ChangeScene : MonoBehaviour {
 		SceneManager.LoadScene ("AR");
 	}
 
+	public void ToAll()
+	{
+		SceneManager.LoadScene ("All");
+	}
+
 	public void ToMain()
 	{
 		SceneManager.LoadScene ("main_all");
@@ -129,6 +134,16 @@ public class ChangeScene : MonoBehaviour {
 	public void ToYYAxis()
 	{
 		SceneManager.LoadScene ("y_Yaxis");
+	}
+
+	public void ToXall()
+	{
+		SceneManager.LoadScene ("x_all");
+	}
+
+	public void ToXXAxis()
+	{
+		SceneManager.LoadScene ("x_Xaxis");
 	}
 
 }

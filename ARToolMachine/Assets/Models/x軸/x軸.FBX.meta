@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 06172f253a91e4c02b43eef7369a1415
+timeCreated: 1468391209
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  16'
+    100018: '  17'
+    100020: '  18'
+    100022: '  19'
+    100024: '  2'
+    100026: '  20'
+    100028: '  21'
+    100030: '  22'
+    100032: '  23'
+    100034: '  24'
+    100036: '  25'
+    100038: '  26'
+    100040: '  27'
+    100042: '  28'
+    100044: '  29'
+    100046: '  3'
+    100048: '  30'
+    100050: '  31'
+    100052: '  32'
+    100054: '  33'
+    100056: '  34'
+    100058: '  35'
+    100060: '  36'
+    100062: '  37'
+    100064: '  38'
+    100066: '  39'
+    100068: '  4'
+    100070: '  40'
+    100072: '  41'
+    100074: '  42'
+    100076: '  43'
+    100078: '  44'
+    100080: '  45'
+    100082: '  5'
+    100084: '  6'
+    100086: '  7'
+    100088: '  8'
+    100090: '  9'
+    100092: ' 1'
+    100094: ' 10'
+    100096: ' 11'
+    100098: ' 12'
+    100100: ' 13'
+    100102: ' 14'
+    100104: ' 15'
+    100106: ' 16'
+    100108: ' 17'
+    100110: ' 18'
+    100112: ' 19'
+    100114: ' 2'
+    100116: ' 20'
+    100118: ' 21'
+    100120: ' 22'
+    100122: ' 23'
+    100124: ' 24'
+    100126: ' 25'
+    100128: ' 26'
+    100130: ' 27'
+    100132: ' 28'
+    100134: ' 29'
+    100136: ' 3'
+    100138: ' 30'
+    100140: ' 31'
+    100142: ' 32'
+    100144: ' 33'
+    100146: ' 34'
+    100148: ' 35'
+    100150: ' 36'
+    100152: ' 37'
+    100154: ' 38'
+    100156: ' 39'
+    100158: ' 4'
+    100160: ' 40'
+    100162: ' 41'
+    100164: ' 42'
+    100166: ' 43'
+    100168: ' 44'
+    100170: ' 5'
+    100172: ' 6'
+    100174: ' 7'
+    100176: ' 8'
+    100178: ' 9'
+    100180: ' y0'
+    100182: ' y0 1'
+    100184: ' y0 2'
+    100186: ' y0-DC_Shell'
+    100188: ' y0-DC_Shell 1'
+    100190: ' y0-DC_Shell 2'
+    100192: -L1
+    100194: -L1 1
+    100196: -L1 2
+    100198: -L1 3
+    100200: -L1 4
+    100202: -L1 5
+    100204: -L1-DC_Shell
+    100206: -L1-DC_Shell 1
+    100208: -L1-DC_Shell 2
+    100210: -L1-DC_Shell 3
+    100212: -L1-DC_Shell 4
+    100214: -L1-DC_Shell 5
+    100216: -L1[1]
+    100218: -L1[1] 1
+    100220: -L1[1] 2
+    100222: -L1[1] 3
+    100224: -L1[1]-DC_Shell
+    100226: -L1[1]-DC_Shell 1
+    100228: -L1[1]-DC_Shell 2
+    100230: -L1[1]-DC_Shell 3
+    100232: -L1[2]
+    100234: -L1[2] 1
+    100236: -L1[2] 2
+    100238: -L1[2] 3
+    100240: -L1[2]-DC_Shell
+    100242: -L1[2]-DC_Shell 1
+    100244: -L1[2]-DC_Shell 2
+    100246: -L1[2]-DC_Shell 3
+    100248: -L2
+    100250: -L2-DC_Shell
+    100252: 1
+    100254: 1-DC_Shell
+    100256: 2
+    100258: 2-DC_Shell
+    100260: 7^ARCOR-4035
+    100262: 7^ARCOR-4035 1
+    100264: 7^ARCOR-4035 2
+    100266: 8^ARCOR-4035
+    100268: 8^ARCOR-4035 1
+    100270: 8^ARCOR-4035 2
+    100272: 9^ARCOR-4035
+    100274: 9^ARCOR-4035 1
+    100276: 9^ARCOR-4035 10
+    100278: 9^ARCOR-4035 11
+    100280: 9^ARCOR-4035 2
+    100282: 9^ARCOR-4035 3
+    100284: 9^ARCOR-4035 4
+    100286: 9^ARCOR-4035 5
+    100288: 9^ARCOR-4035 6
+    100290: 9^ARCOR-4035 7
+    100292: 9^ARCOR-4035 8
+    100294: 9^ARCOR-4035 9
+    100296: ?9.0 (9) 1
+    100298: ?9.0 (9) 1 1
+    100300: ?9.0 (9) 1-DC_Shell
+    100302: ?9.0 (9) 1-DC_Shell 1
+    100304: ARC300050
+    100306: ARC300050 1
+    100308: ARC300050 2
+    100310: ARC300070
+    100312: ARC300070 1
+    100314: ARC300070 2
+    100316: ARC300080
+    100318: ARC300080 1
+    100320: ARC300080 2
+    100322: ARC300080 3
+    100324: ARC300080 4
+    100326: ARC300080 5
+    100328: ARC300080 6
+    100330: ARC300080 7
+    100332: ARC300080 8
+    100334: ARC300090
+    100336: ARC300090 1
+    100338: ARC300090 2
+    100340: ARC300130
+    100342: ARC300130 1
+    100344: ARC300130 2
+    100346: ARCOR-4035_28*35*95L
+    100348: ARCOR-4035_28*35*95L 1
+    100350: ARD300060
+    100352: ARD300060 1
+    100354: ARD300060 2
+    100356: ARF300050
+    100358: ARF300050 1
+    100360: ARF300050 2
+    100362: ARL320330
+    100364: ARL320330 1
+    100366: ARL320330 2
+    100368: ARL331270
+    100370: ARL331270 1
+    100372: ARL350031_
+    100374: ARL350031_ 1
+    100376: ARL350031_ 2
+    100378: ARL350031_ 3
+    100380: ARL350031_ 4
+    100382: ARL350031_ 5
+    100384: AST31541788
+    100386: AST31541788 1
+    100388: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N
+    100390: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 1
+    100392: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 10
+    100394: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 11
+    100396: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 12
+    100398: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 13
+    100400: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 14
+    100402: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 15
+    100404: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 16
+    100406: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 17
+    100408: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 18
+    100410: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 19
+    100412: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 2
+    100414: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 20
+    100416: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 21
+    100418: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 22
+    100420: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 23
+    100422: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 3
+    100424: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 4
+    100426: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 5
+    100428: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 6
+    100430: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 7
+    100432: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 8
+    100434: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 9
+    100436: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N
+    100438: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 1
+    100440: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 10
+    100442: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 11
+    100444: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 2
+    100446: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 3
+    100448: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 4
+    100450: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 5
+    100452: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 6
+    100454: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 7
+    100456: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 8
+    100458: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 9
+    100460: D1
+    100462: D1 1
+    100464: D1 10
+    100466: D1 2
+    100468: D1 3
+    100470: D1 4
+    100472: D1 5
+    100474: D1 6
+    100476: D1 7
+    100478: D1 8
+    100480: D1 9
+    100482: D1-DC_Shell
+    100484: D1-DC_Shell 1
+    100486: D1-DC_Shell 10
+    100488: D1-DC_Shell 2
+    100490: D1-DC_Shell 3
+    100492: D1-DC_Shell 4
+    100494: D1-DC_Shell 5
+    100496: D1-DC_Shell 6
+    100498: D1-DC_Shell 7
+    100500: D1-DC_Shell 8
+    100502: D1-DC_Shell 9
+    100504: D2
+    100506: D2 1
+    100508: D2 2
+    100510: D2-DC_Shell
+    100512: D2-DC_Shell 1
+    100514: D3
+    100516: D3 1
+    100518: D3-DC_Shell
+    100520: D3-DC_Shell 1
+    100522: D4
+    100524: D4 1
+    100526: D4-DC_Shell
+    100528: D4-DC_Shell 1
+    100530: EndChamfer
+    100532: EndChamfer 1
+    100534: EndChamfer 2
+    100536: EndChamfer 3
+    100538: EndChamfer-DC_Shell
+    100540: EndChamfer-DC_Shell 1
+    100542: EndChamfer-DC_Shell 2
+    100544: EndChamfer-DC_Shell 3
+    100546: FA-SV_4KW(22-3000i)
+    100548: FA-SV_4KW(22-3000i) 1
+    100550: FA-SV_4KW(22-3000i) 2
+    100552: HeadFillet
+    100554: HeadFillet 1
+    100556: HeadFillet 10
+    100558: HeadFillet 11
+    100560: HeadFillet 2
+    100562: HeadFillet 3
+    100564: HeadFillet 4
+    100566: HeadFillet 5
+    100568: HeadFillet 6
+    100570: HeadFillet 7
+    100572: HeadFillet 8
+    100574: HeadFillet 9
+    100576: HeadFillet-DC_Shell
+    100578: HeadFillet-DC_Shell 1
+    100580: HeadFillet-DC_Shell 10
+    100582: HeadFillet-DC_Shell 11
+    100584: HeadFillet-DC_Shell 2
+    100586: HeadFillet-DC_Shell 3
+    100588: HeadFillet-DC_Shell 4
+    100590: HeadFillet-DC_Shell 5
+    100592: HeadFillet-DC_Shell 6
+    100594: HeadFillet-DC_Shell 7
+    100596: HeadFillet-DC_Shell 8
+    100598: HeadFillet-DC_Shell 9
+    100600: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+    100602: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      1
+    100604: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      10
+    100606: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      11
+    100608: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      2
+    100610: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      3
+    100612: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      4
+    100614: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      5
+    100616: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      6
+    100618: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      7
+    100620: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      8
+    100622: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      9
+    100624: h}u1[1]
+    100626: h}u1[1] 1
+    100628: h}u1[1] 2
+    100630: h}u1[1]-DC_Shell
+    100632: h}u1[1]-DC_Shell 1
+    100634: h}u1[1]-DC_Shell 2
+    100636: h}u1[2]
+    100638: h}u1[2] 1
+    100640: h}u1[2] 2
+    100642: h}u1[2]-DC_Shell
+    100644: h}u1[2]-DC_Shell 1
+    100646: h}u1[2]-DC_Shell 2
+    100648: h}u1[3]
+    100650: h}u1[3] 1
+    100652: h}u1[3] 2
+    100654: h}u1[3]-DC_Shell
+    100656: h}u1[3]-DC_Shell 1
+    100658: h}u1[3]-DC_Shell 2
+    100660: h}u1[4]
+    100662: h}u1[4] 1
+    100664: h}u1[4] 2
+    100666: h}u1[4]-DC_Shell
+    100668: h}u1[4]-DC_Shell 1
+    100670: h}u1[4]-DC_Shell 2
+    100672: L331270-1^ARL331270
+    100674: L331270-1^ARL331270 1
+    100676: L331270-1^ARL331270 2
+    100678: L331270-2^ARL331270
+    100680: L331270-2^ARL331270 1
+    100682: L331270-2^ARL331270 2
+    100684: M8 y1
+    100686: M8 y1-DC_Shell
+    100688: NONE
+    100690: NONE 1
+    100692: NONE 10
+    100694: NONE 11
+    100696: NONE 12
+    100698: NONE 13
+    100700: NONE 14
+    100702: NONE 15
+    100704: NONE 16
+    100706: NONE 17
+    100708: NONE 18
+    100710: NONE 19
+    100712: NONE 2
+    100714: NONE 20
+    100716: NONE 21
+    100718: NONE 22
+    100720: NONE 23
+    100722: NONE 24
+    100724: NONE 25
+    100726: NONE 26
+    100728: NONE 27
+    100730: NONE 28
+    100732: NONE 29
+    100734: NONE 3
+    100736: NONE 30
+    100738: NONE 31
+    100740: NONE 32
+    100742: NONE 33
+    100744: NONE 34
+    100746: NONE 35
+    100748: NONE 36
+    100750: NONE 37
+    100752: NONE 38
+    100754: NONE 39
+    100756: NONE 4
+    100758: NONE 40
+    100760: NONE 41
+    100762: NONE 42
+    100764: NONE 43
+    100766: NONE 44
+    100768: NONE 45
+    100770: NONE 5
+    100772: NONE 6
+    100774: NONE 7
+    100776: NONE 8
+    100778: NONE 9
+    100780: NONE-DC_Shell
+    100782: NONE-DC_Shell 1
+    100784: NONE-DC_Shell 2
+    100786: NUT-YSF_M30-1.5P
+    100788: NUT-YSF_M30-1.5P 1
+    100790: NUT-YSF_M30-1.5P 2
+    100792: NUT-YSF_M30-1.5P 3
+    100794: NUT-YSF_M30-1.5P 4
+    100796: NUT-YSF_M30-1.5P 5
+    100798: NUT-YSF_M35-1.5P
+    100800: NUT-YSF_M35-1.5P 1
+    100802: NUT-YSF_M35-1.5P 2
+    100804: SET0605
+    100806: SET0605 1
+    100808: SET0605 2
+    100810: SET0605-DC_Shell
+    100812: SET0605-DC_Shell 1
+    100814: SET0605-DC_Shell 2
+    100816: TAC|LS_30TAC62
+    100818: TAC|LS_30TAC62 1
+    100820: TAC|LS_30TAC62 10
+    100822: TAC|LS_30TAC62 11
+    100824: TAC|LS_30TAC62 2
+    100826: TAC|LS_30TAC62 3
+    100828: TAC|LS_30TAC62 4
+    100830: TAC|LS_30TAC62 5
+    100832: TAC|LS_30TAC62 6
+    100834: TAC|LS_30TAC62 7
+    100836: TAC|LS_30TAC62 8
+    100838: TAC|LS_30TAC62 9
+    100840: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  16'
+    400018: '  17'
+    400020: '  18'
+    400022: '  19'
+    400024: '  2'
+    400026: '  20'
+    400028: '  21'
+    400030: '  22'
+    400032: '  23'
+    400034: '  24'
+    400036: '  25'
+    400038: '  26'
+    400040: '  27'
+    400042: '  28'
+    400044: '  29'
+    400046: '  3'
+    400048: '  30'
+    400050: '  31'
+    400052: '  32'
+    400054: '  33'
+    400056: '  34'
+    400058: '  35'
+    400060: '  36'
+    400062: '  37'
+    400064: '  38'
+    400066: '  39'
+    400068: '  4'
+    400070: '  40'
+    400072: '  41'
+    400074: '  42'
+    400076: '  43'
+    400078: '  44'
+    400080: '  45'
+    400082: '  5'
+    400084: '  6'
+    400086: '  7'
+    400088: '  8'
+    400090: '  9'
+    400092: ' 1'
+    400094: ' 10'
+    400096: ' 11'
+    400098: ' 12'
+    400100: ' 13'
+    400102: ' 14'
+    400104: ' 15'
+    400106: ' 16'
+    400108: ' 17'
+    400110: ' 18'
+    400112: ' 19'
+    400114: ' 2'
+    400116: ' 20'
+    400118: ' 21'
+    400120: ' 22'
+    400122: ' 23'
+    400124: ' 24'
+    400126: ' 25'
+    400128: ' 26'
+    400130: ' 27'
+    400132: ' 28'
+    400134: ' 29'
+    400136: ' 3'
+    400138: ' 30'
+    400140: ' 31'
+    400142: ' 32'
+    400144: ' 33'
+    400146: ' 34'
+    400148: ' 35'
+    400150: ' 36'
+    400152: ' 37'
+    400154: ' 38'
+    400156: ' 39'
+    400158: ' 4'
+    400160: ' 40'
+    400162: ' 41'
+    400164: ' 42'
+    400166: ' 43'
+    400168: ' 44'
+    400170: ' 5'
+    400172: ' 6'
+    400174: ' 7'
+    400176: ' 8'
+    400178: ' 9'
+    400180: ' y0'
+    400182: ' y0 1'
+    400184: ' y0 2'
+    400186: ' y0-DC_Shell'
+    400188: ' y0-DC_Shell 1'
+    400190: ' y0-DC_Shell 2'
+    400192: -L1
+    400194: -L1 1
+    400196: -L1 2
+    400198: -L1 3
+    400200: -L1 4
+    400202: -L1 5
+    400204: -L1-DC_Shell
+    400206: -L1-DC_Shell 1
+    400208: -L1-DC_Shell 2
+    400210: -L1-DC_Shell 3
+    400212: -L1-DC_Shell 4
+    400214: -L1-DC_Shell 5
+    400216: -L1[1]
+    400218: -L1[1] 1
+    400220: -L1[1] 2
+    400222: -L1[1] 3
+    400224: -L1[1]-DC_Shell
+    400226: -L1[1]-DC_Shell 1
+    400228: -L1[1]-DC_Shell 2
+    400230: -L1[1]-DC_Shell 3
+    400232: -L1[2]
+    400234: -L1[2] 1
+    400236: -L1[2] 2
+    400238: -L1[2] 3
+    400240: -L1[2]-DC_Shell
+    400242: -L1[2]-DC_Shell 1
+    400244: -L1[2]-DC_Shell 2
+    400246: -L1[2]-DC_Shell 3
+    400248: -L2
+    400250: -L2-DC_Shell
+    400252: 1
+    400254: 1-DC_Shell
+    400256: 2
+    400258: 2-DC_Shell
+    400260: 7^ARCOR-4035
+    400262: 7^ARCOR-4035 1
+    400264: 7^ARCOR-4035 2
+    400266: 8^ARCOR-4035
+    400268: 8^ARCOR-4035 1
+    400270: 8^ARCOR-4035 2
+    400272: 9^ARCOR-4035
+    400274: 9^ARCOR-4035 1
+    400276: 9^ARCOR-4035 10
+    400278: 9^ARCOR-4035 11
+    400280: 9^ARCOR-4035 2
+    400282: 9^ARCOR-4035 3
+    400284: 9^ARCOR-4035 4
+    400286: 9^ARCOR-4035 5
+    400288: 9^ARCOR-4035 6
+    400290: 9^ARCOR-4035 7
+    400292: 9^ARCOR-4035 8
+    400294: 9^ARCOR-4035 9
+    400296: ?9.0 (9) 1
+    400298: ?9.0 (9) 1 1
+    400300: ?9.0 (9) 1-DC_Shell
+    400302: ?9.0 (9) 1-DC_Shell 1
+    400304: ARC300050
+    400306: ARC300050 1
+    400308: ARC300050 2
+    400310: ARC300070
+    400312: ARC300070 1
+    400314: ARC300070 2
+    400316: ARC300080
+    400318: ARC300080 1
+    400320: ARC300080 2
+    400322: ARC300080 3
+    400324: ARC300080 4
+    400326: ARC300080 5
+    400328: ARC300080 6
+    400330: ARC300080 7
+    400332: ARC300080 8
+    400334: ARC300090
+    400336: ARC300090 1
+    400338: ARC300090 2
+    400340: ARC300130
+    400342: ARC300130 1
+    400344: ARC300130 2
+    400346: ARCOR-4035_28*35*95L
+    400348: ARCOR-4035_28*35*95L 1
+    400350: ARD300060
+    400352: ARD300060 1
+    400354: ARD300060 2
+    400356: ARF300050
+    400358: ARF300050 1
+    400360: ARF300050 2
+    400362: ARL320330
+    400364: ARL320330 1
+    400366: ARL320330 2
+    400368: ARL331270
+    400370: ARL331270 1
+    400372: ARL350031_
+    400374: ARL350031_ 1
+    400376: ARL350031_ 2
+    400378: ARL350031_ 3
+    400380: ARL350031_ 4
+    400382: ARL350031_ 5
+    400384: AST31541788
+    400386: AST31541788 1
+    400388: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N
+    400390: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 1
+    400392: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 10
+    400394: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 11
+    400396: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 12
+    400398: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 13
+    400400: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 14
+    400402: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 15
+    400404: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 16
+    400406: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 17
+    400408: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 18
+    400410: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 19
+    400412: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 2
+    400414: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 20
+    400416: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 21
+    400418: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 22
+    400420: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 23
+    400422: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 3
+    400424: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 4
+    400426: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 5
+    400428: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 6
+    400430: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 7
+    400432: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 8
+    400434: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 25 --N 9
+    400436: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N
+    400438: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 1
+    400440: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 10
+    400442: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 11
+    400444: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 2
+    400446: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 3
+    400448: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 4
+    400450: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 5
+    400452: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 6
+    400454: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 7
+    400456: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 8
+    400458: continuous thread hexagon head bolt_a_jis_JIS B 1180 Continuous thread
+      hexagon head bolt A M8 x 40 --N 9
+    400460: D1
+    400462: D1 1
+    400464: D1 10
+    400466: D1 2
+    400468: D1 3
+    400470: D1 4
+    400472: D1 5
+    400474: D1 6
+    400476: D1 7
+    400478: D1 8
+    400480: D1 9
+    400482: D1-DC_Shell
+    400484: D1-DC_Shell 1
+    400486: D1-DC_Shell 10
+    400488: D1-DC_Shell 2
+    400490: D1-DC_Shell 3
+    400492: D1-DC_Shell 4
+    400494: D1-DC_Shell 5
+    400496: D1-DC_Shell 6
+    400498: D1-DC_Shell 7
+    400500: D1-DC_Shell 8
+    400502: D1-DC_Shell 9
+    400504: D2
+    400506: D2 1
+    400508: D2 2
+    400510: D2-DC_Shell
+    400512: D2-DC_Shell 1
+    400514: D3
+    400516: D3 1
+    400518: D3-DC_Shell
+    400520: D3-DC_Shell 1
+    400522: D4
+    400524: D4 1
+    400526: D4-DC_Shell
+    400528: D4-DC_Shell 1
+    400530: EndChamfer
+    400532: EndChamfer 1
+    400534: EndChamfer 2
+    400536: EndChamfer 3
+    400538: EndChamfer-DC_Shell
+    400540: EndChamfer-DC_Shell 1
+    400542: EndChamfer-DC_Shell 2
+    400544: EndChamfer-DC_Shell 3
+    400546: FA-SV_4KW(22-3000i)
+    400548: FA-SV_4KW(22-3000i) 1
+    400550: FA-SV_4KW(22-3000i) 2
+    400552: HeadFillet
+    400554: HeadFillet 1
+    400556: HeadFillet 10
+    400558: HeadFillet 11
+    400560: HeadFillet 2
+    400562: HeadFillet 3
+    400564: HeadFillet 4
+    400566: HeadFillet 5
+    400568: HeadFillet 6
+    400570: HeadFillet 7
+    400572: HeadFillet 8
+    400574: HeadFillet 9
+    400576: HeadFillet-DC_Shell
+    400578: HeadFillet-DC_Shell 1
+    400580: HeadFillet-DC_Shell 10
+    400582: HeadFillet-DC_Shell 11
+    400584: HeadFillet-DC_Shell 2
+    400586: HeadFillet-DC_Shell 3
+    400588: HeadFillet-DC_Shell 4
+    400590: HeadFillet-DC_Shell 5
+    400592: HeadFillet-DC_Shell 6
+    400594: HeadFillet-DC_Shell 7
+    400596: HeadFillet-DC_Shell 8
+    400598: HeadFillet-DC_Shell 9
+    400600: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+    400602: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      1
+    400604: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      10
+    400606: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      11
+    400608: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      2
+    400610: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      3
+    400612: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      4
+    400614: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      5
+    400616: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      6
+    400618: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      7
+    400620: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      8
+    400622: hexagon nut style 1_ab_jis_JIS B 1181 Hexagon nut - style 1 A M8 - D --N
+      9
+    400624: h}u1[1]
+    400626: h}u1[1] 1
+    400628: h}u1[1] 2
+    400630: h}u1[1]-DC_Shell
+    400632: h}u1[1]-DC_Shell 1
+    400634: h}u1[1]-DC_Shell 2
+    400636: h}u1[2]
+    400638: h}u1[2] 1
+    400640: h}u1[2] 2
+    400642: h}u1[2]-DC_Shell
+    400644: h}u1[2]-DC_Shell 1
+    400646: h}u1[2]-DC_Shell 2
+    400648: h}u1[3]
+    400650: h}u1[3] 1
+    400652: h}u1[3] 2
+    400654: h}u1[3]-DC_Shell
+    400656: h}u1[3]-DC_Shell 1
+    400658: h}u1[3]-DC_Shell 2
+    400660: h}u1[4]
+    400662: h}u1[4] 1
+    400664: h}u1[4] 2
+    400666: h}u1[4]-DC_Shell
+    400668: h}u1[4]-DC_Shell 1
+    400670: h}u1[4]-DC_Shell 2
+    400672: L331270-1^ARL331270
+    400674: L331270-1^ARL331270 1
+    400676: L331270-1^ARL331270 2
+    400678: L331270-2^ARL331270
+    400680: L331270-2^ARL331270 1
+    400682: L331270-2^ARL331270 2
+    400684: M8 y1
+    400686: M8 y1-DC_Shell
+    400688: NONE
+    400690: NONE 1
+    400692: NONE 10
+    400694: NONE 11
+    400696: NONE 12
+    400698: NONE 13
+    400700: NONE 14
+    400702: NONE 15
+    400704: NONE 16
+    400706: NONE 17
+    400708: NONE 18
+    400710: NONE 19
+    400712: NONE 2
+    400714: NONE 20
+    400716: NONE 21
+    400718: NONE 22
+    400720: NONE 23
+    400722: NONE 24
+    400724: NONE 25
+    400726: NONE 26
+    400728: NONE 27
+    400730: NONE 28
+    400732: NONE 29
+    400734: NONE 3
+    400736: NONE 30
+    400738: NONE 31
+    400740: NONE 32
+    400742: NONE 33
+    400744: NONE 34
+    400746: NONE 35
+    400748: NONE 36
+    400750: NONE 37
+    400752: NONE 38
+    400754: NONE 39
+    400756: NONE 4
+    400758: NONE 40
+    400760: NONE 41
+    400762: NONE 42
+    400764: NONE 43
+    400766: NONE 44
+    400768: NONE 45
+    400770: NONE 5
+    400772: NONE 6
+    400774: NONE 7
+    400776: NONE 8
+    400778: NONE 9
+    400780: NONE-DC_Shell
+    400782: NONE-DC_Shell 1
+    400784: NONE-DC_Shell 2
+    400786: NUT-YSF_M30-1.5P
+    400788: NUT-YSF_M30-1.5P 1
+    400790: NUT-YSF_M30-1.5P 2
+    400792: NUT-YSF_M30-1.5P 3
+    400794: NUT-YSF_M30-1.5P 4
+    400796: NUT-YSF_M30-1.5P 5
+    400798: NUT-YSF_M35-1.5P
+    400800: NUT-YSF_M35-1.5P 1
+    400802: NUT-YSF_M35-1.5P 2
+    400804: SET0605
+    400806: SET0605 1
+    400808: SET0605 2
+    400810: SET0605-DC_Shell
+    400812: SET0605-DC_Shell 1
+    400814: SET0605-DC_Shell 2
+    400816: TAC|LS_30TAC62
+    400818: TAC|LS_30TAC62 1
+    400820: TAC|LS_30TAC62 10
+    400822: TAC|LS_30TAC62 11
+    400824: TAC|LS_30TAC62 2
+    400826: TAC|LS_30TAC62 3
+    400828: TAC|LS_30TAC62 4
+    400830: TAC|LS_30TAC62 5
+    400832: TAC|LS_30TAC62 6
+    400834: TAC|LS_30TAC62 7
+    400836: TAC|LS_30TAC62 8
+    400838: TAC|LS_30TAC62 9
+    400840: //RootNode
+    2300000: ' y0-DC_Shell'
+    2300002: ' y0-DC_Shell 1'
+    2300004: ' y0-DC_Shell 2'
+    2300006: -L1-DC_Shell
+    2300008: -L1-DC_Shell 1
+    2300010: -L1-DC_Shell 2
+    2300012: -L1-DC_Shell 3
+    2300014: -L1-DC_Shell 4
+    2300016: -L1-DC_Shell 5
+    2300018: -L1[1]-DC_Shell
+    2300020: -L1[1]-DC_Shell 1
+    2300022: -L1[1]-DC_Shell 2
+    2300024: -L1[1]-DC_Shell 3
+    2300026: -L1[2]-DC_Shell
+    2300028: -L1[2]-DC_Shell 1
+    2300030: -L1[2]-DC_Shell 2
+    2300032: -L1[2]-DC_Shell 3
+    2300034: -L2-DC_Shell
+    2300036: 1-DC_Shell
+    2300038: 2-DC_Shell
+    2300040: ?9.0 (9) 1-DC_Shell
+    2300042: ?9.0 (9) 1-DC_Shell 1
+    2300044: D1-DC_Shell
+    2300046: D1-DC_Shell 1
+    2300048: D1-DC_Shell 10
+    2300050: D1-DC_Shell 2
+    2300052: D1-DC_Shell 3
+    2300054: D1-DC_Shell 4
+    2300056: D1-DC_Shell 5
+    2300058: D1-DC_Shell 6
+    2300060: D1-DC_Shell 7
+    2300062: D1-DC_Shell 8
+    2300064: D1-DC_Shell 9
+    2300066: D2-DC_Shell
+    2300068: D2-DC_Shell 1
+    2300070: D3-DC_Shell
+    2300072: D3-DC_Shell 1
+    2300074: D4-DC_Shell
+    2300076: D4-DC_Shell 1
+    2300078: EndChamfer-DC_Shell
+    2300080: EndChamfer-DC_Shell 1
+    2300082: EndChamfer-DC_Shell 2
+    2300084: EndChamfer-DC_Shell 3
+    2300086: HeadFillet-DC_Shell
+    2300088: HeadFillet-DC_Shell 1
+    2300090: HeadFillet-DC_Shell 10
+    2300092: HeadFillet-DC_Shell 11
+    2300094: HeadFillet-DC_Shell 2
+    2300096: HeadFillet-DC_Shell 3
+    2300098: HeadFillet-DC_Shell 4
+    2300100: HeadFillet-DC_Shell 5
+    2300102: HeadFillet-DC_Shell 6
+    2300104: HeadFillet-DC_Shell 7
+    2300106: HeadFillet-DC_Shell 8
+    2300108: HeadFillet-DC_Shell 9
+    2300110: h}u1[1]-DC_Shell
+    2300112: h}u1[1]-DC_Shell 1
+    2300114: h}u1[1]-DC_Shell 2
+    2300116: h}u1[2]-DC_Shell
+    2300118: h}u1[2]-DC_Shell 1
+    2300120: h}u1[2]-DC_Shell 2
+    2300122: h}u1[3]-DC_Shell
+    2300124: h}u1[3]-DC_Shell 1
+    2300126: h}u1[3]-DC_Shell 2
+    2300128: h}u1[4]-DC_Shell
+    2300130: h}u1[4]-DC_Shell 1
+    2300132: h}u1[4]-DC_Shell 2
+    2300134: M8 y1-DC_Shell
+    2300136: NONE-DC_Shell
+    2300138: NONE-DC_Shell 1
+    2300140: NONE-DC_Shell 2
+    2300142: SET0605-DC_Shell
+    2300144: SET0605-DC_Shell 1
+    2300146: SET0605-DC_Shell 2
+    3300000: ' y0-DC_Shell'
+    3300002: ' y0-DC_Shell 1'
+    3300004: ' y0-DC_Shell 2'
+    3300006: -L1-DC_Shell
+    3300008: -L1-DC_Shell 1
+    3300010: -L1-DC_Shell 2
+    3300012: -L1-DC_Shell 3
+    3300014: -L1-DC_Shell 4
+    3300016: -L1-DC_Shell 5
+    3300018: -L1[1]-DC_Shell
+    3300020: -L1[1]-DC_Shell 1
+    3300022: -L1[1]-DC_Shell 2
+    3300024: -L1[1]-DC_Shell 3
+    3300026: -L1[2]-DC_Shell
+    3300028: -L1[2]-DC_Shell 1
+    3300030: -L1[2]-DC_Shell 2
+    3300032: -L1[2]-DC_Shell 3
+    3300034: -L2-DC_Shell
+    3300036: 1-DC_Shell
+    3300038: 2-DC_Shell
+    3300040: ?9.0 (9) 1-DC_Shell
+    3300042: ?9.0 (9) 1-DC_Shell 1
+    3300044: D1-DC_Shell
+    3300046: D1-DC_Shell 1
+    3300048: D1-DC_Shell 10
+    3300050: D1-DC_Shell 2
+    3300052: D1-DC_Shell 3
+    3300054: D1-DC_Shell 4
+    3300056: D1-DC_Shell 5
+    3300058: D1-DC_Shell 6
+    3300060: D1-DC_Shell 7
+    3300062: D1-DC_Shell 8
+    3300064: D1-DC_Shell 9
+    3300066: D2-DC_Shell
+    3300068: D2-DC_Shell 1
+    3300070: D3-DC_Shell
+    3300072: D3-DC_Shell 1
+    3300074: D4-DC_Shell
+    3300076: D4-DC_Shell 1
+    3300078: EndChamfer-DC_Shell
+    3300080: EndChamfer-DC_Shell 1
+    3300082: EndChamfer-DC_Shell 2
+    3300084: EndChamfer-DC_Shell 3
+    3300086: HeadFillet-DC_Shell
+    3300088: HeadFillet-DC_Shell 1
+    3300090: HeadFillet-DC_Shell 10
+    3300092: HeadFillet-DC_Shell 11
+    3300094: HeadFillet-DC_Shell 2
+    3300096: HeadFillet-DC_Shell 3
+    3300098: HeadFillet-DC_Shell 4
+    3300100: HeadFillet-DC_Shell 5
+    3300102: HeadFillet-DC_Shell 6
+    3300104: HeadFillet-DC_Shell 7
+    3300106: HeadFillet-DC_Shell 8
+    3300108: HeadFillet-DC_Shell 9
+    3300110: h}u1[1]-DC_Shell
+    3300112: h}u1[1]-DC_Shell 1
+    3300114: h}u1[1]-DC_Shell 2
+    3300116: h}u1[2]-DC_Shell
+    3300118: h}u1[2]-DC_Shell 1
+    3300120: h}u1[2]-DC_Shell 2
+    3300122: h}u1[3]-DC_Shell
+    3300124: h}u1[3]-DC_Shell 1
+    3300126: h}u1[3]-DC_Shell 2
+    3300128: h}u1[4]-DC_Shell
+    3300130: h}u1[4]-DC_Shell 1
+    3300132: h}u1[4]-DC_Shell 2
+    3300134: M8 y1-DC_Shell
+    3300136: NONE-DC_Shell
+    3300138: NONE-DC_Shell 1
+    3300140: NONE-DC_Shell 2
+    3300142: SET0605-DC_Shell
+    3300144: SET0605-DC_Shell 1
+    3300146: SET0605-DC_Shell 2
+    4300000: 1-DC_Shell
+    4300002: -L1-DC_Shell
+    4300004: D1-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: NONE-DC_Shell
+    4300010: NONE-DC_Shell
+    4300012: D1-DC_Shell
+    4300014: D2-DC_Shell
+    4300016: D3-DC_Shell
+    4300018: D4-DC_Shell
+    4300020: D1-DC_Shell
+    4300022: D2-DC_Shell
+    4300024: D3-DC_Shell
+    4300026: D4-DC_Shell
+    4300028: -L1[1]-DC_Shell
+    4300030: -L1[2]-DC_Shell
+    4300032: -L1[1]-DC_Shell
+    4300034: -L1[2]-DC_Shell
+    4300036: -L1[1]-DC_Shell
+    4300038: -L1[2]-DC_Shell
+    4300040: -L1[1]-DC_Shell
+    4300042: -L1[2]-DC_Shell
+    4300044: HeadFillet-DC_Shell
+    4300046: HeadFillet-DC_Shell
+    4300048: HeadFillet-DC_Shell
+    4300050: HeadFillet-DC_Shell
+    4300052: HeadFillet-DC_Shell
+    4300054: HeadFillet-DC_Shell
+    4300056: HeadFillet-DC_Shell
+    4300058: HeadFillet-DC_Shell
+    4300060: HeadFillet-DC_Shell
+    4300062: HeadFillet-DC_Shell
+    4300064: HeadFillet-DC_Shell
+    4300066: HeadFillet-DC_Shell
+    4300068: EndChamfer-DC_Shell
+    4300070: EndChamfer-DC_Shell
+    4300072: EndChamfer-DC_Shell
+    4300074: EndChamfer-DC_Shell
+    4300076: D1-DC_Shell
+    4300078: D1-DC_Shell
+    4300080: D1-DC_Shell
+    4300082: D1-DC_Shell
+    4300084: M8 y1-DC_Shell
+    4300086: ?9.0 (9) 1-DC_Shell
+    4300088: -L1-DC_Shell
+    4300090: ' y0-DC_Shell'
+    4300092: -L1-DC_Shell
+    4300094: SET0605-DC_Shell
+    4300096: h}u1[1]-DC_Shell
+    4300098: h}u1[2]-DC_Shell
+    4300100: h}u1[3]-DC_Shell
+    4300102: h}u1[4]-DC_Shell
+    4300104: h}u1[3]-DC_Shell
+    4300106: -L1-DC_Shell
+    4300108: h}u1[4]-DC_Shell
+    4300110: h}u1[2]-DC_Shell
+    4300112: h}u1[1]-DC_Shell
+    4300114: SET0605-DC_Shell
+    4300116: ' y0-DC_Shell'
+    4300118: -L1-DC_Shell
+    4300120: D1-DC_Shell
+    4300122: D1-DC_Shell
+    4300124: D1-DC_Shell
+    4300126: -L1-DC_Shell
+    4300128: ' y0-DC_Shell'
+    4300130: ?9.0 (9) 1-DC_Shell
+    4300132: h}u1[4]-DC_Shell
+    4300134: h}u1[3]-DC_Shell
+    4300136: h}u1[2]-DC_Shell
+    4300138: h}u1[1]-DC_Shell
+    4300140: SET0605-DC_Shell
+    4300142: D1-DC_Shell
+    4300144: -L2-DC_Shell
+    4300146: 2-DC_Shell
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
