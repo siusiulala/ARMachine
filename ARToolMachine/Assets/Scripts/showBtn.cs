@@ -24,6 +24,8 @@ namespace Vuforia
 
 		#region UNTIY_MONOBEHAVIOUR_METHODS
 		public GameObject target;
+		public string modelName;
+		private GameObject tmpModel;
 		void Start()
 		{
 			mTrackableBehaviour = GetComponent<TrackableBehaviour>();
@@ -53,11 +55,18 @@ namespace Vuforia
 			{
 				OnTrackingFound();
 				target.SetActive (true);
+				if (tmpModel == null) {
+					print ("load");
+					tmpModel = Instantiate(Resources.Load(modelName, typeof(GameObject))) as GameObject;
+				}
+				tmpModel.SetActive (true);
 			}
 			else
 			{
 				OnTrackingLost();
 				target.SetActive (false);
+				if (tmpModel != null)
+					tmpModel.SetActive (false);
 			}
 		}
 
