@@ -56,7 +56,7 @@ namespace Vuforia
 				OnTrackingFound();
 				target.SetActive (true);
 				if (tmpModel == null) {
-					print ("load");
+//					print ("load");
 					tmpModel = Instantiate(Resources.Load(modelName, typeof(GameObject))) as GameObject;
 				}
 				tmpModel.SetActive (true);
@@ -67,6 +67,7 @@ namespace Vuforia
 				target.SetActive (false);
 				if (tmpModel != null)
 					tmpModel.SetActive (false);
+				Destroy (tmpModel);
 			}
 		}
 

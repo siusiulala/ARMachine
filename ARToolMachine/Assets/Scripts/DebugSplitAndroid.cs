@@ -96,7 +96,8 @@ public class DebugSplitAndroid : MonoBehaviour {
 			}
 			windowText3="copieDatasetEnLocal() : copie OK, persitentDataPath : " +Application.persistentDataPath + "/" + filename;
 		}
-		Application.LoadLevel("AR");
+//		Application.LoadLevel("AR");
+		Application.LoadLevel("Menu");
 
 	}
 
