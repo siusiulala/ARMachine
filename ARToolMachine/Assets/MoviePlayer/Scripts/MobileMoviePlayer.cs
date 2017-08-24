@@ -6,7 +6,7 @@ public class MobileMoviePlayer : MonoBehaviour
 		public string movieFileName;
 		public Color backgroundColor = Color.black;
 
-		#if UNITY_ANDROID || UNITY_IPHONE
+		#if UNITY_ANDROID || UNITY_IPHONE || UNITY_EDITOR
 		public FullScreenMovieControlMode controlMod = FullScreenMovieControlMode.Hidden;
 		public FullScreenMovieScalingMode scalingMod = FullScreenMovieScalingMode.Fill;
 		#endif
